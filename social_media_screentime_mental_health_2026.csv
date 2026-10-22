@@ -1,0 +1,1501 @@
+participant_id,age,gender,occupation,region,most_used_platform,platforms_used_count,daily_screen_hours,daily_notifications,avg_sleep_hours,night_time_use,minutes_to_first_check_after_waking,primary_purpose,attempted_digital_detox,life_satisfaction_1to10,self_esteem_1to10,wellbeing_band
+P000000,17,Male,Student,Africa,Facebook,3,7.9,181,7.5,No,50,Work/Study,No,5,3,Low
+P000001,53,Female,Self-employed,Europe,Facebook,2,3.4,5,7.3,No,1,Work/Study,Yes,9,9,High
+P000002,47,Male,Full-time employed,North America,LinkedIn,2,1.1,12,8.0,No,39,News,Yes,9,8,High
+P000003,35,Male,Part-time employed,Asia,TikTok,2,5.5,109,6.7,No,173,Shopping,No,8,8,High
+P000004,35,Female,Student,North America,TikTok,1,3.3,58,8.6,No,11,Shopping,No,8,8,High
+P000005,57,Male,Part-time employed,Africa,Snapchat,2,0.5,5,8.4,No,56,News,No,8,9,High
+P000006,17,Male,Student,Europe,TikTok,4,7.6,97,6.5,No,35,News,No,8,8,High
+P000007,49,Male,Self-employed,Europe,LinkedIn,3,5.1,115,7.3,No,17,Entertainment,No,6,7,Moderate
+P000008,23,Female,Full-time employed,North America,LinkedIn,4,7.8,117,7.2,No,2,Work/Study,No,8,4,Moderate
+P000009,17,Male,Student,Oceania,Instagram,3,8.4,98,6.1,Yes,13,Work/Study,No,7,7,High
+P000010,40,Male,Self-employed,Latin America,Facebook,2,1.1,45,7.8,No,19,Shopping,No,10,10,High
+P000011,63,Male,Student,Oceania,Snapchat,1,0.5,22,7.8,No,24,Entertainment,No,8,10,High
+P000012,51,Male,Full-time employed,Asia,Facebook,4,7.8,136,6.6,Yes,58,Entertainment,Yes,5,6,Moderate
+P000013,52,Female,Full-time employed,Oceania,TikTok,3,1.7,5,7.3,Yes,7,Work/Study,No,8,10,High
+P000014,50,Male,Part-time employed,Asia,Instagram,3,5.2,90,7.1,No,36,News,Yes,6,6,Moderate
+P000015,53,Female,Full-time employed,Europe,Instagram,2,2.3,77,7.1,No,26,News,Yes,7,7,High
+P000016,39,Female,Self-employed,North America,TikTok,2,5.3,46,7.4,No,17,News,Yes,8,9,High
+P000017,19,Female,Student,Europe,TikTok,4,5.8,57,6.6,Yes,100,Work/Study,No,8,8,High
+P000018,56,Female,Self-employed,Oceania,YouTube,3,4.5,62,6.8,Yes,50,Work/Study,No,6,5,Moderate
+P000019,36,Male,Unemployed,Oceania,Snapchat,3,5.7,101,7.4,No,83,Entertainment,Yes,8,7,High
+P000020,39,Non-binary,Part-time employed,Latin America,Facebook,2,4.2,60,8.0,No,68,Work/Study,Yes,8,7,High
+P000021,32,Female,Part-time employed,North America,Instagram,3,3.7,85,8.1,No,32,News,Yes,10,10,High
+P000022,22,Female,Student,Africa,Instagram,5,7.3,164,6.8,Yes,18,News,Yes,7,7,High
+P000023,61,Male,Unemployed,Africa,Instagram,2,0.5,17,8.1,No,109,Work/Study,Yes,10,10,High
+P000024,53,Male,Unemployed,North America,YouTube,5,4.6,99,7.1,No,17,Work/Study,Yes,8,7,High
+P000025,46,Female,Full-time employed,Africa,Snapchat,6,9.7,182,5.4,Yes,27,Social connection,No,6,7,Moderate
+P000026,33,Male,Part-time employed,Europe,Instagram,5,8.4,151,5.9,Yes,29,Entertainment,No,4,5,Moderate
+P000027,55,Female,Full-time employed,Europe,YouTube,4,4.9,49,7.4,No,6,Entertainment,Yes,7,6,Moderate
+P000028,41,Male,Unemployed,Asia,Facebook,3,4.7,53,7.0,No,4,Shopping,Yes,7,5,Moderate
+P000029,36,Female,Part-time employed,Asia,TikTok,2,1.5,5,8.1,No,13,Social connection,Yes,9,10,High
+P000030,36,Male,Full-time employed,Europe,Instagram,4,2.8,45,6.7,Yes,55,Social connection,Yes,8,6,High
+P000031,24,Male,Full-time employed,Latin America,TikTok,4,9.2,172,5.6,No,52,Shopping,No,6,7,Moderate
+P000032,17,Male,Student,Oceania,TikTok,4,5.7,59,7.3,Yes,0,Social connection,No,8,10,High
+P000033,41,Female,Self-employed,Latin America,Snapchat,4,3.5,65,7.4,No,30,News,No,8,10,High
+P000034,59,Female,Full-time employed,North America,LinkedIn,3,2.8,24,6.8,Yes,32,Social connection,No,7,8,High
+P000035,16,Female,Student,Europe,X (Twitter),3,5.3,63,6.7,No,64,Work/Study,Yes,8,9,High
+P000036,57,Female,Unemployed,Asia,Snapchat,1,0.8,5,8.4,No,27,News,No,10,10,High
+P000037,56,Female,Self-employed,Latin America,Snapchat,1,3.3,25,8.0,Yes,144,News,No,7,4,Moderate
+P000038,27,Female,Full-time employed,Asia,LinkedIn,5,4.5,99,6.7,Yes,23,News,Yes,7,6,Moderate
+P000039,45,Female,Full-time employed,Africa,Instagram,3,3.0,48,7.1,Yes,145,Shopping,No,6,7,Moderate
+P000040,21,Female,Student,North America,LinkedIn,3,5.3,119,8.0,No,2,News,Yes,8,8,High
+P000041,52,Female,Self-employed,North America,Facebook,4,4.8,73,6.3,No,19,News,No,7,9,High
+P000042,49,Male,Part-time employed,Asia,Facebook,2,3.6,52,8.8,No,18,Shopping,Yes,8,8,High
+P000043,31,Female,Full-time employed,Europe,Snapchat,3,5.5,155,8.3,Yes,23,Entertainment,No,9,9,High
+P000044,16,Male,Student,Asia,Facebook,4,8.6,106,5.1,No,26,Shopping,Yes,4,4,Low
+P000045,63,Male,Full-time employed,Africa,TikTok,1,2.4,81,7.8,No,7,Entertainment,No,9,8,High
+P000046,36,Female,Self-employed,North America,Instagram,1,4.8,136,6.5,Yes,2,Social connection,No,10,9,High
+P000047,59,Female,Full-time employed,Africa,TikTok,2,4.0,94,6.9,Yes,5,Entertainment,No,9,9,High
+P000048,48,Male,Full-time employed,Latin America,Instagram,5,5.5,89,6.6,Yes,19,News,No,7,6,Moderate
+P000049,53,Male,Self-employed,Oceania,YouTube,2,3.4,104,8.2,No,8,Shopping,Yes,7,8,High
+P000050,52,Female,Student,Africa,Snapchat,4,4.0,62,7.5,No,59,Social connection,No,6,7,Moderate
+P000051,23,Male,Self-employed,Asia,YouTube,4,5.1,70,6.8,No,10,Work/Study,Yes,7,8,High
+P000052,31,Male,Full-time employed,Asia,X (Twitter),3,4.2,63,7.4,No,34,Social connection,No,7,6,Moderate
+P000053,37,Female,Full-time employed,Oceania,TikTok,4,6.8,105,6.9,Yes,42,Work/Study,Yes,6,4,Moderate
+P000054,38,Female,Full-time employed,Europe,X (Twitter),4,6.1,81,6.0,Yes,15,Shopping,No,6,6,Moderate
+P000055,15,Female,Student,Africa,LinkedIn,4,8.4,184,5.3,Yes,10,Work/Study,No,5,9,High
+P000056,41,Female,Part-time employed,Latin America,YouTube,5,5.5,75,8.5,No,1,Social connection,No,8,10,High
+P000057,21,Male,Student,Africa,Facebook,6,7.0,125,6.7,No,48,Shopping,No,5,4,Moderate
+P000058,51,Male,Part-time employed,Europe,LinkedIn,5,5.3,52,6.8,Yes,13,Entertainment,Yes,6,7,Moderate
+P000059,48,Female,Unemployed,Europe,X (Twitter),2,6.1,110,6.5,Yes,18,Shopping,No,6,7,Moderate
+P000060,60,Female,Student,Latin America,YouTube,3,4.8,51,7.8,No,6,Shopping,Yes,7,5,Moderate
+P000061,51,Male,Full-time employed,Asia,Instagram,3,3.7,31,8.7,No,39,Work/Study,Yes,10,10,High
+P000062,32,Male,Full-time employed,Europe,LinkedIn,5,8.6,151,7.1,No,8,Work/Study,No,6,6,Moderate
+P000063,63,Male,Full-time employed,Latin America,X (Twitter),1,3.2,89,6.3,Yes,40,Social connection,No,6,6,Moderate
+P000064,34,Male,Full-time employed,Europe,Instagram,3,6.9,137,6.2,No,0,News,No,7,7,High
+P000065,29,Male,Full-time employed,Europe,Facebook,5,6.7,135,6.9,No,21,Entertainment,No,7,8,High
+P000066,60,Male,Full-time employed,Oceania,LinkedIn,2,3.5,59,7.5,No,74,Social connection,Yes,8,7,High
+P000067,32,Female,Self-employed,Europe,LinkedIn,2,4.3,67,6.5,No,18,News,Yes,6,4,Moderate
+P000068,16,Male,Student,Oceania,TikTok,4,8.8,182,7.2,No,32,Social connection,No,8,8,High
+P000069,37,Female,Student,Oceania,YouTube,6,11.0,181,5.7,No,17,Work/Study,Yes,3,1,Low
+P000070,54,Female,Full-time employed,Africa,LinkedIn,2,2.9,77,8.7,No,17,Shopping,No,9,9,High
+P000071,22,Female,Student,Asia,Snapchat,5,6.9,161,7.7,Yes,23,News,No,7,9,High
+P000072,37,Non-binary,Full-time employed,Europe,Facebook,2,4.4,53,7.4,No,34,Social connection,Yes,8,9,High
+P000073,19,Male,Student,Oceania,YouTube,2,6.1,88,7.5,No,56,Social connection,No,9,10,High
+P000074,48,Male,Full-time employed,Asia,Snapchat,6,7.3,115,6.2,No,13,News,No,7,8,High
+P000075,37,Female,Student,Latin America,X (Twitter),3,4.0,27,7.5,Yes,30,Work/Study,No,7,10,High
+P000076,30,Male,Full-time employed,Latin America,Facebook,3,5.1,77,6.6,Yes,4,Entertainment,No,8,7,High
+P000077,24,Male,Full-time employed,Oceania,LinkedIn,2,3.4,100,7.0,No,28,News,No,7,8,High
+P000078,42,Male,Part-time employed,Oceania,YouTube,4,3.3,28,7.5,No,138,News,Yes,8,7,High
+P000079,47,Female,Full-time employed,Europe,X (Twitter),2,0.9,55,7.9,No,35,Social connection,No,7,8,High
+P000080,61,Male,Part-time employed,Latin America,Instagram,4,4.2,62,7.3,No,3,Social connection,No,6,6,Moderate
+P000081,35,Female,Full-time employed,Latin America,X (Twitter),5,11.1,263,6.4,Yes,4,Shopping,No,5,7,Moderate
+P000082,21,Male,Student,Oceania,Facebook,4,6.2,91,6.7,No,30,News,No,7,6,Moderate
+P000083,56,Female,Full-time employed,Latin America,LinkedIn,2,0.5,5,9.3,No,14,News,No,8,10,High
+P000084,45,Male,Full-time employed,Asia,YouTube,3,6.3,86,5.9,Yes,7,Entertainment,Yes,7,8,High
+P000085,49,Female,Self-employed,Oceania,LinkedIn,2,2.6,26,8.8,No,41,Social connection,Yes,8,8,High
+P000086,18,Female,Student,Latin America,X (Twitter),5,9.8,216,5.4,Yes,24,Social connection,No,6,7,Moderate
+P000087,29,Male,Full-time employed,Europe,TikTok,4,5.5,113,7.3,No,161,Social connection,No,7,7,High
+P000088,52,Male,Part-time employed,Europe,TikTok,1,2.5,75,7.6,No,6,Shopping,No,7,7,High
+P000089,56,Female,Full-time employed,Europe,TikTok,3,3.0,14,7.6,No,25,News,No,8,8,High
+P000090,35,Female,Full-time employed,Africa,YouTube,5,7.0,145,7.0,Yes,5,Shopping,No,5,4,Moderate
+P000091,54,Male,Full-time employed,Oceania,Facebook,3,3.1,26,8.6,No,33,News,No,10,10,High
+P000092,56,Male,Self-employed,North America,LinkedIn,3,2.4,5,8.6,No,22,Work/Study,No,9,7,High
+P000093,33,Male,Full-time employed,Asia,LinkedIn,3,5.3,102,7.1,No,13,Entertainment,No,7,8,High
+P000094,59,Male,Self-employed,Oceania,X (Twitter),1,0.6,17,8.3,No,49,Shopping,No,10,8,High
+P000095,27,Male,Full-time employed,Latin America,Facebook,5,7.1,129,6.6,No,36,Work/Study,No,5,5,Moderate
+P000096,25,Male,Unemployed,Latin America,X (Twitter),3,2.9,73,7.2,No,9,Entertainment,No,7,8,High
+P000097,48,Male,Unemployed,Asia,YouTube,2,3.3,85,6.5,Yes,9,Work/Study,No,8,9,High
+P000098,46,Female,Full-time employed,Oceania,TikTok,3,5.9,150,6.5,Yes,6,News,No,5,3,Low
+P000099,20,Female,Part-time employed,Asia,Facebook,4,7.6,101,7.1,No,11,Entertainment,Yes,5,5,Moderate
+P000100,56,Female,Full-time employed,Latin America,Snapchat,3,4.6,127,5.8,Yes,46,Shopping,Yes,8,9,High
+P000101,23,Female,Unemployed,Latin America,Instagram,6,6.6,175,6.6,Yes,5,News,No,7,7,High
+P000102,54,Female,Full-time employed,Latin America,Instagram,4,5.9,95,8.1,No,0,Work/Study,No,6,8,High
+P000103,13,Male,Part-time employed,Latin America,TikTok,5,9.5,120,7.3,No,74,News,No,5,4,Moderate
+P000104,54,Female,Full-time employed,North America,TikTok,2,4.5,39,7.1,No,15,Entertainment,Yes,6,3,Moderate
+P000105,53,Male,Self-employed,Latin America,TikTok,4,5.6,86,6.0,Yes,0,Social connection,Yes,9,10,High
+P000106,53,Female,Full-time employed,North America,Instagram,3,5.2,154,7.6,No,58,Work/Study,No,9,8,High
+P000107,47,Female,Part-time employed,North America,Instagram,2,3.4,61,6.3,No,4,Social connection,No,7,5,Moderate
+P000108,37,Female,Student,Africa,YouTube,3,2.6,28,8.5,No,62,Shopping,No,9,9,High
+P000109,49,Male,Full-time employed,Africa,Snapchat,4,4.9,67,7.3,No,25,Social connection,No,6,8,High
+P000110,27,Female,Unemployed,Asia,TikTok,2,7.4,93,7.6,Yes,24,News,No,6,4,Moderate
+P000111,53,Male,Full-time employed,Oceania,YouTube,4,5.9,132,5.7,Yes,54,News,No,7,10,High
+P000112,41,Male,Full-time employed,Asia,LinkedIn,3,3.0,51,8.3,No,15,Entertainment,Yes,9,8,High
+P000113,36,Male,Unemployed,Europe,TikTok,3,3.6,127,7.1,Yes,0,Shopping,No,8,8,High
+P000114,39,Male,Self-employed,North America,LinkedIn,4,6.0,126,7.0,No,12,Entertainment,No,7,5,Moderate
+P000115,42,Female,Self-employed,Europe,Facebook,2,4.7,109,6.1,Yes,9,News,No,7,7,High
+P000116,14,Male,Part-time employed,North America,Snapchat,1,3.8,61,8.0,No,28,Shopping,No,8,8,High
+P000117,20,Male,Student,Europe,YouTube,4,7.8,107,6.8,Yes,33,Shopping,No,6,4,Moderate
+P000118,25,Non-binary,Full-time employed,North America,YouTube,3,2.8,24,8.9,No,59,Social connection,Yes,8,10,High
+P000119,18,Female,Student,Africa,YouTube,1,5.3,54,8.0,No,32,Social connection,Yes,8,7,High
+P000120,35,Male,Full-time employed,Africa,Instagram,4,8.2,174,6.0,Yes,8,News,No,6,5,Moderate
+P000121,47,Female,Full-time employed,North America,YouTube,3,7.9,130,5.8,Yes,47,Work/Study,No,6,7,Moderate
+P000122,47,Female,Full-time employed,Europe,LinkedIn,2,1.9,62,7.1,No,88,Social connection,No,7,9,High
+P000123,37,Male,Full-time employed,Africa,Instagram,5,4.6,86,8.4,No,1,News,Yes,7,8,High
+P000124,57,Female,Full-time employed,Asia,X (Twitter),3,3.4,52,7.2,No,70,Shopping,No,8,6,High
+P000125,42,Female,Full-time employed,North America,X (Twitter),5,8.4,116,7.7,No,23,Work/Study,Yes,8,8,High
+P000126,17,Male,Student,Europe,Instagram,5,6.3,122,7.0,Yes,17,Shopping,Yes,7,5,Moderate
+P000127,52,Female,Part-time employed,Latin America,Instagram,3,2.8,43,7.5,Yes,92,Shopping,Yes,8,9,High
+P000128,42,Male,Full-time employed,Asia,Facebook,4,7.9,169,6.7,No,4,Shopping,No,6,4,Moderate
+P000129,46,Female,Self-employed,Africa,TikTok,4,3.7,45,8.0,No,29,News,Yes,7,6,Moderate
+P000130,42,Male,Unemployed,Europe,LinkedIn,4,6.2,130,6.7,Yes,23,Shopping,Yes,8,8,High
+P000131,41,Male,Full-time employed,Latin America,TikTok,3,1.9,83,7.7,No,3,News,Yes,9,10,High
+P000132,17,Non-binary,Part-time employed,Latin America,Instagram,4,7.0,134,7.0,Yes,18,Work/Study,No,6,6,Moderate
+P000133,42,Female,Full-time employed,North America,YouTube,2,1.5,50,7.9,No,10,Shopping,Yes,9,10,High
+P000134,54,Male,Full-time employed,North America,YouTube,3,1.5,44,7.6,No,11,Entertainment,Yes,8,9,High
+P000135,28,Male,Self-employed,Europe,TikTok,4,7.9,199,6.7,Yes,32,Shopping,No,8,9,High
+P000136,44,Male,Student,Africa,X (Twitter),5,4.5,92,7.5,No,23,Shopping,No,7,5,Moderate
+P000137,14,Non-binary,Student,Latin America,YouTube,3,7.0,146,6.8,Yes,15,Shopping,No,7,9,High
+P000138,31,Male,Self-employed,Europe,Facebook,5,4.4,78,7.2,No,114,Work/Study,No,8,7,High
+P000139,35,Male,Full-time employed,Europe,TikTok,4,5.1,68,6.7,No,4,Entertainment,No,6,8,High
+P000140,64,Female,Part-time employed,North America,Instagram,2,3.2,21,8.8,No,1,Social connection,No,9,10,High
+P000141,24,Male,Self-employed,Oceania,Instagram,5,8.6,192,7.7,No,61,Entertainment,No,7,8,High
+P000142,27,Male,Full-time employed,Oceania,Instagram,1,1.0,5,8.7,No,8,Work/Study,No,7,8,High
+P000143,34,Female,Full-time employed,North America,LinkedIn,3,3.9,92,7.4,No,34,News,Yes,8,4,Moderate
+P000144,64,Male,Part-time employed,North America,TikTok,2,2.9,64,7.6,No,76,News,Yes,8,8,High
+P000145,57,Female,Student,Asia,YouTube,3,3.1,83,8.6,No,20,Work/Study,Yes,9,10,High
+P000146,14,Female,Student,Latin America,X (Twitter),6,8.4,135,6.6,No,9,Shopping,No,6,7,Moderate
+P000147,25,Male,Full-time employed,Europe,Instagram,5,7.0,102,6.2,Yes,7,Entertainment,No,7,5,Moderate
+P000148,55,Female,Full-time employed,Africa,X (Twitter),2,2.9,63,8.9,No,3,Shopping,Yes,10,10,High
+P000149,16,Female,Student,Latin America,Facebook,3,6.3,104,6.6,Yes,6,Social connection,No,5,2,Low
+P000150,57,Female,Part-time employed,Europe,Snapchat,3,2.8,13,8.9,No,28,Work/Study,No,8,9,High
+P000151,27,Female,Self-employed,Oceania,Instagram,5,8.6,212,5.4,Yes,16,News,No,6,4,Moderate
+P000152,60,Male,Self-employed,Africa,Instagram,1,1.5,5,8.3,No,16,News,Yes,10,10,High
+P000153,28,Male,Unemployed,Europe,Snapchat,6,6.1,79,7.9,Yes,10,Social connection,No,8,10,High
+P000154,35,Female,Unemployed,Asia,YouTube,5,5.9,98,6.8,Yes,1,Entertainment,Yes,10,9,High
+P000155,47,Male,Full-time employed,Europe,Instagram,4,7.4,170,6.8,No,35,Work/Study,Yes,7,8,High
+P000156,19,Male,Student,North America,Facebook,3,6.5,51,6.4,No,4,Social connection,No,8,8,High
+P000157,41,Female,Full-time employed,North America,Facebook,4,6.8,157,7.7,No,77,Social connection,Yes,7,7,High
+P000158,39,Male,Full-time employed,Africa,LinkedIn,4,7.6,109,6.5,No,1,Entertainment,No,5,4,Moderate
+P000159,53,Female,Student,Oceania,LinkedIn,4,3.6,72,7.6,No,33,Shopping,Yes,8,9,High
+P000160,64,Female,Self-employed,Africa,Facebook,3,2.2,19,7.2,No,7,Social connection,No,9,7,High
+P000161,47,Female,Student,Oceania,TikTok,3,3.6,124,8.6,No,3,Social connection,Yes,9,7,High
+P000162,34,Male,Full-time employed,Asia,Snapchat,4,5.1,95,8.1,No,3,Social connection,No,8,8,High
+P000163,34,Male,Part-time employed,Asia,TikTok,5,7.3,110,6.5,Yes,25,News,Yes,6,6,Moderate
+P000164,34,Female,Full-time employed,Oceania,Snapchat,4,6.1,100,6.0,Yes,55,News,No,6,6,Moderate
+P000165,55,Male,Full-time employed,Latin America,X (Twitter),4,4.0,74,8.5,No,107,News,Yes,8,7,High
+P000166,29,Female,Full-time employed,Europe,YouTube,4,3.8,73,7.4,No,79,Social connection,No,9,10,High
+P000167,21,Female,Student,Africa,LinkedIn,4,5.0,103,6.2,Yes,34,Social connection,No,8,8,High
+P000168,30,Male,Full-time employed,Europe,Facebook,5,10.3,185,5.4,No,83,Shopping,No,4,4,Low
+P000169,14,Male,Student,Africa,YouTube,4,7.2,88,6.6,No,57,News,Yes,7,7,High
+P000170,18,Female,Student,Oceania,TikTok,3,5.7,92,5.9,Yes,53,Shopping,No,6,7,Moderate
+P000171,17,Male,Part-time employed,North America,X (Twitter),5,10.2,201,5.6,Yes,23,Shopping,No,5,6,Moderate
+P000172,53,Female,Self-employed,Latin America,TikTok,2,4.3,57,7.5,Yes,35,Work/Study,No,7,8,High
+P000173,50,Female,Full-time employed,Africa,TikTok,4,5.2,113,6.6,Yes,29,News,No,9,10,High
+P000174,49,Male,Student,Oceania,Instagram,3,3.8,69,7.8,No,57,Shopping,No,7,5,Moderate
+P000175,37,Female,Self-employed,Latin America,X (Twitter),2,4.7,78,6.5,Yes,2,Entertainment,No,7,5,Moderate
+P000176,50,Male,Full-time employed,Europe,LinkedIn,3,3.7,102,7.2,Yes,4,News,No,9,9,High
+P000177,21,Male,Part-time employed,Europe,TikTok,3,4.1,21,8.7,No,56,Work/Study,Yes,7,7,High
+P000178,59,Non-binary,Part-time employed,North America,TikTok,3,2.9,31,7.1,Yes,38,Entertainment,Yes,8,9,High
+P000179,39,Female,Self-employed,Asia,X (Twitter),3,5.7,139,7.5,No,10,Entertainment,No,7,7,High
+P000180,61,Female,Unemployed,Africa,TikTok,3,6.6,173,6.2,No,32,Entertainment,No,6,7,Moderate
+P000181,20,Female,Student,North America,Instagram,5,7.2,198,7.4,Yes,15,News,No,6,4,Moderate
+P000182,38,Female,Part-time employed,Africa,X (Twitter),1,0.5,10,7.9,No,2,News,Yes,10,10,High
+P000183,49,Male,Full-time employed,Asia,Facebook,3,3.9,83,7.7,Yes,17,News,No,7,5,Moderate
+P000184,38,Male,Self-employed,Europe,Instagram,5,10.7,217,5.8,Yes,13,Entertainment,No,5,6,Moderate
+P000185,36,Male,Student,North America,TikTok,4,7.1,166,6.9,Yes,26,News,No,7,5,Moderate
+P000186,21,Male,Part-time employed,Asia,TikTok,4,5.3,104,7.7,No,64,Shopping,No,6,6,Moderate
+P000187,32,Male,Self-employed,Africa,X (Twitter),6,7.0,153,6.3,Yes,0,Entertainment,Yes,7,5,Moderate
+P000188,25,Female,Full-time employed,Latin America,X (Twitter),2,5.0,103,8.1,No,28,Work/Study,Yes,6,6,Moderate
+P000189,28,Male,Self-employed,Oceania,Snapchat,4,3.5,78,6.7,Yes,2,Social connection,Yes,8,9,High
+P000190,48,Female,Student,Africa,Instagram,1,3.5,35,7.6,Yes,11,Entertainment,No,7,7,High
+P000191,45,Female,Full-time employed,Asia,Snapchat,5,4.7,74,7.2,No,11,Entertainment,No,7,5,Moderate
+P000192,44,Non-binary,Full-time employed,Oceania,TikTok,1,0.9,5,8.3,No,159,Entertainment,Yes,8,7,High
+P000193,31,Male,Part-time employed,Asia,LinkedIn,5,3.6,29,7.4,No,22,News,Yes,8,6,High
+P000194,62,Female,Full-time employed,Oceania,LinkedIn,2,2.8,5,7.3,Yes,12,News,No,9,7,High
+P000195,17,Female,Student,Africa,Facebook,5,6.5,104,6.0,Yes,7,Work/Study,No,5,5,Moderate
+P000196,30,Male,Full-time employed,Africa,Snapchat,5,6.8,114,6.7,Yes,0,Entertainment,No,6,7,Moderate
+P000197,19,Male,Part-time employed,North America,X (Twitter),3,4.7,87,7.5,No,12,Work/Study,No,8,9,High
+P000198,30,Male,Part-time employed,Asia,Snapchat,4,7.4,149,6.6,No,9,Work/Study,No,7,8,High
+P000199,63,Female,Part-time employed,Asia,Instagram,1,0.5,14,8.2,No,18,Entertainment,No,6,6,Moderate
+P000200,32,Female,Self-employed,Asia,Instagram,6,9.1,156,6.7,No,12,Work/Study,No,8,8,High
+P000201,60,Female,Self-employed,Africa,LinkedIn,1,0.5,5,7.8,No,21,Entertainment,Yes,10,9,High
+P000202,38,Female,Part-time employed,Latin America,Snapchat,2,3.0,80,7.7,No,7,News,Yes,9,8,High
+P000203,49,Male,Self-employed,Europe,X (Twitter),4,4.9,85,6.8,No,4,Work/Study,Yes,7,5,Moderate
+P000204,36,Male,Part-time employed,Asia,YouTube,4,8.7,143,7.6,Yes,7,Shopping,No,4,3,Low
+P000205,26,Female,Part-time employed,Asia,YouTube,4,7.0,120,7.7,No,82,News,No,8,8,High
+P000206,52,Non-binary,Part-time employed,Europe,YouTube,4,4.9,66,7.1,Yes,49,News,Yes,7,7,High
+P000207,63,Female,Full-time employed,Africa,Facebook,2,2.7,32,8.5,No,13,Shopping,No,9,10,High
+P000208,26,Male,Full-time employed,Oceania,X (Twitter),3,4.3,60,6.3,No,44,Social connection,No,7,5,Moderate
+P000209,53,Male,Part-time employed,Latin America,Snapchat,4,2.7,39,6.3,No,4,Social connection,Yes,8,8,High
+P000210,26,Male,Unemployed,Oceania,YouTube,3,4.0,91,7.3,No,12,News,No,7,5,Moderate
+P000211,50,Male,Self-employed,North America,Snapchat,2,1.4,37,7.2,No,71,Entertainment,No,10,9,High
+P000212,54,Male,Full-time employed,Europe,Instagram,3,4.4,125,6.9,Yes,9,Entertainment,Yes,6,6,Moderate
+P000213,36,Female,Part-time employed,Africa,Snapchat,3,3.2,93,7.8,No,48,Social connection,No,10,10,High
+P000214,51,Female,Full-time employed,Asia,X (Twitter),2,4.5,139,7.5,Yes,26,Entertainment,Yes,10,9,High
+P000215,27,Male,Self-employed,Oceania,Facebook,3,3.7,83,7.0,No,18,Work/Study,No,10,10,High
+P000216,17,Male,Part-time employed,Africa,YouTube,5,7.9,158,6.6,Yes,24,News,No,8,7,High
+P000217,18,Male,Student,Asia,YouTube,2,6.2,96,7.2,No,84,News,No,7,5,Moderate
+P000218,36,Male,Part-time employed,Europe,YouTube,7,8.2,172,7.0,No,21,News,No,8,7,High
+P000219,59,Female,Full-time employed,Latin America,LinkedIn,4,3.7,46,7.3,No,30,Entertainment,Yes,8,8,High
+P000220,19,Male,Student,Africa,Instagram,5,9.6,128,6.9,Yes,28,News,No,4,4,Low
+P000221,36,Female,Unemployed,Europe,X (Twitter),2,3.9,115,7.5,No,14,Entertainment,No,10,10,High
+P000222,49,Male,Self-employed,Africa,LinkedIn,3,4.2,38,8.6,No,24,Social connection,Yes,10,10,High
+P000223,23,Male,Part-time employed,North America,Facebook,2,4.7,97,7.0,No,10,Work/Study,No,7,7,High
+P000224,50,Non-binary,Full-time employed,Africa,X (Twitter),4,3.2,31,7.7,Yes,17,Shopping,Yes,7,5,Moderate
+P000225,28,Male,Full-time employed,North America,X (Twitter),3,5.7,136,7.2,No,35,Social connection,Yes,6,7,Moderate
+P000226,55,Male,Full-time employed,North America,Facebook,4,2.0,73,7.7,No,19,Social connection,No,6,5,Moderate
+P000227,43,Female,Full-time employed,North America,X (Twitter),2,2.3,57,8.3,No,0,Work/Study,No,10,10,High
+P000228,41,Male,Full-time employed,Asia,LinkedIn,2,2.1,75,7.2,Yes,0,Shopping,No,6,8,High
+P000229,22,Male,Student,Europe,X (Twitter),4,2.1,38,6.3,No,104,Social connection,No,8,8,High
+P000230,37,Male,Part-time employed,Europe,Snapchat,2,3.2,124,5.4,Yes,22,Shopping,No,6,5,Moderate
+P000231,57,Male,Full-time employed,Africa,Facebook,4,4.6,105,7.7,Yes,31,Social connection,No,6,6,Moderate
+P000232,14,Female,Student,North America,Snapchat,4,4.4,52,7.7,Yes,55,Work/Study,No,8,8,High
+P000233,52,Male,Full-time employed,North America,LinkedIn,1,1.1,21,9.2,No,25,Social connection,No,9,9,High
+P000234,38,Female,Unemployed,Oceania,TikTok,4,8.8,153,6.2,Yes,4,Social connection,No,7,6,Moderate
+P000235,50,Female,Full-time employed,Oceania,LinkedIn,1,2.7,41,7.0,No,47,Shopping,No,7,8,High
+P000236,47,Male,Self-employed,Europe,X (Twitter),4,4.9,38,7.2,No,30,Social connection,Yes,6,7,Moderate
+P000237,35,Male,Unemployed,North America,Facebook,5,6.8,134,7.1,No,45,Entertainment,No,4,4,Low
+P000238,29,Male,Full-time employed,North America,Snapchat,6,7.4,91,5.9,Yes,76,Work/Study,Yes,3,1,Low
+P000239,45,Male,Part-time employed,Oceania,TikTok,2,1.5,5,9.0,No,2,Entertainment,No,10,10,High
+P000240,20,Male,Student,Africa,X (Twitter),3,6.5,106,8.0,Yes,0,Entertainment,No,10,9,High
+P000241,43,Female,Full-time employed,Latin America,X (Twitter),1,1.5,5,8.3,No,150,Shopping,No,9,9,High
+P000242,17,Male,Student,Europe,LinkedIn,9,12.2,193,6.1,No,23,Social connection,No,3,3,Low
+P000243,46,Female,Student,North America,X (Twitter),3,1.2,5,7.3,No,103,Entertainment,No,8,6,High
+P000244,45,Female,Unemployed,Asia,Facebook,3,2.4,17,8.8,No,4,Shopping,Yes,10,10,High
+P000245,17,Female,Student,Africa,Facebook,4,5.2,88,7.4,No,43,Social connection,No,7,8,High
+P000246,52,Male,Part-time employed,Oceania,Facebook,1,0.8,5,8.0,No,107,Work/Study,No,9,10,High
+P000247,34,Male,Full-time employed,Africa,LinkedIn,4,8.3,161,6.6,Yes,103,Social connection,Yes,6,6,Moderate
+P000248,53,Non-binary,Unemployed,Europe,Snapchat,7,8.5,194,6.4,No,42,News,Yes,5,2,Low
+P000249,15,Male,Student,North America,Instagram,5,6.5,132,7.2,No,56,Work/Study,No,6,8,High
+P000250,22,Female,Student,Oceania,Facebook,2,4.2,106,6.2,Yes,40,Work/Study,No,8,9,High
+P000251,38,Female,Self-employed,North America,YouTube,1,0.7,45,8.8,No,6,News,No,8,6,High
+P000252,22,Female,Student,Oceania,TikTok,4,6.3,82,6.6,Yes,29,Work/Study,No,7,6,Moderate
+P000253,30,Male,Unemployed,Latin America,LinkedIn,3,5.4,110,7.5,Yes,17,Shopping,No,7,7,High
+P000254,47,Male,Full-time employed,North America,LinkedIn,5,3.0,83,7.6,No,15,Shopping,Yes,8,9,High
+P000255,20,Female,Student,Latin America,LinkedIn,4,7.4,120,6.9,No,13,Work/Study,No,8,7,High
+P000256,48,Female,Student,Europe,YouTube,2,5.0,66,6.7,No,4,Social connection,No,7,8,High
+P000257,18,Female,Student,North America,YouTube,5,7.8,156,7.4,No,34,News,No,8,6,High
+P000258,22,Female,Student,Europe,Snapchat,4,6.2,67,6.7,No,1,Shopping,No,5,4,Moderate
+P000259,43,Female,Part-time employed,Africa,TikTok,1,2.5,12,7.6,No,66,Social connection,Yes,8,5,Moderate
+P000260,54,Non-binary,Full-time employed,Latin America,Instagram,4,4.9,68,7.4,No,1,Work/Study,Yes,7,6,Moderate
+P000261,21,Female,Student,North America,YouTube,5,6.9,137,7.1,No,12,Work/Study,No,9,10,High
+P000262,28,Male,Full-time employed,Africa,X (Twitter),5,8.0,150,5.8,No,14,News,No,3,6,Moderate
+P000263,61,Male,Full-time employed,North America,Facebook,3,4.5,111,7.4,No,51,Shopping,No,7,7,High
+P000264,64,Female,Full-time employed,Oceania,TikTok,1,0.5,5,8.7,No,52,News,No,10,9,High
+P000265,43,Female,Unemployed,Latin America,Facebook,1,1.8,5,7.2,Yes,118,Shopping,No,8,8,High
+P000266,36,Male,Full-time employed,Oceania,LinkedIn,3,3.9,85,7.5,No,9,Work/Study,No,8,9,High
+P000267,31,Female,Full-time employed,Oceania,TikTok,3,3.8,44,7.2,Yes,11,Entertainment,Yes,8,6,High
+P000268,44,Male,Part-time employed,Europe,YouTube,3,6.1,91,7.1,No,6,Shopping,Yes,7,6,Moderate
+P000269,43,Male,Full-time employed,Europe,YouTube,6,5.4,41,6.7,No,8,Work/Study,No,9,10,High
+P000270,28,Female,Full-time employed,Oceania,YouTube,6,8.4,159,6.3,Yes,39,Social connection,Yes,6,5,Moderate
+P000271,14,Male,Student,Europe,X (Twitter),3,8.4,197,6.9,Yes,14,Work/Study,Yes,8,7,High
+P000272,20,Female,Part-time employed,Africa,YouTube,3,7.4,102,6.3,No,36,News,Yes,6,6,Moderate
+P000273,62,Female,Part-time employed,Europe,X (Twitter),3,5.2,124,6.6,Yes,9,Shopping,No,6,6,Moderate
+P000274,34,Female,Student,Oceania,Instagram,6,6.5,115,6.3,No,3,Social connection,Yes,6,5,Moderate
+P000275,38,Male,Full-time employed,Africa,X (Twitter),5,5.3,42,7.4,Yes,22,Social connection,Yes,6,6,Moderate
+P000276,37,Female,Student,Latin America,Instagram,6,8.3,122,6.3,Yes,4,Entertainment,No,6,7,Moderate
+P000277,53,Male,Student,North America,YouTube,3,3.9,41,6.6,Yes,29,Work/Study,No,7,10,High
+P000278,16,Female,Student,Latin America,LinkedIn,4,6.8,112,7.1,No,11,Shopping,Yes,6,6,Moderate
+P000279,17,Male,Student,North America,YouTube,2,5.6,113,6.1,Yes,13,Work/Study,No,7,7,High
+P000280,27,Non-binary,Part-time employed,North America,X (Twitter),5,7.7,194,6.3,No,39,Social connection,No,5,7,Moderate
+P000281,38,Female,Part-time employed,Europe,YouTube,4,7.7,95,5.5,Yes,17,Shopping,No,7,6,Moderate
+P000282,47,Male,Self-employed,Asia,LinkedIn,3,4.2,61,6.4,Yes,3,Social connection,No,7,5,Moderate
+P000283,38,Male,Full-time employed,Oceania,LinkedIn,6,7.8,113,7.7,No,10,Work/Study,Yes,8,8,High
+P000284,35,Male,Student,Africa,LinkedIn,2,1.6,5,7.6,No,20,News,Yes,8,9,High
+P000285,61,Female,Part-time employed,North America,YouTube,4,2.8,53,7.6,Yes,29,Shopping,No,9,9,High
+P000286,21,Female,Student,Africa,YouTube,3,6.8,122,6.6,No,106,Shopping,Yes,7,7,High
+P000287,42,Female,Full-time employed,Latin America,X (Twitter),6,3.3,5,8.2,No,2,Social connection,No,9,7,High
+P000288,41,Female,Full-time employed,Latin America,Snapchat,5,9.7,175,5.4,Yes,22,Entertainment,Yes,5,5,Moderate
+P000289,37,Male,Part-time employed,Asia,Facebook,4,5.2,57,6.9,Yes,55,Entertainment,No,5,7,Moderate
+P000290,54,Female,Part-time employed,Latin America,Snapchat,3,2.8,50,7.8,No,4,Work/Study,No,10,8,High
+P000291,26,Male,Full-time employed,Asia,LinkedIn,4,6.5,155,8.5,No,57,Social connection,No,7,7,High
+P000292,62,Female,Full-time employed,Africa,Snapchat,3,0.5,22,8.6,No,14,Entertainment,Yes,10,9,High
+P000293,30,Male,Full-time employed,Asia,YouTube,4,4.5,86,7.1,No,0,Shopping,Yes,8,7,High
+P000294,41,Female,Part-time employed,Latin America,TikTok,4,6.9,108,7.5,No,53,Work/Study,No,6,6,Moderate
+P000295,40,Male,Full-time employed,North America,Facebook,2,3.7,68,8.9,No,44,Entertainment,Yes,7,8,High
+P000296,57,Male,Student,Asia,X (Twitter),2,1.6,45,7.0,No,9,Work/Study,No,9,10,High
+P000297,35,Male,Full-time employed,North America,Snapchat,5,8.1,159,6.3,No,14,Work/Study,No,6,5,Moderate
+P000298,27,Female,Full-time employed,Europe,YouTube,6,9.0,159,6.5,No,6,Shopping,Yes,7,5,Moderate
+P000299,14,Female,Student,Europe,TikTok,6,8.6,161,6.5,No,23,Shopping,No,6,6,Moderate
+P000300,31,Male,Part-time employed,Oceania,YouTube,3,5.0,50,7.2,No,23,Shopping,Yes,9,8,High
+P000301,55,Male,Full-time employed,North America,X (Twitter),3,3.0,31,7.0,No,7,Shopping,No,8,10,High
+P000302,13,Male,Student,North America,TikTok,2,6.1,131,8.0,No,17,Work/Study,No,8,10,High
+P000303,59,Female,Student,Asia,YouTube,1,1.1,45,7.2,No,64,Work/Study,No,8,10,High
+P000304,41,Non-binary,Full-time employed,Europe,TikTok,3,2.8,53,7.7,No,7,News,No,9,8,High
+P000305,20,Female,Student,North America,LinkedIn,5,5.8,148,7.9,No,15,Work/Study,No,9,10,High
+P000306,28,Female,Full-time employed,Africa,Facebook,3,4.1,89,7.5,No,14,Shopping,Yes,8,9,High
+P000307,41,Male,Full-time employed,Asia,Snapchat,4,1.8,25,6.9,Yes,90,Entertainment,Yes,9,10,High
+P000308,29,Male,Full-time employed,Oceania,Facebook,5,6.5,80,6.3,No,0,Entertainment,Yes,7,7,High
+P000309,18,Female,Student,Asia,Instagram,4,7.7,181,6.8,No,39,News,No,6,8,High
+P000310,47,Female,Part-time employed,Latin America,TikTok,4,7.7,161,6.5,No,5,Social connection,No,8,8,High
+P000311,47,Male,Self-employed,Asia,Snapchat,3,3.0,107,7.9,No,1,News,No,10,10,High
+P000312,19,Female,Student,Africa,Facebook,4,7.7,203,6.1,No,10,Social connection,No,6,4,Moderate
+P000313,27,Male,Part-time employed,Africa,X (Twitter),6,6.9,85,7.0,Yes,15,Work/Study,No,7,8,High
+P000314,25,Male,Part-time employed,Oceania,Snapchat,3,6.0,69,7.3,No,67,Shopping,Yes,6,6,Moderate
+P000315,47,Male,Full-time employed,Oceania,Facebook,4,5.8,18,6.9,Yes,5,Social connection,Yes,7,8,High
+P000316,50,Female,Full-time employed,Oceania,X (Twitter),4,5.6,128,8.2,No,110,Work/Study,No,8,8,High
+P000317,50,Female,Full-time employed,Latin America,TikTok,3,4.7,104,7.2,No,38,Entertainment,Yes,8,8,High
+P000318,61,Female,Self-employed,Oceania,TikTok,2,2.4,46,7.4,No,3,Work/Study,Yes,9,9,High
+P000319,52,Female,Student,Asia,TikTok,3,3.1,19,7.4,No,60,Work/Study,Yes,7,8,High
+P000320,29,Female,Full-time employed,Latin America,YouTube,4,3.4,58,7.1,Yes,23,Work/Study,No,9,9,High
+P000321,18,Male,Student,Oceania,X (Twitter),3,5.6,106,7.2,No,93,News,Yes,7,5,Moderate
+P000322,44,Female,Self-employed,North America,LinkedIn,2,3.4,84,7.2,No,4,Entertainment,No,7,8,High
+P000323,60,Male,Unemployed,Oceania,Facebook,3,0.8,22,6.9,No,93,Shopping,Yes,10,9,High
+P000324,63,Female,Part-time employed,Latin America,X (Twitter),3,3.6,84,6.8,Yes,2,Entertainment,Yes,9,7,High
+P000325,24,Male,Part-time employed,North America,LinkedIn,6,9.0,158,6.9,No,8,News,No,6,5,Moderate
+P000326,25,Male,Self-employed,Europe,X (Twitter),4,4.7,120,7.0,Yes,6,Entertainment,No,8,8,High
+P000327,14,Female,Student,Asia,TikTok,7,8.2,166,7.5,No,66,Shopping,No,7,7,High
+P000328,20,Male,Student,Oceania,TikTok,5,4.9,52,8.6,No,25,News,Yes,10,7,High
+P000329,41,Male,Student,Africa,X (Twitter),2,4.3,119,7.5,Yes,22,News,No,9,9,High
+P000330,41,Female,Full-time employed,North America,YouTube,3,3.5,99,8.5,No,8,Social connection,No,7,9,High
+P000331,32,Female,Unemployed,Oceania,TikTok,4,7.0,139,7.5,No,1,Work/Study,No,9,8,High
+P000332,29,Male,Full-time employed,Europe,X (Twitter),3,4.7,93,8.5,No,37,Social connection,Yes,9,9,High
+P000333,56,Male,Full-time employed,Africa,X (Twitter),2,5.4,146,7.9,Yes,29,Work/Study,No,7,8,High
+P000334,36,Male,Full-time employed,North America,TikTok,3,4.9,39,8.0,No,180,Shopping,Yes,6,7,Moderate
+P000335,55,Female,Full-time employed,Latin America,Instagram,3,2.2,76,8.3,No,16,Social connection,No,9,10,High
+P000336,63,Female,Full-time employed,Asia,Snapchat,2,0.5,5,8.1,No,45,Work/Study,No,9,5,High
+P000337,29,Male,Full-time employed,Latin America,YouTube,3,6.6,151,7.1,No,11,Social connection,No,7,9,High
+P000338,23,Female,Full-time employed,Africa,X (Twitter),3,8.5,156,6.1,Yes,18,Shopping,Yes,7,8,High
+P000339,62,Female,Full-time employed,Oceania,TikTok,5,3.3,22,8.1,No,35,Shopping,Yes,8,10,High
+P000340,46,Non-binary,Self-employed,North America,YouTube,5,8.9,145,6.3,No,19,Social connection,Yes,4,3,Low
+P000341,28,Male,Unemployed,Asia,X (Twitter),4,9.1,194,6.5,No,27,Social connection,No,6,4,Moderate
+P000342,45,Female,Self-employed,Asia,Instagram,4,3.9,63,5.7,Yes,82,Entertainment,Yes,6,6,Moderate
+P000343,39,Female,Full-time employed,Asia,YouTube,5,4.5,62,8.0,Yes,17,Work/Study,Yes,8,8,High
+P000344,60,Male,Full-time employed,Europe,Snapchat,4,3.9,51,7.5,No,6,Shopping,No,6,7,Moderate
+P000345,26,Male,Student,Africa,Snapchat,1,4.7,103,7.2,Yes,23,Entertainment,Yes,7,8,High
+P000346,64,Male,Full-time employed,Europe,YouTube,6,4.9,140,8.3,No,31,Shopping,No,9,9,High
+P000347,61,Male,Full-time employed,Asia,Instagram,1,3.6,5,7.3,Yes,9,Work/Study,Yes,9,9,High
+P000348,22,Female,Part-time employed,Asia,Instagram,4,7.3,215,7.4,Yes,12,News,No,6,7,Moderate
+P000349,21,Female,Student,North America,Facebook,4,8.3,155,6.1,No,28,Social connection,No,4,4,Low
+P000350,40,Male,Full-time employed,Latin America,X (Twitter),4,8.4,168,7.7,Yes,20,Work/Study,No,6,6,Moderate
+P000351,15,Female,Student,Europe,X (Twitter),5,7.8,127,7.5,No,29,News,No,7,8,High
+P000352,28,Male,Full-time employed,North America,YouTube,2,6.0,107,6.8,Yes,3,Shopping,No,7,9,High
+P000353,35,Non-binary,Self-employed,Europe,Instagram,5,8.5,158,7.1,Yes,20,News,No,5,6,Moderate
+P000354,63,Male,Full-time employed,Africa,TikTok,4,4.6,51,6.8,No,28,Entertainment,Yes,8,8,High
+P000355,64,Female,Full-time employed,Asia,Instagram,1,2.0,11,7.8,No,50,Social connection,No,10,7,High
+P000356,20,Female,Student,Europe,Facebook,3,7.0,161,7.9,No,12,Social connection,No,7,7,High
+P000357,59,Female,Full-time employed,Latin America,YouTube,3,3.5,16,6.5,No,12,News,No,6,5,Moderate
+P000358,17,Female,Part-time employed,Oceania,Instagram,4,8.0,157,7.2,No,26,Social connection,No,7,7,High
+P000359,51,Male,Full-time employed,North America,X (Twitter),1,1.2,10,8.4,No,46,Shopping,No,10,9,High
+P000360,56,Female,Unemployed,Asia,YouTube,1,0.5,5,9.4,No,75,Social connection,No,8,8,High
+P000361,59,Female,Unemployed,Latin America,LinkedIn,3,1.3,82,6.6,Yes,42,Work/Study,No,8,7,High
+P000362,24,Male,Full-time employed,Europe,YouTube,4,4.7,55,8.4,No,29,Social connection,Yes,8,6,High
+P000363,59,Non-binary,Self-employed,Europe,Instagram,1,1.8,5,7.6,No,9,Shopping,No,9,10,High
+P000364,19,Male,Part-time employed,Oceania,X (Twitter),4,8.4,145,6.5,No,4,Shopping,Yes,6,5,Moderate
+P000365,39,Male,Full-time employed,Oceania,X (Twitter),4,4.8,63,6.7,No,37,Work/Study,No,9,9,High
+P000366,37,Female,Full-time employed,Europe,LinkedIn,3,5.7,102,6.6,No,42,Work/Study,Yes,7,8,High
+P000367,29,Male,Unemployed,Latin America,X (Twitter),3,3.7,71,7.9,No,1,Work/Study,No,10,10,High
+P000368,14,Male,Student,Latin America,YouTube,6,6.7,127,5.9,Yes,6,News,No,6,7,Moderate
+P000369,53,Male,Student,Oceania,X (Twitter),3,4.9,84,7.4,Yes,20,News,No,7,7,High
+P000370,30,Female,Unemployed,Oceania,Snapchat,3,7.2,108,6.6,No,23,Entertainment,No,6,7,Moderate
+P000371,47,Female,Student,North America,Facebook,3,2.9,71,7.1,No,4,Shopping,Yes,6,8,High
+P000372,34,Male,Full-time employed,Asia,Snapchat,4,5.9,102,6.4,Yes,49,Shopping,No,7,8,High
+P000373,32,Female,Student,Asia,LinkedIn,5,10.2,168,6.7,No,33,News,Yes,8,6,High
+P000374,59,Female,Part-time employed,Asia,Snapchat,3,3.1,100,7.6,No,17,Shopping,Yes,9,8,High
+P000375,17,Female,Student,Africa,Facebook,5,5.9,102,6.8,Yes,52,News,No,8,9,High
+P000376,51,Female,Part-time employed,Africa,Facebook,3,3.6,97,8.1,No,25,Entertainment,No,8,7,High
+P000377,51,Female,Full-time employed,Africa,Snapchat,3,4.1,110,7.7,Yes,12,Shopping,No,8,10,High
+P000378,32,Male,Full-time employed,Asia,LinkedIn,6,5.5,137,6.6,Yes,2,News,Yes,8,8,High
+P000379,26,Male,Full-time employed,Asia,TikTok,5,6.3,134,6.5,No,12,Shopping,No,9,9,High
+P000380,13,Female,Part-time employed,Europe,Instagram,4,4.8,86,7.0,Yes,19,Social connection,Yes,9,10,High
+P000381,61,Male,Full-time employed,Latin America,Snapchat,2,1.0,16,8.4,No,29,News,Yes,10,10,High
+P000382,62,Male,Unemployed,Asia,TikTok,1,2.5,37,7.0,No,53,Work/Study,Yes,8,8,High
+P000383,25,Male,Part-time employed,Latin America,LinkedIn,5,6.2,46,6.6,No,7,Entertainment,No,7,8,High
+P000384,14,Male,Part-time employed,Oceania,Instagram,4,6.5,138,6.7,No,4,Shopping,No,6,4,Moderate
+P000385,19,Female,Student,Asia,LinkedIn,4,6.7,127,7.0,No,15,Work/Study,Yes,5,5,Moderate
+P000386,16,Male,Student,Africa,X (Twitter),4,7.5,159,6.0,Yes,12,Entertainment,Yes,5,6,Moderate
+P000387,56,Female,Full-time employed,Latin America,YouTube,3,5.2,90,7.8,No,8,Work/Study,No,8,8,High
+P000388,59,Female,Unemployed,Oceania,Instagram,4,2.9,72,6.8,No,27,Shopping,No,8,10,High
+P000389,20,Male,Student,Europe,Snapchat,5,7.8,99,5.9,No,5,Social connection,Yes,4,2,Low
+P000390,51,Male,Self-employed,Europe,Instagram,3,2.8,15,7.1,Yes,63,Work/Study,No,8,6,High
+P000391,22,Male,Student,Asia,Instagram,5,7.9,67,6.8,No,27,Work/Study,No,6,7,Moderate
+P000392,32,Female,Part-time employed,Africa,Snapchat,3,6.6,114,6.2,No,19,Entertainment,No,5,6,Moderate
+P000393,44,Male,Unemployed,Oceania,X (Twitter),2,6.3,90,6.3,Yes,0,News,Yes,6,6,Moderate
+P000394,50,Female,Full-time employed,Asia,Instagram,2,5.4,70,7.1,No,26,News,No,7,8,High
+P000395,58,Male,Unemployed,North America,YouTube,3,4.4,89,7.3,No,42,Social connection,No,7,8,High
+P000396,15,Male,Student,Africa,X (Twitter),4,7.3,118,6.6,Yes,30,Social connection,No,7,6,Moderate
+P000397,23,Male,Self-employed,Africa,X (Twitter),5,7.2,86,6.6,No,8,Work/Study,No,4,3,Low
+P000398,27,Male,Self-employed,Oceania,YouTube,6,8.4,227,7.2,Yes,9,Work/Study,No,4,4,Low
+P000399,29,Male,Unemployed,Africa,YouTube,3,4.8,85,7.2,Yes,24,Social connection,No,7,8,High
+P000400,64,Female,Student,Oceania,Instagram,3,1.3,5,7.1,Yes,18,Entertainment,No,9,7,High
+P000401,53,Male,Full-time employed,Oceania,Instagram,2,4.1,53,7.1,Yes,38,Work/Study,Yes,8,8,High
+P000402,29,Female,Unemployed,Oceania,LinkedIn,4,6.9,119,7.1,No,53,Entertainment,No,6,6,Moderate
+P000403,63,Female,Self-employed,North America,TikTok,2,1.1,14,8.8,No,35,Entertainment,Yes,8,9,High
+P000404,38,Female,Full-time employed,North America,LinkedIn,5,5.1,130,7.0,No,11,Social connection,No,7,7,High
+P000405,39,Female,Student,North America,Instagram,4,4.9,85,7.4,Yes,6,Shopping,No,7,6,Moderate
+P000406,35,Male,Full-time employed,Oceania,LinkedIn,2,1.1,75,8.1,No,7,Work/Study,Yes,10,10,High
+P000407,20,Female,Student,Europe,YouTube,2,6.6,105,8.0,No,16,Social connection,No,7,6,Moderate
+P000408,61,Male,Full-time employed,Africa,Snapchat,2,2.6,59,8.6,No,117,News,No,9,9,High
+P000409,13,Female,Student,Latin America,Snapchat,6,7.4,163,6.6,Yes,3,Shopping,No,9,7,High
+P000410,22,Male,Student,Asia,YouTube,3,9.6,208,5.9,Yes,12,Work/Study,No,5,4,Moderate
+P000411,24,Female,Full-time employed,North America,Snapchat,5,4.2,114,7.8,No,8,Work/Study,Yes,9,10,High
+P000412,27,Female,Full-time employed,Europe,YouTube,4,4.7,76,7.3,No,36,Entertainment,Yes,8,8,High
+P000413,19,Female,Student,Africa,Snapchat,2,1.9,34,8.5,Yes,49,Social connection,No,10,10,High
+P000414,13,Male,Student,North America,LinkedIn,3,6.7,46,7.1,No,0,Entertainment,No,7,8,High
+P000415,48,Female,Unemployed,North America,Snapchat,5,3.4,55,6.9,Yes,77,Shopping,No,8,10,High
+P000416,63,Female,Unemployed,Asia,Snapchat,4,1.7,63,7.2,Yes,25,Social connection,No,9,8,High
+P000417,19,Female,Student,Asia,YouTube,5,9.3,194,5.9,No,37,News,No,5,3,Low
+P000418,28,Male,Part-time employed,Africa,Instagram,5,7.9,139,6.7,Yes,3,News,No,7,6,Moderate
+P000419,39,Male,Full-time employed,Oceania,Facebook,3,5.3,146,6.9,No,73,News,No,10,9,High
+P000420,61,Male,Part-time employed,Europe,Instagram,3,2.2,28,8.6,No,27,Entertainment,No,10,9,High
+P000421,49,Female,Full-time employed,Africa,Facebook,3,6.2,90,6.4,No,3,Shopping,No,7,7,High
+P000422,52,Male,Full-time employed,Latin America,LinkedIn,3,3.8,54,7.2,Yes,19,Social connection,No,9,10,High
+P000423,43,Female,Full-time employed,North America,Instagram,5,3.1,22,8.4,No,120,Shopping,Yes,7,9,High
+P000424,34,Female,Part-time employed,North America,LinkedIn,2,2.2,58,6.6,No,17,Work/Study,No,8,9,High
+P000425,23,Female,Part-time employed,Africa,X (Twitter),3,5.8,113,8.5,No,2,Work/Study,Yes,9,10,High
+P000426,57,Female,Full-time employed,Oceania,Instagram,2,4.8,104,7.2,No,118,Work/Study,No,9,9,High
+P000427,54,Female,Unemployed,North America,Snapchat,5,8.2,135,6.9,No,68,Shopping,No,5,3,Low
+P000428,14,Female,Student,North America,Instagram,4,7.7,136,6.8,Yes,20,Social connection,No,6,7,Moderate
+P000429,50,Male,Full-time employed,Africa,X (Twitter),3,2.5,5,8.3,No,23,Social connection,Yes,10,8,High
+P000430,17,Female,Student,Latin America,Facebook,2,4.9,99,7.6,No,28,Work/Study,No,8,7,High
+P000431,51,Non-binary,Unemployed,North America,Snapchat,4,5.0,92,8.0,No,15,Social connection,Yes,10,10,High
+P000432,55,Male,Full-time employed,North America,YouTube,1,0.5,5,8.5,No,32,Shopping,No,10,10,High
+P000433,19,Female,Student,Latin America,Instagram,5,8.2,144,7.4,Yes,61,Entertainment,No,7,7,High
+P000434,35,Non-binary,Full-time employed,Asia,YouTube,4,7.1,120,7.3,No,24,Shopping,No,6,4,Moderate
+P000435,19,Female,Part-time employed,Asia,Snapchat,6,8.0,196,7.5,Yes,6,Social connection,Yes,8,8,High
+P000436,42,Female,Full-time employed,Latin America,LinkedIn,3,4.4,47,7.5,Yes,0,Entertainment,No,9,10,High
+P000437,61,Female,Self-employed,Europe,TikTok,5,4.0,81,6.5,No,24,Work/Study,No,6,6,Moderate
+P000438,17,Male,Student,Latin America,YouTube,5,7.6,104,8.5,No,28,Social connection,No,7,6,Moderate
+P000439,33,Male,Part-time employed,Africa,LinkedIn,5,4.1,57,7.2,No,78,Social connection,No,9,7,High
+P000440,63,Male,Student,Europe,YouTube,4,6.4,123,8.0,No,11,News,No,7,6,Moderate
+P000441,28,Female,Full-time employed,North America,TikTok,4,5.5,92,6.8,Yes,29,News,No,6,7,Moderate
+P000442,19,Male,Part-time employed,Oceania,Snapchat,6,8.7,156,7.4,No,8,Entertainment,Yes,7,7,High
+P000443,38,Female,Student,Asia,Facebook,3,0.5,18,7.8,No,29,Entertainment,No,10,9,High
+P000444,39,Female,Unemployed,Africa,X (Twitter),5,7.7,123,6.8,Yes,37,News,No,6,3,Moderate
+P000445,47,Female,Full-time employed,Europe,Facebook,4,7.2,156,6.9,No,30,Social connection,Yes,7,8,High
+P000446,29,Male,Unemployed,Oceania,X (Twitter),4,6.2,102,8.1,No,16,News,Yes,6,5,Moderate
+P000447,62,Male,Full-time employed,North America,TikTok,4,3.9,67,7.9,No,30,Work/Study,No,7,8,High
+P000448,40,Male,Full-time employed,Asia,Snapchat,5,6.1,120,7.3,Yes,27,Work/Study,No,7,6,Moderate
+P000449,27,Male,Unemployed,Africa,YouTube,3,5.0,96,6.1,No,9,Entertainment,No,7,6,Moderate
+P000450,62,Male,Self-employed,Asia,Facebook,2,3.9,89,7.5,No,8,Shopping,No,7,7,High
+P000451,61,Male,Part-time employed,North America,TikTok,1,1.3,32,8.3,No,50,Work/Study,No,8,10,High
+P000452,38,Male,Full-time employed,Latin America,Instagram,4,4.0,86,7.7,No,60,Entertainment,No,7,8,High
+P000453,14,Female,Student,Africa,Facebook,5,9.9,168,6.6,Yes,24,Work/Study,Yes,6,6,Moderate
+P000454,44,Male,Self-employed,North America,Instagram,5,6.5,84,6.9,No,114,Shopping,No,4,4,Low
+P000455,41,Male,Full-time employed,Oceania,LinkedIn,3,3.5,20,7.7,No,45,News,No,7,5,Moderate
+P000456,20,Female,Student,North America,LinkedIn,3,5.5,48,8.0,No,7,Shopping,No,5,4,Moderate
+P000457,45,Female,Full-time employed,North America,YouTube,4,3.2,110,6.4,No,95,Shopping,Yes,8,5,Moderate
+P000458,56,Female,Full-time employed,North America,YouTube,2,4.9,21,7.8,No,40,Shopping,No,5,7,Moderate
+P000459,18,Female,Student,Africa,Facebook,5,5.2,129,6.7,Yes,8,Shopping,No,7,9,High
+P000460,50,Male,Student,Latin America,TikTok,4,4.7,59,6.4,Yes,16,Entertainment,No,9,10,High
+P000461,20,Female,Part-time employed,Asia,LinkedIn,3,8.5,188,7.0,No,8,Entertainment,No,8,8,High
+P000462,51,Female,Full-time employed,Africa,Instagram,5,3.7,5,8.4,No,2,Work/Study,No,6,4,Moderate
+P000463,34,Female,Full-time employed,North America,Facebook,6,7.6,129,7.6,No,78,Work/Study,No,7,7,High
+P000464,13,Female,Student,North America,TikTok,4,7.1,171,6.4,Yes,6,News,No,5,7,Moderate
+P000465,63,Male,Full-time employed,Asia,Snapchat,1,2.3,62,8.4,No,24,Social connection,Yes,7,7,High
+P000466,21,Female,Student,Oceania,TikTok,2,4.9,78,7.9,No,2,Shopping,No,8,7,High
+P000467,43,Female,Student,Asia,Facebook,7,6.7,62,7.0,No,14,News,No,8,6,High
+P000468,22,Female,Student,Oceania,Snapchat,3,5.3,55,6.4,Yes,23,Work/Study,No,8,10,High
+P000469,61,Male,Part-time employed,Asia,Facebook,2,3.6,106,7.3,No,35,Work/Study,No,7,7,High
+P000470,51,Male,Part-time employed,Latin America,TikTok,3,3.8,57,7.6,Yes,57,Shopping,No,9,7,High
+P000471,54,Male,Unemployed,Asia,TikTok,1,1.5,24,8.0,No,3,Work/Study,No,6,5,Moderate
+P000472,35,Male,Full-time employed,North America,X (Twitter),2,4.3,85,6.4,Yes,0,Work/Study,No,6,4,Moderate
+P000473,37,Male,Full-time employed,Oceania,Instagram,6,8.1,106,5.3,Yes,18,Shopping,Yes,4,4,Low
+P000474,45,Female,Full-time employed,Latin America,YouTube,4,4.9,100,7.4,Yes,13,Entertainment,No,8,8,High
+P000475,53,Male,Self-employed,Latin America,X (Twitter),2,1.7,18,7.7,No,105,Work/Study,Yes,8,7,High
+P000476,57,Male,Self-employed,Asia,YouTube,3,3.9,79,7.8,No,36,News,No,8,9,High
+P000477,13,Male,Student,Oceania,Snapchat,4,7.4,115,7.7,No,5,Work/Study,No,6,6,Moderate
+P000478,47,Female,Full-time employed,North America,X (Twitter),6,11.2,154,5.0,Yes,3,Social connection,No,4,5,Moderate
+P000479,18,Female,Student,Latin America,Instagram,4,7.8,127,6.4,Yes,51,News,Yes,7,7,High
+P000480,27,Female,Full-time employed,Oceania,Snapchat,3,5.5,118,6.7,Yes,1,Social connection,No,7,10,High
+P000481,56,Female,Full-time employed,Latin America,LinkedIn,3,6.2,123,7.4,No,36,Entertainment,No,7,6,Moderate
+P000482,26,Non-binary,Part-time employed,Africa,TikTok,2,2.7,49,8.6,No,97,News,No,9,8,High
+P000483,54,Female,Full-time employed,Europe,YouTube,4,3.8,95,6.8,No,13,Entertainment,No,9,8,High
+P000484,37,Female,Full-time employed,North America,YouTube,6,9.3,161,7.0,No,31,Entertainment,No,5,5,Moderate
+P000485,25,Male,Full-time employed,Latin America,YouTube,3,6.3,115,7.8,No,64,News,No,7,5,Moderate
+P000486,30,Female,Full-time employed,Europe,Facebook,1,2.5,30,7.7,No,53,Shopping,Yes,10,10,High
+P000487,40,Male,Part-time employed,North America,LinkedIn,3,4.2,104,7.5,No,23,Work/Study,Yes,6,4,Moderate
+P000488,52,Female,Self-employed,Africa,X (Twitter),6,6.7,129,6.8,Yes,24,Entertainment,No,9,9,High
+P000489,44,Male,Part-time employed,Oceania,LinkedIn,3,5.4,80,7.0,Yes,47,Entertainment,No,6,4,Moderate
+P000490,61,Male,Full-time employed,Africa,YouTube,2,1.2,5,8.4,No,65,News,Yes,9,9,High
+P000491,58,Male,Unemployed,Oceania,Facebook,2,1.8,65,8.3,No,29,News,Yes,8,9,High
+P000492,52,Female,Full-time employed,Oceania,Instagram,2,2.7,26,7.2,No,5,Entertainment,No,10,10,High
+P000493,44,Female,Self-employed,Europe,TikTok,3,5.3,97,7.4,Yes,118,Social connection,Yes,7,6,Moderate
+P000494,28,Male,Full-time employed,Oceania,X (Twitter),6,8.9,230,7.4,No,5,Entertainment,No,5,5,Moderate
+P000495,34,Female,Self-employed,Latin America,TikTok,5,7.7,162,7.0,No,3,News,No,6,5,Moderate
+P000496,19,Male,Student,Oceania,LinkedIn,6,8.0,192,5.5,Yes,20,Work/Study,No,6,5,Moderate
+P000497,32,Female,Full-time employed,Latin America,TikTok,3,3.1,39,7.7,No,1,Social connection,Yes,8,7,High
+P000498,61,Male,Full-time employed,Asia,TikTok,3,0.5,41,8.3,No,25,News,Yes,9,10,High
+P000499,35,Male,Full-time employed,Latin America,Snapchat,6,6.6,119,6.4,No,36,Social connection,Yes,2,1,Low
+P000500,18,Female,Student,Africa,Instagram,5,4.5,91,7.3,No,29,Shopping,Yes,8,10,High
+P000501,46,Female,Self-employed,Asia,YouTube,5,3.9,130,6.8,No,108,Entertainment,No,8,9,High
+P000502,63,Female,Unemployed,Latin America,TikTok,4,3.3,51,8.1,No,71,News,No,10,9,High
+P000503,58,Female,Full-time employed,Latin America,X (Twitter),1,0.9,16,8.2,No,69,Social connection,Yes,10,10,High
+P000504,27,Female,Unemployed,North America,Snapchat,4,4.3,50,6.5,No,54,News,No,7,6,Moderate
+P000505,36,Male,Self-employed,Africa,TikTok,4,5.2,120,7.6,No,31,News,No,8,9,High
+P000506,40,Male,Unemployed,Asia,YouTube,6,6.0,91,6.7,Yes,8,Work/Study,Yes,5,3,Low
+P000507,25,Non-binary,Self-employed,North America,Facebook,4,8.6,185,6.6,Yes,0,Shopping,Yes,7,5,Moderate
+P000508,26,Male,Self-employed,Oceania,X (Twitter),5,7.6,87,6.7,No,109,News,No,6,5,Moderate
+P000509,25,Female,Part-time employed,Latin America,YouTube,3,6.6,135,6.6,No,24,Social connection,No,5,6,Moderate
+P000510,64,Male,Self-employed,Europe,Facebook,2,1.1,5,7.6,No,46,News,No,9,10,High
+P000511,51,Female,Student,Asia,Facebook,2,1.8,54,7.7,No,78,News,Yes,10,10,High
+P000512,56,Male,Full-time employed,Latin America,Instagram,3,2.4,42,7.9,No,52,Shopping,No,9,10,High
+P000513,55,Female,Full-time employed,Oceania,Facebook,2,4.3,61,7.6,No,39,News,Yes,10,10,High
+P000514,62,Female,Full-time employed,Asia,Facebook,4,3.5,51,7.6,No,2,Shopping,Yes,7,8,High
+P000515,18,Male,Part-time employed,Asia,LinkedIn,3,3.0,28,7.5,No,19,Work/Study,No,9,8,High
+P000516,58,Male,Full-time employed,North America,Facebook,2,1.6,53,7.8,No,23,News,No,8,6,High
+P000517,16,Male,Part-time employed,Europe,LinkedIn,7,9.8,144,7.5,Yes,36,Social connection,Yes,6,7,Moderate
+P000518,37,Male,Unemployed,Asia,YouTube,3,5.5,90,6.8,No,0,Social connection,Yes,7,6,Moderate
+P000519,43,Male,Student,Europe,X (Twitter),3,1.9,44,7.6,No,14,Entertainment,No,9,9,High
+P000520,31,Female,Full-time employed,Latin America,LinkedIn,6,10.6,239,7.9,Yes,18,News,Yes,6,6,Moderate
+P000521,20,Male,Student,Africa,TikTok,4,6.9,123,7.3,No,24,Shopping,Yes,6,6,Moderate
+P000522,22,Male,Student,Europe,Facebook,7,7.6,129,5.6,Yes,3,Entertainment,Yes,7,8,High
+P000523,55,Male,Full-time employed,Africa,LinkedIn,3,4.3,85,8.0,No,4,Shopping,Yes,10,10,High
+P000524,29,Male,Self-employed,Africa,Facebook,3,5.4,34,6.8,No,15,Shopping,No,6,6,Moderate
+P000525,29,Male,Full-time employed,Asia,LinkedIn,5,4.6,46,7.5,Yes,36,News,Yes,5,4,Moderate
+P000526,61,Female,Part-time employed,Oceania,YouTube,4,7.1,116,6.9,No,53,Social connection,No,7,7,High
+P000527,20,Female,Student,Europe,LinkedIn,3,9.0,140,6.4,No,3,News,No,5,4,Moderate
+P000528,60,Female,Full-time employed,Africa,X (Twitter),3,4.6,34,8.4,No,1,Shopping,Yes,8,8,High
+P000529,60,Male,Full-time employed,Africa,Facebook,2,4.2,101,7.9,No,66,Entertainment,No,9,10,High
+P000530,44,Female,Full-time employed,Oceania,TikTok,1,2.6,54,8.4,No,17,News,Yes,8,8,High
+P000531,21,Female,Student,North America,TikTok,5,9.5,175,6.4,Yes,102,Entertainment,No,5,6,Moderate
+P000532,21,Female,Student,Latin America,YouTube,4,5.2,72,6.6,Yes,43,Work/Study,No,7,6,Moderate
+P000533,27,Female,Full-time employed,Asia,Snapchat,5,6.9,126,6.9,Yes,48,Entertainment,No,8,9,High
+P000534,43,Male,Full-time employed,North America,Facebook,3,1.4,40,8.8,No,27,Social connection,No,9,10,High
+P000535,20,Non-binary,Part-time employed,Oceania,YouTube,3,2.9,44,7.9,No,1,Work/Study,No,7,8,High
+P000536,36,Female,Self-employed,Asia,Facebook,3,6.0,121,8.3,No,3,Work/Study,No,6,6,Moderate
+P000537,19,Female,Student,Asia,YouTube,5,5.5,75,7.3,Yes,27,Social connection,No,7,8,High
+P000538,41,Female,Student,Africa,Snapchat,3,0.9,19,8.3,No,41,News,Yes,8,10,High
+P000539,14,Non-binary,Student,Latin America,YouTube,5,8.7,190,6.4,Yes,3,Entertainment,Yes,4,4,Low
+P000540,49,Male,Unemployed,North America,Facebook,5,8.3,186,6.9,No,1,News,Yes,7,7,High
+P000541,15,Female,Student,Europe,Facebook,4,10.3,225,5.2,Yes,2,Entertainment,Yes,5,6,Moderate
+P000542,23,Female,Self-employed,Europe,X (Twitter),5,6.2,120,7.1,No,6,Shopping,No,6,5,Moderate
+P000543,22,Female,Student,Africa,YouTube,6,6.8,123,7.2,No,137,Entertainment,No,7,6,Moderate
+P000544,56,Female,Unemployed,North America,Instagram,4,5.2,80,7.1,No,29,Work/Study,Yes,7,7,High
+P000545,15,Male,Student,Africa,X (Twitter),5,9.7,120,6.3,Yes,30,News,No,6,4,Moderate
+P000546,35,Male,Part-time employed,North America,Facebook,3,4.8,46,6.9,Yes,46,Social connection,No,8,9,High
+P000547,43,Male,Full-time employed,North America,X (Twitter),3,4.8,81,7.9,No,64,News,No,5,4,Moderate
+P000548,39,Female,Self-employed,Europe,Facebook,3,5.7,99,7.7,No,20,Entertainment,No,7,6,Moderate
+P000549,48,Female,Self-employed,Latin America,Facebook,4,5.3,137,6.9,Yes,11,News,No,8,8,High
+P000550,54,Female,Student,Europe,LinkedIn,3,3.3,98,6.9,No,49,Work/Study,No,7,7,High
+P000551,33,Female,Full-time employed,Oceania,Instagram,5,5.5,78,8.4,No,85,News,Yes,8,8,High
+P000552,56,Female,Full-time employed,North America,Instagram,4,6.2,136,7.1,No,43,Social connection,Yes,8,8,High
+P000553,29,Male,Part-time employed,Africa,LinkedIn,4,8.5,138,6.2,Yes,6,News,No,6,6,Moderate
+P000554,64,Female,Full-time employed,North America,LinkedIn,2,3.6,85,7.4,No,10,Shopping,Yes,10,9,High
+P000555,39,Female,Full-time employed,North America,YouTube,4,8.5,177,6.0,Yes,7,Work/Study,Yes,7,6,Moderate
+P000556,51,Female,Full-time employed,North America,Facebook,3,3.1,93,8.7,No,43,Entertainment,Yes,8,9,High
+P000557,58,Female,Self-employed,North America,Facebook,6,6.4,100,8.0,No,21,Social connection,No,7,4,Moderate
+P000558,54,Non-binary,Full-time employed,North America,LinkedIn,5,4.7,115,7.7,No,89,Entertainment,No,4,4,Low
+P000559,57,Male,Full-time employed,Oceania,Facebook,6,9.8,120,6.5,No,6,Social connection,No,5,4,Moderate
+P000560,40,Female,Full-time employed,Africa,Snapchat,3,2.6,85,8.2,No,121,Work/Study,No,7,8,High
+P000561,15,Female,Part-time employed,Asia,YouTube,3,6.1,109,6.7,Yes,5,Shopping,No,7,5,Moderate
+P000562,38,Male,Self-employed,Asia,YouTube,4,6.0,107,6.6,Yes,0,News,No,7,6,Moderate
+P000563,22,Male,Student,Asia,X (Twitter),4,7.6,75,7.1,No,40,Work/Study,No,7,7,High
+P000564,59,Male,Full-time employed,Africa,YouTube,6,7.0,114,6.8,No,50,Social connection,Yes,8,9,High
+P000565,25,Male,Part-time employed,Europe,Instagram,2,5.2,134,7.5,No,22,News,Yes,7,7,High
+P000566,24,Female,Full-time employed,North America,TikTok,5,8.4,138,6.4,Yes,7,Shopping,No,9,7,High
+P000567,25,Male,Part-time employed,Africa,LinkedIn,4,8.8,179,6.6,Yes,0,Social connection,No,6,5,Moderate
+P000568,46,Male,Full-time employed,Asia,YouTube,4,5.8,105,6.4,Yes,40,Social connection,No,5,6,Moderate
+P000569,42,Female,Student,Asia,Instagram,3,2.9,84,8.2,No,8,Entertainment,No,8,6,High
+P000570,62,Male,Full-time employed,Asia,LinkedIn,5,5.6,106,6.7,No,13,Social connection,No,6,6,Moderate
+P000571,34,Female,Self-employed,Europe,LinkedIn,5,8.1,117,6.0,Yes,29,Entertainment,Yes,6,6,Moderate
+P000572,27,Male,Full-time employed,Asia,Facebook,5,7.5,136,6.6,No,5,Shopping,No,5,4,Moderate
+P000573,15,Male,Student,Latin America,X (Twitter),4,7.9,190,5.7,Yes,0,Shopping,No,5,9,High
+P000574,13,Non-binary,Student,Africa,Snapchat,5,8.2,162,7.4,No,4,News,No,6,5,Moderate
+P000575,32,Female,Self-employed,Europe,Instagram,5,5.6,97,6.2,Yes,45,News,Yes,6,7,Moderate
+P000576,61,Female,Full-time employed,Latin America,YouTube,4,4.2,143,7.1,No,15,Social connection,Yes,9,8,High
+P000577,40,Female,Full-time employed,Europe,Facebook,3,5.1,126,8.1,No,56,Entertainment,No,8,9,High
+P000578,59,Male,Unemployed,Asia,Facebook,2,1.4,49,7.7,No,4,News,Yes,10,10,High
+P000579,18,Female,Student,North America,YouTube,5,5.1,101,6.8,Yes,24,Entertainment,Yes,7,6,Moderate
+P000580,17,Male,Student,Africa,Instagram,3,5.8,126,6.6,No,5,Shopping,No,8,8,High
+P000581,56,Female,Full-time employed,Europe,LinkedIn,2,3.8,91,8.1,No,10,Social connection,No,6,5,Moderate
+P000582,18,Male,Student,Africa,X (Twitter),5,7.1,62,7.0,Yes,6,Work/Study,Yes,5,4,Moderate
+P000583,15,Female,Part-time employed,Oceania,Snapchat,4,7.9,154,6.8,Yes,34,Social connection,No,5,6,Moderate
+P000584,34,Male,Self-employed,Asia,Facebook,3,6.6,113,7.4,No,62,Entertainment,Yes,7,6,Moderate
+P000585,61,Male,Part-time employed,Asia,Facebook,3,1.6,13,8.1,No,12,News,No,10,7,High
+P000586,48,Male,Part-time employed,Europe,Facebook,3,7.1,121,6.2,Yes,89,Entertainment,No,5,7,Moderate
+P000587,18,Female,Student,Oceania,Facebook,4,6.7,73,6.1,Yes,0,Social connection,No,6,5,Moderate
+P000588,56,Male,Full-time employed,Asia,X (Twitter),2,2.5,5,8.1,Yes,133,Social connection,Yes,8,8,High
+P000589,56,Female,Full-time employed,North America,LinkedIn,3,4.4,116,8.0,No,65,Shopping,No,9,10,High
+P000590,54,Male,Self-employed,Latin America,Snapchat,1,0.5,22,7.8,No,33,News,No,9,9,High
+P000591,59,Female,Full-time employed,Asia,X (Twitter),3,1.5,5,8.1,No,79,Work/Study,No,8,8,High
+P000592,25,Male,Full-time employed,Asia,Instagram,5,8.5,135,6.6,No,12,News,No,4,2,Low
+P000593,63,Female,Full-time employed,Asia,Facebook,3,0.5,35,7.5,No,29,Shopping,Yes,8,6,High
+P000594,29,Male,Full-time employed,Asia,LinkedIn,4,8.3,140,6.4,Yes,56,News,Yes,7,7,High
+P000595,54,Male,Part-time employed,Latin America,YouTube,6,6.6,156,6.4,Yes,3,Shopping,No,7,7,High
+P000596,43,Male,Full-time employed,Oceania,Facebook,1,4.0,103,7.0,No,70,Shopping,No,7,7,High
+P000597,53,Male,Full-time employed,North America,YouTube,2,4.3,36,6.6,No,12,Shopping,Yes,9,8,High
+P000598,45,Male,Self-employed,Europe,TikTok,6,6.7,116,6.2,No,19,Work/Study,Yes,6,6,Moderate
+P000599,46,Male,Full-time employed,Europe,X (Twitter),3,3.5,49,6.9,Yes,11,Shopping,Yes,9,7,High
+P000600,45,Female,Full-time employed,Oceania,YouTube,4,6.2,69,6.6,Yes,50,Work/Study,Yes,8,9,High
+P000601,53,Female,Full-time employed,Oceania,X (Twitter),3,2.4,5,6.8,Yes,39,Social connection,Yes,8,8,High
+P000602,51,Male,Unemployed,Latin America,X (Twitter),3,2.9,28,8.2,No,21,Entertainment,No,7,10,High
+P000603,19,Male,Student,North America,Snapchat,4,5.5,79,6.8,Yes,77,Social connection,Yes,10,10,High
+P000604,55,Male,Self-employed,Asia,LinkedIn,2,4.2,84,7.9,No,32,News,No,8,7,High
+P000605,40,Male,Student,Oceania,Facebook,5,7.3,162,6.9,No,31,Entertainment,Yes,6,6,Moderate
+P000606,29,Male,Self-employed,Asia,Instagram,4,5.7,118,6.8,No,76,Social connection,Yes,8,8,High
+P000607,39,Male,Full-time employed,Asia,X (Twitter),4,2.6,69,7.9,No,54,Work/Study,No,9,10,High
+P000608,63,Male,Self-employed,Africa,LinkedIn,3,0.5,5,7.0,Yes,103,Social connection,Yes,10,10,High
+P000609,57,Female,Full-time employed,Europe,Facebook,3,4.1,91,7.9,No,3,Work/Study,Yes,7,5,Moderate
+P000610,56,Female,Full-time employed,Asia,Facebook,3,7.1,123,6.0,Yes,17,Shopping,No,6,4,Moderate
+P000611,37,Female,Part-time employed,Latin America,Snapchat,6,6.1,96,7.8,No,31,Entertainment,Yes,6,6,Moderate
+P000612,53,Male,Full-time employed,Asia,Facebook,2,2.9,109,7.6,No,40,Work/Study,Yes,9,10,High
+P000613,33,Female,Full-time employed,Europe,YouTube,5,7.2,59,7.1,Yes,13,Shopping,No,6,6,Moderate
+P000614,48,Male,Full-time employed,Latin America,Facebook,3,3.7,10,7.0,No,78,Entertainment,No,8,9,High
+P000615,46,Male,Full-time employed,Europe,Snapchat,3,3.6,76,6.7,Yes,29,Work/Study,No,7,8,High
+P000616,25,Female,Full-time employed,Africa,Facebook,4,4.6,74,7.2,Yes,24,News,Yes,7,7,High
+P000617,26,Male,Part-time employed,Asia,YouTube,5,9.2,122,7.3,No,35,Work/Study,Yes,5,4,Moderate
+P000618,16,Male,Student,Latin America,X (Twitter),3,2.3,9,8.9,No,5,Entertainment,No,10,10,High
+P000619,20,Female,Student,Asia,X (Twitter),4,8.6,127,6.8,No,6,News,No,8,10,High
+P000620,35,Female,Part-time employed,Africa,LinkedIn,3,4.6,109,8.6,No,17,Social connection,Yes,7,8,High
+P000621,37,Female,Full-time employed,Africa,LinkedIn,3,4.5,117,7.3,No,22,Entertainment,No,8,9,High
+P000622,21,Male,Student,Africa,Snapchat,5,10.3,234,6.6,Yes,23,Work/Study,No,6,5,Moderate
+P000623,34,Male,Full-time employed,Europe,Snapchat,3,4.2,27,6.5,Yes,35,News,No,7,7,High
+P000624,44,Non-binary,Full-time employed,Europe,Facebook,5,3.2,16,8.0,No,23,Shopping,No,6,6,Moderate
+P000625,25,Male,Full-time employed,Oceania,YouTube,4,6.2,68,5.3,Yes,15,Entertainment,No,5,5,Moderate
+P000626,30,Male,Full-time employed,Africa,Facebook,2,6.8,161,6.4,No,6,Work/Study,No,5,7,Moderate
+P000627,32,Male,Full-time employed,Europe,X (Twitter),5,4.9,100,7.2,Yes,21,Work/Study,Yes,5,2,Low
+P000628,39,Female,Part-time employed,Asia,Facebook,3,2.0,38,7.2,No,13,Work/Study,No,10,10,High
+P000629,32,Female,Full-time employed,North America,TikTok,3,4.1,80,7.8,No,6,Social connection,No,8,8,High
+P000630,51,Male,Full-time employed,Latin America,Instagram,4,6.5,115,7.7,No,1,Work/Study,No,7,5,Moderate
+P000631,30,Female,Full-time employed,North America,Instagram,3,6.1,76,6.9,No,24,Social connection,No,4,5,Moderate
+P000632,35,Male,Part-time employed,Africa,YouTube,6,6.4,130,6.6,No,52,Work/Study,Yes,4,3,Low
+P000633,32,Female,Full-time employed,Latin America,Snapchat,4,5.3,89,6.6,Yes,48,News,No,7,7,High
+P000634,22,Male,Part-time employed,Oceania,Snapchat,2,5.5,62,6.7,No,41,News,No,9,10,High
+P000635,48,Male,Full-time employed,Oceania,Snapchat,5,7.6,154,6.4,Yes,20,News,No,5,6,Moderate
+P000636,25,Male,Full-time employed,North America,X (Twitter),5,6.1,97,7.3,No,57,Entertainment,No,8,9,High
+P000637,28,Non-binary,Student,Oceania,Instagram,4,5.3,102,6.7,Yes,3,Social connection,Yes,6,6,Moderate
+P000638,54,Female,Full-time employed,North America,LinkedIn,3,5.8,100,8.3,No,2,Social connection,No,8,8,High
+P000639,62,Female,Full-time employed,Asia,LinkedIn,1,1.4,51,7.6,No,3,Shopping,No,10,10,High
+P000640,47,Male,Full-time employed,Europe,Snapchat,2,3.1,62,8.6,No,19,News,No,8,9,High
+P000641,60,Male,Student,North America,Facebook,4,3.0,27,7.1,No,4,Entertainment,Yes,7,6,Moderate
+P000642,57,Male,Part-time employed,Oceania,TikTok,3,3.3,69,7.7,No,24,Entertainment,No,10,8,High
+P000643,38,Male,Part-time employed,Africa,LinkedIn,2,5.7,113,7.5,Yes,17,Shopping,Yes,7,8,High
+P000644,53,Male,Student,Asia,TikTok,5,7.9,157,7.6,No,24,Entertainment,No,8,8,High
+P000645,30,Female,Full-time employed,Asia,Snapchat,4,6.7,151,6.3,Yes,22,Entertainment,Yes,6,4,Moderate
+P000646,36,Female,Student,Latin America,LinkedIn,1,0.6,5,8.5,No,39,Social connection,No,10,10,High
+P000647,40,Female,Full-time employed,Latin America,LinkedIn,3,5.7,122,7.0,Yes,7,Social connection,Yes,7,7,High
+P000648,62,Male,Part-time employed,Africa,Facebook,2,2.9,5,7.5,No,14,Entertainment,Yes,9,10,High
+P000649,57,Male,Full-time employed,Europe,Snapchat,4,3.4,57,8.1,No,49,Shopping,Yes,8,9,High
+P000650,38,Female,Full-time employed,Africa,Snapchat,4,5.7,94,7.9,Yes,25,Entertainment,No,7,6,Moderate
+P000651,46,Male,Student,North America,LinkedIn,4,4.3,120,7.8,No,19,Work/Study,No,8,9,High
+P000652,23,Female,Full-time employed,North America,YouTube,4,6.6,114,7.5,No,70,Shopping,No,6,5,Moderate
+P000653,54,Female,Student,North America,X (Twitter),4,4.8,104,7.8,No,5,Work/Study,No,9,8,High
+P000654,41,Male,Full-time employed,Oceania,Snapchat,3,3.8,15,6.7,No,86,Entertainment,No,7,6,Moderate
+P000655,40,Male,Part-time employed,North America,TikTok,3,3.1,45,8.0,No,0,Work/Study,Yes,7,8,High
+P000656,52,Female,Student,Latin America,TikTok,7,9.8,151,5.4,Yes,7,Social connection,Yes,3,3,Low
+P000657,45,Female,Full-time employed,Oceania,YouTube,4,3.1,130,7.4,No,2,News,No,6,8,High
+P000658,16,Female,Part-time employed,Asia,YouTube,3,7.6,116,7.7,Yes,46,Social connection,No,7,9,High
+P000659,27,Female,Part-time employed,Latin America,Snapchat,3,3.3,61,7.6,No,5,Work/Study,Yes,7,6,Moderate
+P000660,22,Female,Part-time employed,Africa,LinkedIn,5,7.0,129,6.1,Yes,1,News,No,7,3,Moderate
+P000661,51,Male,Full-time employed,Oceania,TikTok,4,2.0,5,8.6,No,98,Entertainment,No,9,10,High
+P000662,14,Female,Part-time employed,Asia,YouTube,6,6.7,104,6.0,Yes,47,News,No,6,6,Moderate
+P000663,23,Female,Self-employed,Africa,LinkedIn,4,8.8,170,6.4,No,28,Work/Study,Yes,6,5,Moderate
+P000664,44,Male,Full-time employed,Africa,X (Twitter),5,5.5,101,7.6,Yes,27,Shopping,No,8,7,High
+P000665,49,Male,Full-time employed,North America,TikTok,4,5.2,24,7.4,No,33,Shopping,No,4,3,Low
+P000666,39,Female,Full-time employed,Africa,X (Twitter),3,1.6,11,7.1,No,46,Entertainment,No,8,10,High
+P000667,57,Female,Unemployed,North America,LinkedIn,5,7.0,156,6.9,Yes,14,Shopping,No,7,7,High
+P000668,60,Male,Full-time employed,Latin America,YouTube,1,0.6,28,8.0,No,133,News,Yes,10,10,High
+P000669,19,Female,Part-time employed,North America,Facebook,6,10.2,220,6.9,Yes,23,Work/Study,No,7,8,High
+P000670,62,Female,Student,Europe,X (Twitter),4,4.8,56,7.1,No,14,Social connection,No,6,6,Moderate
+P000671,44,Female,Full-time employed,Africa,Snapchat,4,5.8,142,7.4,Yes,33,Work/Study,No,7,6,Moderate
+P000672,46,Male,Full-time employed,Europe,Facebook,2,2.7,47,8.9,No,117,Social connection,No,7,8,High
+P000673,17,Male,Student,Europe,LinkedIn,3,7.6,184,5.9,Yes,6,News,No,8,9,High
+P000674,45,Male,Full-time employed,Oceania,Snapchat,4,3.6,64,7.0,Yes,1,Social connection,Yes,9,10,High
+P000675,50,Female,Part-time employed,Oceania,YouTube,3,4.1,12,7.3,Yes,30,Social connection,Yes,8,8,High
+P000676,43,Female,Self-employed,Latin America,Facebook,2,4.2,101,7.0,No,7,News,No,8,8,High
+P000677,17,Male,Student,Latin America,X (Twitter),2,3.2,44,7.9,No,50,Shopping,No,10,10,High
+P000678,40,Female,Full-time employed,North America,Instagram,5,7.2,118,6.9,No,40,Work/Study,No,8,8,High
+P000679,61,Male,Self-employed,Latin America,TikTok,2,2.7,5,7.7,No,49,Work/Study,No,10,9,High
+P000680,50,Female,Part-time employed,Latin America,TikTok,3,3.0,102,7.8,No,9,Social connection,No,9,8,High
+P000681,20,Male,Student,Latin America,Snapchat,2,5.9,90,6.8,Yes,55,News,No,6,6,Moderate
+P000682,62,Female,Part-time employed,Latin America,Snapchat,4,3.5,110,7.8,No,71,News,No,9,10,High
+P000683,62,Female,Unemployed,Latin America,Snapchat,2,1.0,5,7.8,No,104,Work/Study,No,10,10,High
+P000684,21,Female,Student,Oceania,Instagram,1,2.4,15,7.5,No,47,Entertainment,Yes,8,6,High
+P000685,54,Male,Full-time employed,Africa,YouTube,1,4.4,118,6.9,Yes,48,Entertainment,No,7,6,Moderate
+P000686,34,Male,Full-time employed,North America,YouTube,5,6.6,116,7.1,No,1,News,No,8,8,High
+P000687,43,Male,Full-time employed,Latin America,Instagram,4,4.3,75,7.3,No,102,Shopping,No,10,10,High
+P000688,36,Non-binary,Full-time employed,Europe,TikTok,3,3.1,17,7.9,No,18,Work/Study,No,7,6,Moderate
+P000689,53,Male,Full-time employed,Europe,Facebook,4,3.9,56,6.0,Yes,38,Shopping,Yes,7,6,Moderate
+P000690,64,Female,Student,Africa,LinkedIn,3,0.5,21,7.8,No,25,Social connection,No,10,8,High
+P000691,54,Female,Full-time employed,Latin America,TikTok,2,1.5,5,7.9,No,16,Social connection,Yes,9,10,High
+P000692,61,Male,Unemployed,Asia,LinkedIn,2,1.4,9,7.5,No,117,Work/Study,Yes,8,8,High
+P000693,62,Male,Full-time employed,North America,Snapchat,3,4.5,68,8.5,No,15,Entertainment,No,10,9,High
+P000694,17,Male,Student,Oceania,TikTok,5,6.6,120,7.1,No,8,Shopping,No,7,7,High
+P000695,26,Female,Full-time employed,Latin America,TikTok,5,5.5,143,7.4,No,21,Work/Study,No,8,9,High
+P000696,50,Non-binary,Full-time employed,Oceania,Facebook,5,7.9,133,6.6,No,2,News,No,8,7,High
+P000697,43,Male,Self-employed,Latin America,LinkedIn,5,5.4,76,6.8,Yes,2,Entertainment,Yes,6,5,Moderate
+P000698,15,Non-binary,Student,Asia,Snapchat,5,8.2,229,6.1,No,17,Social connection,No,6,8,High
+P000699,17,Male,Student,Europe,LinkedIn,5,6.6,105,6.5,Yes,25,Shopping,Yes,5,5,Moderate
+P000700,40,Male,Full-time employed,Asia,YouTube,5,3.8,62,6.6,Yes,61,Entertainment,No,7,8,High
+P000701,45,Female,Self-employed,Africa,LinkedIn,3,0.5,5,8.0,No,24,Entertainment,No,7,8,High
+P000702,21,Female,Part-time employed,Africa,LinkedIn,7,8.8,150,5.2,No,18,Social connection,No,6,6,Moderate
+P000703,21,Male,Part-time employed,North America,X (Twitter),4,7.8,142,5.7,Yes,53,Social connection,No,6,6,Moderate
+P000704,19,Female,Student,Africa,TikTok,6,6.7,148,7.5,Yes,61,Work/Study,No,7,8,High
+P000705,42,Female,Full-time employed,Latin America,TikTok,3,4.5,93,8.0,No,7,Entertainment,No,8,10,High
+P000706,13,Female,Student,Africa,Instagram,5,9.2,197,7.4,No,18,Work/Study,No,7,8,High
+P000707,42,Female,Full-time employed,Africa,Snapchat,1,1.7,61,8.8,No,25,Work/Study,No,8,6,High
+P000708,37,Male,Full-time employed,North America,YouTube,3,4.1,80,8.0,No,19,Social connection,No,8,10,High
+P000709,37,Male,Student,Latin America,X (Twitter),2,3.0,65,7.5,No,18,News,Yes,9,9,High
+P000710,48,Female,Self-employed,Europe,TikTok,5,7.7,171,6.3,No,4,Work/Study,No,4,3,Low
+P000711,40,Female,Student,Africa,LinkedIn,3,6.8,89,7.8,No,58,Shopping,No,8,8,High
+P000712,50,Male,Full-time employed,Oceania,Snapchat,3,0.5,83,8.2,No,8,Work/Study,Yes,7,8,High
+P000713,52,Male,Part-time employed,Europe,YouTube,2,0.8,5,9.7,No,12,Shopping,No,10,10,High
+P000714,60,Male,Full-time employed,Africa,Facebook,5,2.7,38,7.6,No,2,Entertainment,Yes,7,7,High
+P000715,54,Female,Part-time employed,Asia,Instagram,2,2.7,12,8.5,Yes,22,Work/Study,No,10,10,High
+P000716,39,Male,Full-time employed,North America,Instagram,4,2.5,9,7.8,No,58,Work/Study,No,7,7,High
+P000717,38,Male,Full-time employed,Africa,LinkedIn,3,9.1,193,7.0,Yes,0,Social connection,Yes,4,3,Low
+P000718,25,Male,Part-time employed,Europe,Snapchat,5,7.1,195,7.5,Yes,1,Social connection,No,7,6,Moderate
+P000719,44,Female,Full-time employed,Europe,Snapchat,3,5.5,81,6.7,No,27,Entertainment,No,6,7,Moderate
+P000720,20,Female,Part-time employed,North America,X (Twitter),3,5.6,111,7.0,No,4,Shopping,No,5,5,Moderate
+P000721,61,Male,Self-employed,Asia,TikTok,3,4.3,84,6.9,No,10,Shopping,No,8,6,High
+P000722,56,Male,Full-time employed,Latin America,Instagram,2,2.6,76,7.1,No,19,Entertainment,No,6,7,Moderate
+P000723,19,Male,Student,Asia,Snapchat,3,6.5,183,7.5,No,11,Social connection,No,6,5,Moderate
+P000724,53,Female,Part-time employed,Europe,YouTube,3,4.9,133,7.3,No,5,News,No,7,9,High
+P000725,19,Female,Student,Europe,Instagram,3,3.8,61,7.6,No,0,Shopping,No,9,7,High
+P000726,50,Female,Self-employed,Oceania,Instagram,6,7.2,145,6.8,Yes,37,Shopping,Yes,8,8,High
+P000727,17,Female,Part-time employed,Oceania,Facebook,5,7.7,157,5.8,No,30,Shopping,Yes,7,6,Moderate
+P000728,38,Male,Self-employed,Asia,Snapchat,6,7.8,139,7.2,Yes,26,Shopping,No,6,5,Moderate
+P000729,47,Male,Unemployed,Asia,YouTube,1,2.1,5,7.2,Yes,3,Work/Study,No,5,4,Moderate
+P000730,50,Male,Part-time employed,Africa,LinkedIn,2,2.2,15,7.7,Yes,3,Social connection,No,9,10,High
+P000731,34,Male,Full-time employed,Europe,YouTube,4,3.3,93,8.1,No,4,Work/Study,No,10,10,High
+P000732,60,Male,Full-time employed,Latin America,Snapchat,3,3.5,100,8.5,No,109,News,Yes,10,9,High
+P000733,53,Female,Part-time employed,Oceania,TikTok,2,3.8,62,7.6,No,4,Shopping,No,8,6,High
+P000734,23,Male,Full-time employed,Asia,X (Twitter),5,5.8,112,6.0,No,34,News,No,5,3,Low
+P000735,47,Female,Full-time employed,Oceania,TikTok,2,2.3,77,7.9,No,30,Work/Study,Yes,8,7,High
+P000736,50,Male,Full-time employed,Asia,Snapchat,1,1.5,5,8.2,No,104,Entertainment,No,10,9,High
+P000737,30,Male,Part-time employed,Europe,Facebook,4,5.9,92,6.6,No,66,Work/Study,No,5,5,Moderate
+P000738,51,Female,Full-time employed,Latin America,Instagram,3,3.0,114,7.8,No,10,News,No,7,4,Moderate
+P000739,59,Male,Part-time employed,Oceania,TikTok,2,1.7,39,7.8,No,15,News,Yes,10,10,High
+P000740,55,Male,Self-employed,Latin America,YouTube,4,6.6,84,5.8,Yes,20,Work/Study,No,6,7,Moderate
+P000741,52,Male,Unemployed,Asia,Facebook,2,3.6,68,7.6,Yes,142,News,No,7,9,High
+P000742,45,Female,Full-time employed,Europe,TikTok,4,7.0,156,6.7,No,140,Entertainment,No,8,6,High
+P000743,27,Male,Part-time employed,Africa,X (Twitter),5,5.2,17,6.6,Yes,7,Social connection,Yes,8,7,High
+P000744,54,Female,Part-time employed,Latin America,LinkedIn,3,4.1,79,7.3,No,9,Shopping,Yes,7,6,Moderate
+P000745,31,Non-binary,Full-time employed,Asia,X (Twitter),5,5.8,93,8.0,No,91,Shopping,No,6,6,Moderate
+P000746,40,Female,Self-employed,Latin America,YouTube,3,1.6,5,8.0,No,33,Work/Study,Yes,10,8,High
+P000747,29,Male,Full-time employed,North America,X (Twitter),4,9.0,164,6.2,Yes,1,Work/Study,Yes,6,8,High
+P000748,29,Female,Student,Asia,LinkedIn,2,5.8,100,7.0,No,16,Social connection,No,9,9,High
+P000749,21,Male,Student,Europe,TikTok,4,8.4,150,7.1,No,1,Work/Study,No,7,7,High
+P000750,62,Female,Unemployed,Oceania,TikTok,1,1.3,12,8.9,No,59,News,No,9,10,High
+P000751,20,Female,Part-time employed,Africa,Instagram,3,6.7,89,7.0,Yes,4,Entertainment,Yes,6,6,Moderate
+P000752,17,Male,Student,Asia,Snapchat,5,5.6,57,7.2,Yes,49,Shopping,No,9,10,High
+P000753,61,Male,Self-employed,Asia,Snapchat,5,5.4,76,7.7,No,70,Shopping,No,9,8,High
+P000754,41,Female,Full-time employed,North America,YouTube,6,5.5,124,6.5,No,42,Entertainment,Yes,5,3,Low
+P000755,35,Female,Self-employed,North America,LinkedIn,3,6.2,118,6.2,Yes,35,News,Yes,7,6,Moderate
+P000756,51,Female,Part-time employed,North America,X (Twitter),6,6.6,116,7.0,No,11,Work/Study,Yes,7,10,High
+P000757,32,Female,Full-time employed,Africa,LinkedIn,6,8.1,114,6.4,No,28,Work/Study,No,5,6,Moderate
+P000758,19,Female,Student,Europe,LinkedIn,5,8.6,143,5.6,Yes,21,Entertainment,Yes,6,6,Moderate
+P000759,50,Female,Self-employed,Asia,LinkedIn,2,1.2,43,7.0,No,56,Entertainment,No,7,6,Moderate
+P000760,22,Female,Student,Africa,YouTube,5,5.4,112,6.5,No,0,Shopping,Yes,6,7,Moderate
+P000761,41,Male,Unemployed,Oceania,X (Twitter),3,2.9,37,7.1,Yes,28,Shopping,Yes,7,5,Moderate
+P000762,62,Female,Self-employed,Europe,TikTok,3,4.3,5,7.0,Yes,2,Work/Study,No,7,5,Moderate
+P000763,61,Female,Self-employed,North America,LinkedIn,2,3.2,37,7.2,No,25,Work/Study,No,8,7,High
+P000764,31,Male,Full-time employed,Latin America,YouTube,1,3.1,41,7.8,No,14,Work/Study,No,7,10,High
+P000765,53,Male,Self-employed,Asia,Facebook,3,3.3,32,7.4,No,14,News,No,10,10,High
+P000766,44,Male,Student,Oceania,X (Twitter),1,1.6,16,8.7,No,37,Work/Study,Yes,10,9,High
+P000767,37,Male,Full-time employed,Europe,Snapchat,3,5.2,118,6.8,Yes,13,Social connection,No,9,8,High
+P000768,20,Female,Student,Latin America,Snapchat,3,3.7,65,7.6,Yes,42,Entertainment,Yes,8,6,High
+P000769,32,Male,Full-time employed,North America,LinkedIn,3,6.9,153,6.7,Yes,26,Social connection,No,6,6,Moderate
+P000770,46,Female,Full-time employed,Africa,X (Twitter),4,5.2,48,6.0,Yes,3,Social connection,No,9,9,High
+P000771,64,Male,Self-employed,Europe,Snapchat,5,6.4,106,7.1,No,23,Social connection,No,6,7,Moderate
+P000772,13,Female,Part-time employed,Asia,X (Twitter),5,9.4,111,5.9,No,1,News,Yes,5,6,Moderate
+P000773,50,Female,Part-time employed,Latin America,YouTube,3,3.2,44,7.7,No,28,Entertainment,No,9,9,High
+P000774,57,Female,Full-time employed,Oceania,LinkedIn,2,4.9,56,7.0,No,29,News,No,6,7,Moderate
+P000775,62,Female,Full-time employed,Latin America,YouTube,2,0.5,47,8.4,No,72,News,No,10,9,High
+P000776,35,Male,Full-time employed,Africa,X (Twitter),3,3.6,77,6.3,Yes,14,Entertainment,Yes,8,9,High
+P000777,19,Female,Student,North America,YouTube,5,7.8,170,6.4,Yes,10,News,No,8,7,High
+P000778,27,Female,Part-time employed,Asia,Facebook,3,2.0,23,8.3,No,49,Work/Study,Yes,10,10,High
+P000779,57,Male,Full-time employed,North America,YouTube,2,3.2,27,8.3,No,35,News,No,10,10,High
+P000780,58,Non-binary,Self-employed,Oceania,TikTok,1,1.2,5,7.6,No,77,Entertainment,No,9,9,High
+P000781,46,Male,Full-time employed,Africa,Snapchat,4,4.6,90,7.0,Yes,21,Work/Study,No,6,7,Moderate
+P000782,19,Female,Student,Africa,Snapchat,4,4.9,142,7.0,Yes,8,News,No,10,8,High
+P000783,19,Male,Student,Europe,X (Twitter),4,7.9,154,7.3,Yes,6,News,No,5,4,Moderate
+P000784,37,Female,Student,Latin America,Instagram,4,5.3,84,6.5,No,10,Entertainment,Yes,5,5,Moderate
+P000785,43,Male,Self-employed,Latin America,TikTok,6,7.5,129,5.9,Yes,51,Entertainment,Yes,7,5,Moderate
+P000786,14,Male,Student,Latin America,TikTok,6,7.6,135,8.1,Yes,33,Entertainment,No,9,8,High
+P000787,48,Male,Full-time employed,Oceania,X (Twitter),2,2.7,109,7.2,Yes,14,Shopping,No,8,8,High
+P000788,41,Non-binary,Full-time employed,Africa,LinkedIn,2,4.4,116,6.4,No,57,Social connection,No,8,10,High
+P000789,13,Male,Student,Europe,YouTube,2,5.0,97,7.1,No,5,News,Yes,5,5,Moderate
+P000790,17,Female,Part-time employed,Europe,YouTube,4,8.1,149,5.2,No,62,Work/Study,No,5,6,Moderate
+P000791,36,Female,Student,Latin America,Facebook,6,6.6,127,6.8,Yes,2,Work/Study,No,4,4,Low
+P000792,50,Female,Self-employed,Oceania,LinkedIn,4,8.9,175,6.7,Yes,48,Entertainment,No,7,6,Moderate
+P000793,55,Male,Full-time employed,Oceania,YouTube,2,2.3,29,7.3,No,10,Shopping,No,6,6,Moderate
+P000794,35,Female,Self-employed,Latin America,TikTok,3,5.0,64,6.6,Yes,41,Social connection,No,6,7,Moderate
+P000795,28,Female,Student,Latin America,Facebook,3,5.0,120,7.5,Yes,2,Work/Study,Yes,8,10,High
+P000796,63,Male,Full-time employed,Africa,LinkedIn,3,3.1,56,6.7,No,13,Shopping,No,9,9,High
+P000797,36,Male,Part-time employed,Oceania,Snapchat,3,6.2,140,5.9,Yes,5,News,No,6,4,Moderate
+P000798,29,Female,Student,Asia,Facebook,5,6.0,157,6.6,Yes,65,Entertainment,No,7,5,Moderate
+P000799,36,Male,Full-time employed,Europe,Snapchat,4,7.6,152,6.5,No,5,News,Yes,7,7,High
+P000800,13,Male,Student,North America,Instagram,7,6.5,127,7.0,No,12,Social connection,No,6,3,Moderate
+P000801,28,Male,Full-time employed,Latin America,Snapchat,4,8.2,243,5.6,Yes,2,Shopping,Yes,4,6,Moderate
+P000802,39,Female,Part-time employed,Europe,Instagram,6,6.2,117,6.8,Yes,20,Work/Study,No,7,8,High
+P000803,60,Female,Self-employed,Europe,YouTube,4,3.0,21,7.7,No,165,Shopping,No,9,8,High
+P000804,51,Female,Part-time employed,Asia,YouTube,2,3.3,50,7.5,Yes,12,Shopping,Yes,9,8,High
+P000805,53,Female,Full-time employed,Asia,X (Twitter),5,8.6,201,6.4,Yes,104,Entertainment,No,6,7,Moderate
+P000806,41,Male,Part-time employed,North America,TikTok,2,3.3,20,7.8,No,31,Entertainment,No,7,6,Moderate
+P000807,18,Male,Student,Oceania,TikTok,4,7.8,117,6.0,No,10,Work/Study,No,7,6,Moderate
+P000808,33,Male,Full-time employed,Europe,LinkedIn,3,4.2,108,7.8,No,40,Work/Study,No,8,7,High
+P000809,64,Male,Full-time employed,Europe,Facebook,4,6.2,103,6.5,Yes,1,Shopping,No,6,6,Moderate
+P000810,15,Male,Part-time employed,Europe,Snapchat,4,9.3,164,6.0,Yes,31,Work/Study,Yes,5,6,Moderate
+P000811,58,Female,Full-time employed,Oceania,X (Twitter),5,1.8,64,8.6,No,29,Shopping,No,8,10,High
+P000812,48,Male,Full-time employed,Latin America,X (Twitter),3,5.2,72,6.9,No,16,Social connection,No,8,9,High
+P000813,27,Male,Unemployed,Latin America,X (Twitter),4,6.8,78,7.4,Yes,32,Entertainment,No,5,5,Moderate
+P000814,53,Male,Full-time employed,Europe,X (Twitter),2,2.7,6,8.7,No,13,Entertainment,No,8,9,High
+P000815,56,Male,Full-time employed,Oceania,LinkedIn,3,4.9,105,7.4,Yes,36,News,No,7,6,Moderate
+P000816,15,Male,Student,Europe,Snapchat,4,8.3,157,6.2,No,47,Entertainment,Yes,8,6,High
+P000817,18,Male,Student,Oceania,YouTube,5,7.6,116,5.6,No,4,News,No,7,6,Moderate
+P000818,47,Male,Self-employed,Oceania,TikTok,3,4.2,40,8.2,No,15,News,No,6,5,Moderate
+P000819,64,Female,Full-time employed,Latin America,Snapchat,4,3.5,54,7.7,No,48,Social connection,No,10,9,High
+P000820,14,Female,Student,Oceania,YouTube,5,8.1,179,6.4,No,2,News,Yes,8,7,High
+P000821,47,Female,Student,Oceania,YouTube,4,4.4,54,7.7,Yes,8,Work/Study,Yes,6,5,Moderate
+P000822,20,Female,Student,Latin America,Instagram,4,5.7,82,6.3,Yes,13,Entertainment,No,4,5,Moderate
+P000823,46,Female,Self-employed,Africa,Facebook,5,7.8,104,6.6,No,7,News,Yes,6,8,High
+P000824,45,Female,Unemployed,Latin America,Facebook,2,2.4,32,7.7,Yes,21,Shopping,No,10,8,High
+P000825,17,Female,Student,Latin America,Snapchat,6,8.2,157,5.7,Yes,32,Social connection,Yes,8,6,High
+P000826,48,Female,Full-time employed,North America,Snapchat,3,3.6,128,7.6,No,51,Work/Study,No,7,6,Moderate
+P000827,59,Male,Part-time employed,Latin America,Snapchat,4,6.6,125,7.8,No,86,Social connection,Yes,9,10,High
+P000828,57,Male,Part-time employed,Europe,Facebook,2,1.5,25,8.2,No,15,Social connection,Yes,6,6,Moderate
+P000829,14,Male,Part-time employed,Europe,LinkedIn,4,6.1,135,8.0,No,7,Shopping,No,7,6,Moderate
+P000830,25,Male,Full-time employed,Europe,LinkedIn,3,4.6,103,8.2,No,6,Social connection,Yes,7,8,High
+P000831,25,Female,Full-time employed,Asia,Snapchat,4,7.1,110,6.5,Yes,12,Shopping,Yes,8,9,High
+P000832,36,Male,Self-employed,Oceania,YouTube,2,2.7,117,6.4,No,19,Work/Study,No,9,9,High
+P000833,20,Female,Student,Europe,TikTok,5,6.0,107,6.1,Yes,57,Shopping,Yes,8,7,High
+P000834,57,Female,Self-employed,Africa,Instagram,3,0.5,16,8.7,No,20,Shopping,Yes,8,8,High
+P000835,53,Female,Full-time employed,North America,LinkedIn,5,4.2,92,6.6,No,4,Shopping,No,8,8,High
+P000836,55,Male,Full-time employed,North America,Snapchat,2,2.5,55,7.7,No,10,News,No,9,9,High
+P000837,23,Male,Full-time employed,Europe,LinkedIn,4,3.7,112,7.8,No,0,Shopping,No,6,5,Moderate
+P000838,13,Male,Student,Africa,Snapchat,4,9.9,160,6.9,Yes,27,Entertainment,No,3,4,Low
+P000839,60,Non-binary,Student,Latin America,Facebook,3,0.5,32,7.9,No,10,News,No,10,10,High
+P000840,28,Female,Unemployed,North America,TikTok,3,7.8,145,6.0,Yes,0,Social connection,No,6,7,Moderate
+P000841,47,Female,Student,Latin America,Instagram,2,2.9,81,7.2,Yes,8,Entertainment,No,7,9,High
+P000842,60,Female,Unemployed,Africa,Snapchat,4,6.2,105,7.4,No,21,Shopping,No,7,8,High
+P000843,14,Female,Student,Latin America,YouTube,5,9.1,153,6.1,Yes,9,Shopping,No,6,5,Moderate
+P000844,13,Female,Part-time employed,North America,YouTube,3,5.7,124,7.4,Yes,27,Work/Study,No,7,8,High
+P000845,13,Male,Student,Oceania,Snapchat,3,5.9,116,6.8,No,15,Work/Study,No,5,6,Moderate
+P000846,21,Male,Student,Oceania,Facebook,5,8.1,121,6.9,No,10,Work/Study,No,8,10,High
+P000847,15,Male,Student,Oceania,LinkedIn,3,7.0,166,6.8,Yes,20,Social connection,Yes,8,8,High
+P000848,55,Female,Full-time employed,Asia,Facebook,3,3.2,79,7.5,No,51,Work/Study,No,8,9,High
+P000849,44,Female,Full-time employed,Oceania,Snapchat,4,7.1,125,7.0,Yes,2,Shopping,No,6,6,Moderate
+P000850,63,Female,Student,Europe,Instagram,3,1.2,7,8.2,No,15,Social connection,No,9,9,High
+P000851,54,Female,Full-time employed,Latin America,YouTube,4,3.8,79,7.6,Yes,6,Social connection,No,7,7,High
+P000852,63,Female,Student,Latin America,TikTok,2,4.6,102,7.1,Yes,58,Entertainment,Yes,8,8,High
+P000853,25,Male,Self-employed,Europe,Instagram,6,8.1,97,6.6,Yes,9,Shopping,Yes,4,5,Moderate
+P000854,27,Male,Part-time employed,Asia,LinkedIn,3,6.0,119,6.3,Yes,24,News,No,7,9,High
+P000855,57,Female,Self-employed,Oceania,Facebook,3,2.7,68,6.9,Yes,11,News,No,7,7,High
+P000856,25,Female,Full-time employed,Oceania,YouTube,2,3.0,5,8.0,Yes,6,Social connection,No,7,6,Moderate
+P000857,15,Female,Student,Europe,YouTube,4,5.4,103,7.7,No,5,Entertainment,Yes,9,9,High
+P000858,47,Male,Full-time employed,Latin America,TikTok,6,4.9,109,6.8,No,21,Shopping,Yes,7,5,Moderate
+P000859,54,Non-binary,Student,Asia,Instagram,3,3.3,76,7.8,No,9,Shopping,Yes,8,10,High
+P000860,63,Female,Full-time employed,Latin America,LinkedIn,2,2.8,74,6.4,No,23,Social connection,Yes,5,4,Moderate
+P000861,61,Female,Full-time employed,Europe,Instagram,3,5.0,80,6.6,Yes,33,Work/Study,No,6,7,Moderate
+P000862,19,Male,Student,Africa,YouTube,2,4.7,53,8.0,No,16,News,No,8,8,High
+P000863,53,Female,Self-employed,Latin America,TikTok,4,3.2,5,7.6,No,10,Work/Study,No,8,8,High
+P000864,56,Female,Full-time employed,North America,LinkedIn,3,3.8,101,7.7,No,25,Entertainment,No,5,5,Moderate
+P000865,49,Female,Part-time employed,Africa,TikTok,2,2.7,69,6.0,No,9,Work/Study,Yes,8,7,High
+P000866,55,Female,Full-time employed,North America,YouTube,3,6.4,150,6.4,Yes,39,Entertainment,No,7,6,Moderate
+P000867,56,Female,Self-employed,Asia,Snapchat,4,5.2,71,7.1,Yes,7,Social connection,No,9,10,High
+P000868,36,Female,Full-time employed,Latin America,Facebook,5,6.0,132,7.0,Yes,25,Social connection,No,6,6,Moderate
+P000869,15,Female,Student,Africa,YouTube,5,11.1,154,6.4,Yes,22,Social connection,No,2,3,Low
+P000870,36,Male,Full-time employed,North America,Facebook,4,2.4,17,7.7,No,180,Shopping,Yes,7,9,High
+P000871,23,Male,Full-time employed,Europe,Facebook,4,6.7,124,6.5,Yes,15,Entertainment,Yes,5,4,Moderate
+P000872,18,Male,Part-time employed,Asia,YouTube,4,7.9,162,5.6,Yes,46,Shopping,No,7,8,High
+P000873,19,Female,Student,Europe,X (Twitter),3,5.3,145,7.2,No,10,Entertainment,No,4,4,Low
+P000874,49,Male,Full-time employed,Africa,YouTube,5,4.7,77,6.7,No,0,Shopping,No,7,5,Moderate
+P000875,39,Male,Full-time employed,Europe,LinkedIn,1,2.9,26,6.7,No,0,Social connection,Yes,10,10,High
+P000876,41,Female,Part-time employed,Oceania,Facebook,3,6.3,85,6.0,Yes,16,Shopping,No,6,7,Moderate
+P000877,51,Female,Full-time employed,Europe,Snapchat,5,6.0,87,8.1,No,20,News,Yes,8,7,High
+P000878,41,Male,Self-employed,North America,TikTok,4,5.4,163,7.2,No,15,News,No,5,5,Moderate
+P000879,45,Male,Student,Africa,X (Twitter),1,0.8,37,8.3,No,11,Entertainment,Yes,7,7,High
+P000880,17,Female,Student,Latin America,Facebook,5,5.4,130,7.0,No,25,News,No,9,10,High
+P000881,57,Male,Student,Asia,Snapchat,4,4.4,72,6.4,No,4,News,Yes,7,5,Moderate
+P000882,36,Male,Full-time employed,Asia,Facebook,4,5.4,97,7.4,Yes,65,Shopping,Yes,7,8,High
+P000883,21,Male,Student,Europe,Snapchat,1,1.5,47,6.7,No,7,Social connection,Yes,7,7,High
+P000884,55,Male,Self-employed,Oceania,Instagram,3,6.0,92,6.9,No,64,Entertainment,No,7,6,Moderate
+P000885,51,Female,Self-employed,Asia,X (Twitter),3,4.2,66,7.5,No,36,Social connection,No,6,6,Moderate
+P000886,15,Male,Student,Asia,Snapchat,3,5.9,85,6.9,Yes,18,Social connection,No,8,9,High
+P000887,23,Female,Full-time employed,Africa,Facebook,6,8.7,143,5.8,Yes,0,Shopping,No,9,10,High
+P000888,13,Male,Student,Latin America,Instagram,6,6.3,114,5.6,Yes,29,Entertainment,No,7,7,High
+P000889,27,Male,Full-time employed,Oceania,Facebook,3,4.9,63,6.9,No,30,Shopping,No,6,7,Moderate
+P000890,18,Male,Student,Europe,Snapchat,5,7.9,150,6.4,No,1,Entertainment,Yes,3,5,Low
+P000891,49,Female,Full-time employed,Latin America,Facebook,6,7.7,147,6.0,Yes,69,Shopping,No,4,5,Moderate
+P000892,40,Male,Student,Asia,Instagram,7,8.2,142,6.9,Yes,12,News,No,8,7,High
+P000893,63,Male,Full-time employed,Latin America,YouTube,4,3.4,36,7.0,No,0,Entertainment,No,7,8,High
+P000894,51,Male,Unemployed,Asia,LinkedIn,2,4.8,89,7.1,Yes,23,Work/Study,Yes,7,8,High
+P000895,44,Female,Part-time employed,Oceania,TikTok,4,6.2,96,7.3,No,29,Work/Study,Yes,8,7,High
+P000896,39,Male,Self-employed,North America,Facebook,3,2.6,48,8.4,No,64,Shopping,No,10,8,High
+P000897,15,Female,Student,Europe,YouTube,5,8.8,191,6.6,No,32,Entertainment,No,6,3,Moderate
+P000898,16,Female,Part-time employed,Oceania,X (Twitter),6,5.9,68,7.2,Yes,29,Work/Study,No,7,7,High
+P000899,45,Female,Full-time employed,Asia,YouTube,5,5.1,157,7.3,No,10,News,No,7,7,High
+P000900,13,Female,Student,Africa,YouTube,4,7.2,127,7.3,No,0,News,No,6,4,Moderate
+P000901,15,Male,Student,Latin America,X (Twitter),5,8.5,165,5.4,Yes,7,Shopping,No,5,6,Moderate
+P000902,24,Female,Full-time employed,Africa,X (Twitter),3,6.8,99,5.5,No,11,News,Yes,7,7,High
+P000903,58,Female,Full-time employed,Europe,Facebook,2,0.5,43,8.4,No,17,Social connection,Yes,10,10,High
+P000904,36,Male,Full-time employed,Oceania,TikTok,4,5.8,100,7.5,No,32,News,No,10,10,High
+P000905,49,Female,Full-time employed,North America,Instagram,5,5.4,85,7.1,Yes,115,Shopping,Yes,8,7,High
+P000906,34,Male,Full-time employed,North America,X (Twitter),3,6.5,99,6.3,Yes,6,Shopping,Yes,8,9,High
+P000907,22,Female,Part-time employed,North America,YouTube,2,6.6,110,8.0,No,180,Work/Study,No,6,7,Moderate
+P000908,32,Female,Student,Europe,X (Twitter),4,9.1,176,5.9,Yes,46,Entertainment,Yes,6,5,Moderate
+P000909,17,Female,Student,Europe,YouTube,4,7.9,147,6.6,Yes,3,Social connection,No,5,3,Low
+P000910,53,Male,Student,Asia,Snapchat,3,4.6,81,7.8,No,62,Entertainment,No,8,8,High
+P000911,22,Female,Student,North America,X (Twitter),5,8.9,138,7.2,Yes,8,Entertainment,No,7,6,Moderate
+P000912,32,Female,Full-time employed,North America,YouTube,3,6.5,93,6.4,Yes,31,Shopping,No,7,8,High
+P000913,63,Male,Self-employed,North America,YouTube,1,0.9,5,7.7,No,38,Shopping,Yes,10,9,High
+P000914,43,Female,Part-time employed,Oceania,Snapchat,1,0.5,22,7.3,No,90,Entertainment,No,10,10,High
+P000915,36,Female,Self-employed,Asia,Instagram,2,4.4,99,8.4,No,49,News,No,9,6,High
+P000916,41,Female,Full-time employed,Oceania,Instagram,4,6.4,139,7.4,No,18,Social connection,Yes,8,8,High
+P000917,53,Non-binary,Full-time employed,Oceania,Instagram,2,3.0,53,7.5,Yes,19,Entertainment,No,10,10,High
+P000918,26,Male,Full-time employed,Asia,YouTube,5,8.0,155,8.2,Yes,8,Social connection,Yes,5,4,Moderate
+P000919,46,Male,Part-time employed,Africa,Facebook,2,4.7,79,7.6,No,18,Entertainment,No,9,9,High
+P000920,58,Male,Student,Europe,YouTube,3,5.8,52,6.0,Yes,29,Work/Study,No,5,4,Moderate
+P000921,42,Male,Self-employed,Asia,TikTok,3,4.2,69,6.9,Yes,6,Shopping,No,7,6,Moderate
+P000922,36,Male,Self-employed,Oceania,YouTube,5,6.3,102,6.1,Yes,3,News,No,7,7,High
+P000923,20,Female,Student,Asia,Facebook,5,8.0,112,6.6,No,17,Social connection,No,8,6,High
+P000924,25,Male,Self-employed,Europe,YouTube,6,9.5,153,5.8,Yes,52,News,Yes,4,4,Low
+P000925,62,Female,Full-time employed,Asia,X (Twitter),1,0.5,13,7.9,No,18,Shopping,No,9,10,High
+P000926,41,Male,Unemployed,Asia,YouTube,3,4.0,38,6.7,No,19,Entertainment,No,8,8,High
+P000927,28,Male,Full-time employed,Asia,LinkedIn,4,7.9,120,7.8,No,3,Work/Study,No,6,5,Moderate
+P000928,34,Female,Full-time employed,Oceania,LinkedIn,4,8.7,203,6.4,Yes,7,Entertainment,No,7,8,High
+P000929,43,Female,Part-time employed,Asia,X (Twitter),4,5.2,45,6.7,Yes,40,Social connection,Yes,10,10,High
+P000930,40,Male,Student,Africa,Facebook,5,4.4,73,8.0,No,75,News,Yes,8,7,High
+P000931,49,Female,Full-time employed,Asia,Instagram,3,5.6,65,7.6,No,16,Social connection,No,6,4,Moderate
+P000932,26,Female,Full-time employed,Oceania,X (Twitter),5,8.1,123,6.5,Yes,1,Entertainment,Yes,4,3,Low
+P000933,46,Male,Full-time employed,Oceania,YouTube,2,3.7,60,8.0,No,5,Work/Study,No,8,9,High
+P000934,36,Female,Full-time employed,Latin America,YouTube,2,6.1,80,7.3,No,1,Work/Study,No,6,6,Moderate
+P000935,61,Female,Full-time employed,Africa,Snapchat,3,5.3,112,7.2,Yes,22,News,No,8,9,High
+P000936,21,Male,Student,Europe,Instagram,5,10.7,233,6.3,Yes,62,News,Yes,6,6,Moderate
+P000937,20,Female,Student,Africa,TikTok,4,8.5,178,6.4,Yes,10,Entertainment,Yes,5,4,Moderate
+P000938,37,Female,Full-time employed,Europe,Snapchat,3,5.4,127,7.2,No,27,Work/Study,No,10,10,High
+P000939,39,Male,Full-time employed,Latin America,LinkedIn,2,5.0,48,7.8,Yes,1,Social connection,No,7,6,Moderate
+P000940,48,Female,Full-time employed,Oceania,Facebook,3,5.3,88,7.1,No,14,Social connection,No,7,7,High
+P000941,34,Male,Full-time employed,Africa,Facebook,4,5.4,111,7.1,Yes,17,Shopping,No,8,6,High
+P000942,60,Male,Part-time employed,Europe,LinkedIn,2,3.4,87,7.9,No,15,Work/Study,No,9,8,High
+P000943,37,Male,Self-employed,Africa,Instagram,2,3.2,110,7.4,No,1,Work/Study,No,10,10,High
+P000944,19,Male,Student,Oceania,Facebook,6,9.7,206,6.1,No,25,Social connection,No,6,5,Moderate
+P000945,19,Male,Student,Oceania,TikTok,3,4.8,113,7.2,No,97,News,No,9,10,High
+P000946,63,Male,Part-time employed,Africa,Facebook,3,1.8,111,7.7,No,34,Entertainment,No,8,5,Moderate
+P000947,19,Female,Student,Africa,LinkedIn,3,7.3,134,5.6,Yes,18,Social connection,No,7,6,Moderate
+P000948,62,Male,Full-time employed,Africa,X (Twitter),5,6.8,113,6.2,Yes,8,Shopping,No,7,7,High
+P000949,27,Male,Student,Africa,LinkedIn,4,5.5,104,7.0,Yes,42,News,No,9,10,High
+P000950,17,Female,Part-time employed,Asia,Facebook,4,6.0,80,7.5,Yes,26,Work/Study,No,5,3,Low
+P000951,28,Male,Student,Africa,LinkedIn,5,5.1,93,7.7,No,50,Work/Study,No,6,7,Moderate
+P000952,44,Female,Student,Europe,TikTok,4,7.9,90,5.3,No,36,Shopping,Yes,7,8,High
+P000953,35,Female,Part-time employed,Latin America,YouTube,1,0.5,5,8.6,No,56,Entertainment,No,6,5,Moderate
+P000954,53,Male,Student,North America,TikTok,4,1.7,27,7.7,No,6,News,No,9,9,High
+P000955,44,Male,Full-time employed,Europe,Snapchat,7,10.1,210,6.3,Yes,43,Shopping,No,6,6,Moderate
+P000956,33,Female,Full-time employed,Europe,Facebook,4,6.9,157,6.5,Yes,11,Entertainment,No,6,4,Moderate
+P000957,46,Male,Full-time employed,Asia,TikTok,2,2.2,10,7.8,No,9,Shopping,No,8,7,High
+P000958,63,Female,Full-time employed,North America,TikTok,4,2.6,109,7.3,Yes,74,News,No,7,9,High
+P000959,34,Female,Full-time employed,North America,YouTube,4,5.7,107,6.8,Yes,10,Social connection,No,6,7,Moderate
+P000960,20,Female,Student,North America,TikTok,6,8.7,163,7.5,No,9,Work/Study,Yes,6,6,Moderate
+P000961,34,Male,Self-employed,Asia,X (Twitter),6,9.3,118,6.6,No,33,Shopping,No,5,5,Moderate
+P000962,56,Female,Self-employed,Latin America,Snapchat,3,4.2,56,8.2,No,3,Entertainment,No,7,8,High
+P000963,24,Male,Part-time employed,Europe,LinkedIn,4,5.5,130,7.4,Yes,56,Work/Study,No,7,8,High
+P000964,62,Female,Full-time employed,Oceania,TikTok,3,4.4,84,7.9,No,6,Shopping,Yes,7,6,Moderate
+P000965,43,Female,Self-employed,Asia,Facebook,2,3.3,62,6.1,Yes,43,Work/Study,Yes,10,10,High
+P000966,44,Male,Full-time employed,Asia,Facebook,2,2.5,51,8.5,No,28,News,No,8,10,High
+P000967,29,Male,Full-time employed,Europe,Facebook,2,2.6,5,7.6,No,6,Entertainment,Yes,9,10,High
+P000968,60,Male,Full-time employed,North America,Facebook,3,0.5,6,8.6,No,29,News,Yes,9,8,High
+P000969,14,Female,Part-time employed,Oceania,TikTok,5,5.8,146,6.7,No,24,Shopping,No,6,5,Moderate
+P000970,28,Male,Full-time employed,Latin America,Instagram,4,3.8,101,6.9,No,43,Work/Study,No,6,6,Moderate
+P000971,34,Female,Unemployed,North America,YouTube,4,6.2,107,7.9,Yes,86,News,No,5,5,Moderate
+P000972,37,Female,Self-employed,Oceania,Instagram,3,2.9,99,7.2,No,40,Social connection,No,7,5,Moderate
+P000973,37,Male,Self-employed,Europe,Instagram,2,0.5,5,8.9,No,4,Shopping,No,10,10,High
+P000974,20,Female,Student,Oceania,Facebook,4,4.9,59,7.5,No,20,Shopping,No,9,10,High
+P000975,24,Male,Unemployed,North America,LinkedIn,4,5.7,158,6.5,Yes,9,Social connection,No,5,6,Moderate
+P000976,17,Male,Student,Europe,Facebook,3,6.1,127,6.7,Yes,58,Shopping,Yes,6,5,Moderate
+P000977,42,Female,Full-time employed,Europe,Instagram,4,7.8,131,6.1,No,7,Social connection,No,4,3,Low
+P000978,31,Male,Part-time employed,Asia,Snapchat,2,4.7,82,7.4,No,56,Shopping,No,7,7,High
+P000979,42,Female,Full-time employed,Africa,X (Twitter),5,6.6,94,6.5,No,9,Shopping,Yes,8,8,High
+P000980,43,Non-binary,Full-time employed,Latin America,YouTube,5,4.7,92,6.7,Yes,9,Work/Study,No,7,8,High
+P000981,49,Male,Full-time employed,Latin America,TikTok,1,4.0,77,8.1,No,41,News,No,8,9,High
+P000982,41,Female,Part-time employed,Latin America,LinkedIn,4,3.2,58,7.4,Yes,52,Social connection,No,10,10,High
+P000983,46,Male,Full-time employed,Asia,Facebook,3,4.3,42,6.1,Yes,12,Entertainment,No,8,7,High
+P000984,43,Female,Full-time employed,Oceania,Instagram,4,3.2,65,8.2,No,27,Entertainment,Yes,7,7,High
+P000985,46,Non-binary,Full-time employed,Latin America,TikTok,4,4.7,68,6.9,Yes,8,Shopping,No,8,8,High
+P000986,45,Female,Student,Africa,TikTok,5,4.0,42,7.3,No,53,Work/Study,No,7,7,High
+P000987,29,Female,Full-time employed,Asia,YouTube,3,4.2,113,7.5,Yes,31,Social connection,Yes,8,9,High
+P000988,25,Male,Full-time employed,Africa,YouTube,4,8.5,218,6.2,Yes,10,News,Yes,6,7,Moderate
+P000989,53,Female,Full-time employed,Africa,Facebook,3,4.6,141,6.8,No,48,Shopping,Yes,6,8,High
+P000990,30,Male,Unemployed,North America,YouTube,4,5.1,111,8.0,Yes,51,Work/Study,No,8,9,High
+P000991,41,Female,Part-time employed,Oceania,X (Twitter),3,5.2,85,7.4,No,4,Shopping,Yes,7,7,High
+P000992,23,Male,Student,Latin America,Facebook,5,6.5,114,7.1,No,23,Entertainment,Yes,7,7,High
+P000993,35,Male,Full-time employed,Oceania,LinkedIn,3,3.8,80,6.9,Yes,27,Entertainment,No,9,7,High
+P000994,40,Male,Full-time employed,Africa,Snapchat,3,5.1,79,8.1,No,7,Work/Study,No,8,10,High
+P000995,45,Male,Part-time employed,Europe,YouTube,2,3.3,98,7.4,No,34,News,No,8,8,High
+P000996,40,Male,Full-time employed,Oceania,Instagram,2,3.1,5,6.8,No,13,Work/Study,No,9,10,High
+P000997,31,Male,Unemployed,Africa,X (Twitter),3,2.7,39,6.9,Yes,60,Shopping,Yes,7,8,High
+P000998,63,Female,Unemployed,Europe,YouTube,1,2.0,60,8.7,No,43,Entertainment,No,7,5,Moderate
+P000999,39,Female,Full-time employed,Africa,LinkedIn,3,6.2,86,7.7,No,56,Shopping,No,3,2,Low
+P001000,55,Male,Student,North America,YouTube,1,2.1,30,7.8,No,33,Entertainment,Yes,9,10,High
+P001001,51,Female,Part-time employed,Oceania,YouTube,4,8.9,178,7.5,No,38,News,No,5,5,Moderate
+P001002,42,Male,Full-time employed,Europe,YouTube,5,6.6,164,7.1,Yes,3,Shopping,No,7,6,Moderate
+P001003,59,Female,Full-time employed,Europe,LinkedIn,3,5.7,63,7.1,No,8,Work/Study,Yes,5,5,Moderate
+P001004,19,Male,Student,North America,Instagram,6,8.7,115,6.6,No,12,Social connection,Yes,5,6,Moderate
+P001005,60,Female,Unemployed,North America,LinkedIn,7,6.7,92,7.3,No,0,Work/Study,Yes,7,8,High
+P001006,57,Male,Full-time employed,Latin America,TikTok,4,1.7,5,7.5,No,128,Shopping,No,7,5,Moderate
+P001007,39,Male,Full-time employed,Europe,Snapchat,2,0.5,5,8.2,No,34,Social connection,Yes,10,10,High
+P001008,51,Female,Part-time employed,Africa,Facebook,4,3.0,24,7.4,Yes,67,Shopping,No,7,8,High
+P001009,40,Female,Full-time employed,Asia,Facebook,3,6.1,146,6.2,No,3,Work/Study,Yes,7,7,High
+P001010,26,Female,Full-time employed,Europe,TikTok,3,6.7,111,7.0,No,13,Entertainment,No,7,5,Moderate
+P001011,54,Male,Self-employed,Latin America,Snapchat,3,4.2,76,7.4,No,67,Social connection,No,9,10,High
+P001012,25,Female,Full-time employed,Europe,X (Twitter),6,9.1,135,6.8,Yes,8,Shopping,Yes,6,7,Moderate
+P001013,29,Female,Full-time employed,North America,Facebook,5,6.9,143,6.0,No,3,Social connection,Yes,5,3,Low
+P001014,40,Male,Full-time employed,Latin America,Facebook,4,6.6,175,6.4,Yes,25,Shopping,No,6,6,Moderate
+P001015,56,Male,Full-time employed,Europe,X (Twitter),2,1.5,5,7.7,No,24,News,Yes,10,10,High
+P001016,32,Male,Full-time employed,Oceania,Facebook,3,3.6,116,8.2,No,6,Social connection,Yes,7,7,High
+P001017,38,Male,Self-employed,Oceania,LinkedIn,5,8.4,162,6.3,Yes,40,Shopping,No,6,5,Moderate
+P001018,15,Male,Student,Oceania,Instagram,5,7.7,139,8.0,No,27,Work/Study,No,6,5,Moderate
+P001019,19,Male,Part-time employed,North America,TikTok,3,5.9,118,7.1,Yes,116,Social connection,No,7,9,High
+P001020,15,Female,Student,North America,Snapchat,4,6.3,125,6.9,No,8,Work/Study,No,6,7,Moderate
+P001021,16,Female,Student,Oceania,Snapchat,4,6.1,165,7.3,No,42,Social connection,No,5,7,Moderate
+P001022,58,Female,Part-time employed,Africa,YouTube,2,1.8,48,7.8,No,69,Shopping,No,9,9,High
+P001023,56,Female,Self-employed,Africa,Facebook,2,0.8,30,8.7,No,64,Entertainment,Yes,10,10,High
+P001024,55,Male,Self-employed,Europe,Instagram,3,0.5,5,7.4,No,35,Work/Study,No,7,6,Moderate
+P001025,15,Female,Student,Oceania,TikTok,5,7.1,152,6.5,No,46,Entertainment,No,7,7,High
+P001026,17,Female,Student,Latin America,LinkedIn,3,6.1,81,7.5,No,15,Work/Study,No,8,8,High
+P001027,27,Female,Part-time employed,Africa,X (Twitter),5,8.5,156,7.0,Yes,11,Shopping,No,7,9,High
+P001028,42,Male,Full-time employed,Africa,Instagram,3,5.4,183,6.0,No,9,Work/Study,No,6,6,Moderate
+P001029,30,Female,Full-time employed,Asia,Snapchat,4,6.5,41,8.0,No,33,News,No,6,5,Moderate
+P001030,38,Female,Self-employed,Asia,YouTube,2,3.7,73,7.5,No,180,Shopping,No,8,8,High
+P001031,21,Female,Student,Asia,Facebook,5,6.7,128,6.0,No,22,Entertainment,Yes,7,5,Moderate
+P001032,51,Female,Full-time employed,Latin America,Snapchat,4,4.6,75,5.7,No,15,News,Yes,7,4,Moderate
+P001033,29,Female,Full-time employed,Oceania,Snapchat,6,7.5,128,6.0,No,0,Shopping,No,6,7,Moderate
+P001034,16,Female,Student,Asia,Instagram,5,7.2,132,6.5,Yes,11,Social connection,No,5,5,Moderate
+P001035,51,Female,Part-time employed,Asia,YouTube,4,6.1,102,6.7,Yes,9,Entertainment,No,7,7,High
+P001036,59,Non-binary,Part-time employed,North America,TikTok,2,3.1,62,8.1,No,59,News,No,9,10,High
+P001037,13,Female,Student,North America,LinkedIn,7,9.3,152,5.8,Yes,18,News,No,6,8,High
+P001038,35,Male,Full-time employed,Asia,Snapchat,3,4.5,141,6.8,No,4,Shopping,No,7,8,High
+P001039,56,Female,Full-time employed,Latin America,X (Twitter),1,0.5,5,8.0,No,39,Shopping,Yes,10,10,High
+P001040,49,Male,Full-time employed,Oceania,Instagram,4,4.6,99,7.5,No,25,Social connection,No,7,8,High
+P001041,57,Male,Self-employed,Europe,Snapchat,4,4.8,66,7.6,No,1,Work/Study,No,9,9,High
+P001042,34,Male,Part-time employed,Asia,Facebook,6,6.8,150,6.1,Yes,2,Entertainment,Yes,5,5,Moderate
+P001043,32,Female,Full-time employed,Europe,TikTok,4,6.6,140,7.2,Yes,47,Entertainment,No,8,6,High
+P001044,49,Male,Full-time employed,Europe,Facebook,3,3.4,73,7.3,No,2,Work/Study,Yes,9,10,High
+P001045,20,Male,Student,North America,Facebook,5,5.4,66,6.8,No,4,Work/Study,Yes,7,4,Moderate
+P001046,25,Male,Self-employed,Asia,YouTube,3,7.6,114,6.1,Yes,21,Shopping,No,8,7,High
+P001047,44,Female,Full-time employed,North America,LinkedIn,3,5.5,149,8.0,No,66,Work/Study,No,8,8,High
+P001048,47,Female,Full-time employed,Asia,LinkedIn,2,3.2,34,7.6,No,10,Entertainment,No,7,6,Moderate
+P001049,19,Non-binary,Student,Africa,Instagram,3,9.3,186,5.7,Yes,16,Work/Study,Yes,5,4,Moderate
+P001050,39,Male,Student,North America,LinkedIn,4,3.3,31,8.3,No,38,News,No,10,10,High
+P001051,31,Male,Full-time employed,Asia,YouTube,3,4.7,114,8.7,No,11,Social connection,No,9,10,High
+P001052,39,Female,Full-time employed,Asia,Snapchat,6,8.4,130,6.4,Yes,34,Social connection,No,5,4,Moderate
+P001053,62,Male,Student,North America,Snapchat,4,4.5,52,8.2,No,53,Shopping,Yes,8,7,High
+P001054,16,Non-binary,Student,Latin America,X (Twitter),5,6.7,99,7.7,No,22,Entertainment,Yes,7,5,Moderate
+P001055,64,Female,Full-time employed,Europe,Snapchat,2,3.2,40,7.4,No,106,News,No,7,8,High
+P001056,36,Female,Full-time employed,Europe,X (Twitter),3,5.7,114,7.3,No,4,Entertainment,No,10,10,High
+P001057,53,Male,Full-time employed,Latin America,Snapchat,2,0.5,11,7.4,No,58,Work/Study,Yes,9,6,High
+P001058,35,Male,Part-time employed,North America,YouTube,4,3.7,33,7.5,No,10,Entertainment,Yes,8,8,High
+P001059,29,Female,Full-time employed,Asia,Snapchat,4,6.0,107,6.8,No,56,Shopping,No,8,9,High
+P001060,53,Male,Student,North America,LinkedIn,2,3.0,19,7.5,No,25,Shopping,No,8,9,High
+P001061,48,Female,Student,Europe,LinkedIn,2,4.7,103,7.0,No,30,Shopping,No,9,9,High
+P001062,20,Female,Student,Oceania,TikTok,5,9.3,192,6.0,Yes,1,Social connection,No,3,3,Low
+P001063,49,Male,Part-time employed,Africa,Facebook,2,3.5,62,8.0,No,35,Work/Study,No,8,10,High
+P001064,52,Male,Full-time employed,Europe,Facebook,2,1.7,38,7.9,No,7,Entertainment,No,10,10,High
+P001065,33,Female,Full-time employed,Europe,X (Twitter),4,6.3,165,6.0,No,47,Social connection,No,8,9,High
+P001066,61,Male,Self-employed,Asia,X (Twitter),2,2.2,34,7.5,No,35,Entertainment,Yes,8,7,High
+P001067,46,Female,Full-time employed,Africa,Snapchat,3,4.1,45,6.7,No,8,Entertainment,No,6,7,Moderate
+P001068,30,Female,Full-time employed,Oceania,Facebook,4,5.4,114,7.0,Yes,22,Social connection,No,8,6,High
+P001069,13,Female,Student,Europe,X (Twitter),8,12.2,185,5.9,Yes,25,News,No,4,3,Low
+P001070,48,Male,Full-time employed,Latin America,LinkedIn,2,0.5,5,8.4,No,25,Shopping,Yes,9,7,High
+P001071,23,Male,Full-time employed,Europe,Instagram,5,5.9,88,6.8,No,64,Entertainment,No,8,7,High
+P001072,52,Female,Self-employed,Oceania,X (Twitter),2,3.8,47,7.8,No,21,News,No,7,9,High
+P001073,40,Female,Unemployed,Europe,YouTube,1,3.4,53,7.4,No,0,Work/Study,No,6,5,Moderate
+P001074,37,Female,Part-time employed,Asia,LinkedIn,4,7.1,154,5.8,Yes,28,Social connection,No,4,5,Moderate
+P001075,21,Female,Student,Oceania,Facebook,6,8.5,186,7.2,No,6,Work/Study,No,6,8,High
+P001076,49,Female,Full-time employed,Oceania,X (Twitter),4,4.0,99,8.1,No,48,News,Yes,6,6,Moderate
+P001077,21,Male,Student,North America,Snapchat,5,6.4,125,7.2,Yes,12,News,Yes,6,7,Moderate
+P001078,34,Male,Part-time employed,Oceania,TikTok,1,5.4,89,7.0,No,72,Entertainment,No,5,6,Moderate
+P001079,56,Female,Full-time employed,Europe,Facebook,4,3.2,5,8.4,No,10,Entertainment,Yes,10,10,High
+P001080,60,Male,Student,Europe,Snapchat,3,2.8,61,7.5,No,46,Shopping,No,10,10,High
+P001081,64,Female,Full-time employed,Latin America,Snapchat,1,2.2,5,8.3,No,44,Shopping,No,7,9,High
+P001082,62,Male,Full-time employed,Latin America,TikTok,4,3.3,5,7.4,No,10,News,No,8,7,High
+P001083,41,Male,Full-time employed,North America,Snapchat,4,6.4,110,7.0,No,36,News,No,6,5,Moderate
+P001084,23,Male,Full-time employed,Africa,TikTok,4,4.2,83,6.1,No,3,News,No,7,6,Moderate
+P001085,56,Female,Full-time employed,Africa,TikTok,3,1.3,9,7.4,Yes,16,News,No,10,10,High
+P001086,54,Female,Part-time employed,Asia,Snapchat,2,0.5,55,8.3,No,73,Work/Study,Yes,9,10,High
+P001087,64,Male,Unemployed,Oceania,X (Twitter),2,4.3,91,7.3,No,3,News,Yes,7,6,Moderate
+P001088,46,Male,Full-time employed,Asia,Facebook,3,4.9,80,8.0,Yes,32,Entertainment,No,7,4,Moderate
+P001089,20,Male,Student,Latin America,Facebook,3,8.0,185,5.7,Yes,1,Entertainment,No,7,6,Moderate
+P001090,39,Male,Full-time employed,North America,LinkedIn,3,2.2,86,7.6,No,15,Shopping,No,5,6,Moderate
+P001091,36,Female,Unemployed,North America,TikTok,6,9.0,177,6.1,No,25,Work/Study,No,5,5,Moderate
+P001092,56,Male,Full-time employed,Asia,YouTube,1,2.2,16,7.6,No,5,Entertainment,No,8,8,High
+P001093,33,Male,Full-time employed,North America,Facebook,3,6.0,91,7.8,No,28,Entertainment,Yes,6,5,Moderate
+P001094,30,Male,Part-time employed,Asia,Snapchat,4,7.7,95,7.8,No,1,Social connection,Yes,8,9,High
+P001095,17,Female,Student,Oceania,Facebook,3,5.3,94,6.9,No,0,News,No,9,9,High
+P001096,56,Female,Self-employed,Asia,Snapchat,3,2.3,9,7.5,No,14,News,No,7,8,High
+P001097,52,Female,Part-time employed,North America,Snapchat,3,4.2,65,6.8,No,0,Entertainment,No,10,10,High
+P001098,15,Female,Student,Europe,LinkedIn,7,13.2,245,6.2,Yes,9,Entertainment,No,2,3,Low
+P001099,35,Non-binary,Full-time employed,Europe,Facebook,5,6.1,50,7.9,No,13,Social connection,No,9,10,High
+P001100,37,Male,Full-time employed,North America,Facebook,6,8.5,115,6.2,Yes,6,News,No,6,5,Moderate
+P001101,37,Female,Full-time employed,Oceania,Instagram,3,7.7,123,5.6,Yes,9,Social connection,Yes,5,5,Moderate
+P001102,60,Female,Full-time employed,North America,Instagram,4,3.7,65,6.9,No,12,News,Yes,7,8,High
+P001103,20,Male,Student,Oceania,Facebook,5,5.0,75,7.0,Yes,2,Entertainment,Yes,7,9,High
+P001104,28,Female,Full-time employed,Africa,Snapchat,6,8.3,141,6.6,Yes,4,Shopping,Yes,6,7,Moderate
+P001105,22,Female,Part-time employed,North America,Snapchat,3,3.8,47,6.4,No,8,Shopping,Yes,6,5,Moderate
+P001106,25,Female,Part-time employed,Oceania,YouTube,5,9.7,131,5.9,Yes,10,Social connection,No,5,4,Moderate
+P001107,60,Male,Full-time employed,North America,Facebook,2,3.4,45,8.2,Yes,46,Shopping,Yes,7,6,Moderate
+P001108,61,Male,Self-employed,Latin America,Snapchat,1,0.5,5,8.1,No,70,News,Yes,8,8,High
+P001109,15,Female,Student,Africa,YouTube,4,6.8,113,8.0,No,15,Entertainment,Yes,6,6,Moderate
+P001110,45,Male,Full-time employed,Latin America,TikTok,5,5.8,107,7.6,No,10,Social connection,Yes,6,5,Moderate
+P001111,25,Male,Full-time employed,Africa,LinkedIn,5,6.0,120,6.1,Yes,11,Entertainment,Yes,6,5,Moderate
+P001112,23,Male,Part-time employed,Asia,Facebook,4,8.1,166,6.2,Yes,24,Work/Study,Yes,6,3,Moderate
+P001113,28,Female,Part-time employed,North America,TikTok,3,4.5,61,7.4,No,7,Work/Study,Yes,8,4,Moderate
+P001114,23,Female,Full-time employed,Latin America,TikTok,3,4.1,26,6.5,Yes,69,Work/Study,No,10,10,High
+P001115,38,Female,Full-time employed,Europe,YouTube,3,5.1,129,6.3,Yes,60,Entertainment,Yes,4,7,Moderate
+P001116,64,Female,Self-employed,Oceania,TikTok,3,2.7,60,8.2,Yes,136,Social connection,Yes,9,10,High
+P001117,43,Male,Part-time employed,Europe,Facebook,3,4.0,43,7.0,No,8,News,No,8,7,High
+P001118,50,Male,Full-time employed,Europe,Snapchat,4,6.5,125,7.3,Yes,45,Entertainment,Yes,8,8,High
+P001119,38,Male,Full-time employed,Europe,Snapchat,3,3.5,95,7.4,No,160,Entertainment,No,9,7,High
+P001120,13,Male,Student,Africa,LinkedIn,5,8.3,201,6.8,No,15,Social connection,No,6,4,Moderate
+P001121,17,Female,Student,Asia,Snapchat,5,7.4,140,6.8,Yes,18,News,No,7,5,Moderate
+P001122,26,Male,Unemployed,Asia,YouTube,2,3.3,91,7.3,No,0,Entertainment,No,7,7,High
+P001123,25,Male,Full-time employed,Africa,Instagram,4,3.9,33,7.4,Yes,107,Shopping,No,9,9,High
+P001124,56,Female,Part-time employed,Europe,TikTok,3,3.4,60,6.0,Yes,19,News,Yes,5,5,Moderate
+P001125,56,Female,Full-time employed,Asia,Snapchat,4,7.4,123,7.2,No,177,Entertainment,No,7,8,High
+P001126,57,Male,Full-time employed,Europe,YouTube,4,4.5,91,6.0,No,2,Entertainment,Yes,7,7,High
+P001127,46,Female,Student,North America,Snapchat,2,0.9,64,8.0,No,49,Shopping,No,9,9,High
+P001128,41,Female,Full-time employed,Asia,Facebook,3,0.5,16,8.7,No,2,News,Yes,9,8,High
+P001129,46,Female,Student,Oceania,LinkedIn,3,5.9,78,7.1,Yes,13,Shopping,No,7,5,Moderate
+P001130,34,Female,Full-time employed,Asia,Facebook,5,5.4,59,6.5,No,26,Work/Study,Yes,8,6,High
+P001131,47,Male,Unemployed,North America,LinkedIn,4,6.6,168,5.9,Yes,30,Shopping,No,10,10,High
+P001132,54,Male,Student,Europe,TikTok,2,1.8,47,7.6,No,9,Shopping,Yes,10,10,High
+P001133,52,Male,Part-time employed,Europe,Snapchat,3,4.5,94,7.6,No,16,Work/Study,No,7,5,Moderate
+P001134,44,Female,Full-time employed,Asia,Facebook,3,6.3,103,5.4,Yes,21,Shopping,No,7,7,High
+P001135,16,Female,Student,Oceania,TikTok,2,6.5,125,7.1,No,20,Shopping,No,8,6,High
+P001136,50,Female,Part-time employed,Oceania,TikTok,3,3.1,26,7.9,No,18,Social connection,Yes,7,9,High
+P001137,32,Female,Student,Asia,YouTube,6,5.9,117,7.1,No,2,News,Yes,5,4,Moderate
+P001138,51,Male,Full-time employed,Europe,TikTok,2,5.0,54,7.2,Yes,53,Shopping,No,7,8,High
+P001139,41,Male,Full-time employed,Oceania,LinkedIn,3,4.9,77,7.1,Yes,2,Shopping,No,8,9,High
+P001140,58,Male,Full-time employed,North America,TikTok,4,5.1,72,6.6,Yes,64,Entertainment,No,5,4,Moderate
+P001141,30,Male,Self-employed,Asia,X (Twitter),3,5.1,5,6.2,No,124,Entertainment,No,6,6,Moderate
+P001142,61,Female,Student,Asia,Facebook,3,0.5,5,8.3,No,6,Social connection,No,10,10,High
+P001143,56,Female,Full-time employed,North America,Facebook,4,7.4,106,5.9,Yes,15,Work/Study,No,6,6,Moderate
+P001144,30,Male,Self-employed,Latin America,X (Twitter),3,4.8,80,7.1,No,2,Social connection,Yes,9,9,High
+P001145,38,Female,Student,Latin America,LinkedIn,3,4.1,73,7.8,No,39,Work/Study,No,6,4,Moderate
+P001146,40,Male,Full-time employed,Asia,LinkedIn,1,4.9,141,7.8,Yes,16,Entertainment,No,10,10,High
+P001147,52,Female,Full-time employed,North America,LinkedIn,2,3.9,79,7.6,No,52,Entertainment,Yes,6,5,Moderate
+P001148,48,Male,Self-employed,Europe,Facebook,4,3.4,71,8.0,No,6,Work/Study,No,6,6,Moderate
+P001149,57,Female,Part-time employed,Latin America,Snapchat,4,3.3,74,6.8,No,10,Social connection,Yes,8,9,High
+P001150,32,Male,Full-time employed,Europe,TikTok,5,5.7,128,7.4,No,41,Entertainment,Yes,6,7,Moderate
+P001151,39,Male,Unemployed,Europe,LinkedIn,4,5.4,110,6.8,Yes,2,Social connection,No,7,7,High
+P001152,35,Female,Part-time employed,Africa,TikTok,1,0.8,22,8.9,No,15,Social connection,No,9,10,High
+P001153,60,Male,Student,Latin America,Instagram,4,6.8,143,6.8,No,19,News,Yes,6,7,Moderate
+P001154,28,Male,Unemployed,North America,Snapchat,5,5.9,33,7.1,No,12,Shopping,No,6,8,High
+P001155,43,Male,Unemployed,Asia,Snapchat,5,5.9,168,7.9,No,32,Entertainment,Yes,8,8,High
+P001156,19,Female,Student,Asia,Instagram,5,4.3,125,7.5,No,15,Work/Study,No,7,7,High
+P001157,57,Male,Full-time employed,Africa,LinkedIn,2,2.4,49,7.2,No,19,Social connection,No,10,10,High
+P001158,32,Female,Part-time employed,Oceania,Instagram,2,4.5,38,8.5,Yes,46,News,No,8,7,High
+P001159,30,Female,Full-time employed,Latin America,Instagram,5,8.9,196,5.6,Yes,68,Social connection,No,4,2,Low
+P001160,43,Female,Self-employed,Asia,LinkedIn,3,3.5,42,7.6,No,1,Social connection,No,6,7,Moderate
+P001161,38,Male,Full-time employed,North America,TikTok,6,6.7,136,6.8,Yes,45,News,No,6,6,Moderate
+P001162,57,Female,Part-time employed,Europe,TikTok,3,2.0,5,8.1,No,45,News,Yes,7,5,Moderate
+P001163,40,Male,Full-time employed,Asia,Snapchat,3,4.1,140,7.4,No,70,Entertainment,Yes,6,7,Moderate
+P001164,39,Female,Full-time employed,Asia,X (Twitter),3,4.6,39,6.9,Yes,6,Entertainment,No,8,10,High
+P001165,18,Male,Student,North America,Facebook,6,9.8,178,5.9,Yes,26,Social connection,No,3,1,Low
+P001166,14,Female,Student,North America,LinkedIn,4,3.8,5,6.9,No,16,Shopping,Yes,9,10,High
+P001167,33,Female,Self-employed,Latin America,Instagram,2,3.1,54,9.0,No,27,Social connection,No,9,6,High
+P001168,64,Male,Full-time employed,Africa,LinkedIn,1,0.5,5,8.1,No,7,News,No,9,8,High
+P001169,60,Male,Unemployed,Europe,TikTok,3,0.8,48,8.5,No,19,News,No,8,10,High
+P001170,45,Male,Unemployed,Europe,X (Twitter),1,2.9,39,7.6,No,65,Social connection,No,9,9,High
+P001171,45,Female,Full-time employed,Africa,YouTube,4,1.3,57,7.9,No,65,Entertainment,No,9,9,High
+P001172,33,Male,Self-employed,Europe,YouTube,1,4.2,44,7.3,No,16,News,No,7,8,High
+P001173,22,Female,Student,Asia,YouTube,2,2.8,41,6.9,No,61,Shopping,No,8,6,High
+P001174,13,Female,Student,Oceania,Facebook,5,5.7,94,6.7,Yes,41,Shopping,Yes,5,5,Moderate
+P001175,30,Female,Part-time employed,Europe,LinkedIn,5,8.4,166,6.5,No,18,Social connection,No,4,4,Low
+P001176,29,Male,Full-time employed,Asia,Instagram,3,6.9,135,7.8,No,40,News,No,6,8,High
+P001177,22,Male,Student,Africa,X (Twitter),5,7.2,151,5.8,Yes,49,Social connection,No,6,4,Moderate
+P001178,26,Male,Student,Latin America,LinkedIn,3,4.4,87,7.2,No,1,Shopping,No,8,8,High
+P001179,14,Female,Student,Asia,Snapchat,3,4.5,100,7.0,No,18,News,No,9,8,High
+P001180,44,Male,Part-time employed,Oceania,LinkedIn,2,2.3,14,8.8,No,8,Shopping,No,8,7,High
+P001181,61,Male,Part-time employed,Europe,Instagram,3,2.8,62,7.3,No,18,Shopping,Yes,9,10,High
+P001182,48,Male,Student,Africa,YouTube,3,5.9,154,7.6,No,21,Social connection,No,7,7,High
+P001183,36,Female,Full-time employed,Latin America,YouTube,7,7.2,79,7.6,No,9,News,No,6,5,Moderate
+P001184,34,Female,Full-time employed,Africa,Facebook,4,6.9,138,6.5,Yes,43,News,Yes,7,6,Moderate
+P001185,28,Male,Part-time employed,Africa,YouTube,3,4.7,104,6.6,No,0,Social connection,No,7,6,Moderate
+P001186,20,Male,Student,Africa,TikTok,4,7.0,169,6.2,No,44,Shopping,No,5,4,Moderate
+P001187,44,Male,Full-time employed,Asia,Snapchat,5,4.0,93,8.1,No,54,News,No,8,6,High
+P001188,42,Male,Full-time employed,Oceania,TikTok,2,4.4,82,6.3,Yes,18,Social connection,No,7,7,High
+P001189,13,Non-binary,Student,Asia,LinkedIn,7,11.8,225,5.9,Yes,5,News,No,4,4,Low
+P001190,34,Male,Full-time employed,Europe,Instagram,2,2.1,15,8.0,No,124,Shopping,No,8,7,High
+P001191,27,Female,Full-time employed,North America,YouTube,2,5.8,92,7.5,No,5,News,No,6,6,Moderate
+P001192,21,Female,Student,Europe,X (Twitter),4,9.3,127,6.4,Yes,1,Work/Study,No,6,6,Moderate
+P001193,49,Female,Full-time employed,Latin America,LinkedIn,2,1.2,66,7.5,No,16,Shopping,Yes,8,7,High
+P001194,40,Male,Unemployed,Asia,Snapchat,2,3.7,80,7.0,No,16,Social connection,Yes,6,6,Moderate
+P001195,45,Female,Full-time employed,North America,Instagram,3,3.4,33,8.1,No,50,Shopping,No,8,10,High
+P001196,50,Male,Self-employed,North America,Snapchat,5,3.6,72,7.3,No,11,News,No,9,10,High
+P001197,64,Male,Self-employed,Latin America,YouTube,2,0.5,43,6.6,No,52,News,No,9,8,High
+P001198,54,Non-binary,Full-time employed,Latin America,LinkedIn,2,4.8,116,7.8,No,5,Work/Study,Yes,7,6,Moderate
+P001199,45,Male,Unemployed,Africa,Snapchat,3,5.8,76,6.6,No,7,Entertainment,Yes,6,5,Moderate
+P001200,58,Male,Self-employed,Asia,TikTok,3,4.2,5,7.3,Yes,13,Work/Study,No,8,9,High
+P001201,37,Male,Part-time employed,Oceania,YouTube,3,3.6,76,8.5,No,30,News,Yes,5,4,Moderate
+P001202,64,Male,Full-time employed,North America,Snapchat,3,2.8,23,7.3,Yes,33,Work/Study,No,9,9,High
+P001203,52,Female,Full-time employed,North America,LinkedIn,3,2.0,54,8.5,No,30,Shopping,Yes,7,10,High
+P001204,46,Female,Student,Latin America,X (Twitter),5,3.7,95,7.2,Yes,21,News,No,6,6,Moderate
+P001205,59,Female,Self-employed,Asia,TikTok,4,7.4,166,7.9,No,68,Shopping,No,6,7,Moderate
+P001206,39,Male,Student,Africa,YouTube,2,5.3,147,6.7,No,15,News,Yes,10,10,High
+P001207,50,Male,Student,Europe,Snapchat,3,1.6,65,8.0,No,1,Social connection,No,10,9,High
+P001208,27,Male,Full-time employed,Oceania,X (Twitter),5,6.7,173,7.5,No,8,Work/Study,Yes,8,9,High
+P001209,63,Female,Self-employed,Asia,TikTok,2,0.5,50,7.6,Yes,16,Entertainment,No,9,8,High
+P001210,45,Female,Full-time employed,Oceania,TikTok,2,2.1,81,8.6,No,2,Shopping,No,7,9,High
+P001211,53,Female,Self-employed,North America,TikTok,3,1.6,27,7.8,No,35,Entertainment,No,9,8,High
+P001212,36,Female,Full-time employed,Latin America,Facebook,3,4.5,42,8.7,No,32,News,No,7,6,Moderate
+P001213,58,Female,Full-time employed,Oceania,Facebook,1,5.1,166,8.7,No,28,Shopping,Yes,7,6,Moderate
+P001214,16,Male,Student,Asia,Facebook,6,8.6,156,6.9,No,17,Entertainment,Yes,6,5,Moderate
+P001215,18,Female,Student,North America,LinkedIn,6,8.2,184,6.7,Yes,3,News,No,5,4,Moderate
+P001216,39,Female,Part-time employed,Oceania,X (Twitter),4,2.9,35,8.5,No,29,News,No,10,7,High
+P001217,51,Female,Full-time employed,Asia,X (Twitter),2,2.8,79,7.1,No,8,Social connection,No,6,6,Moderate
+P001218,55,Male,Full-time employed,Asia,YouTube,3,4.0,5,6.8,No,87,Work/Study,No,8,7,High
+P001219,35,Female,Student,Latin America,X (Twitter),3,4.2,63,7.8,Yes,9,Social connection,No,7,8,High
+P001220,46,Male,Full-time employed,Asia,LinkedIn,3,3.8,65,7.8,No,2,Social connection,No,7,8,High
+P001221,41,Female,Full-time employed,Oceania,Instagram,4,5.8,118,6.6,Yes,16,Social connection,Yes,7,6,Moderate
+P001222,62,Female,Part-time employed,Oceania,YouTube,2,2.1,69,7.9,No,6,Work/Study,No,7,6,Moderate
+P001223,47,Female,Full-time employed,Europe,Instagram,4,4.8,53,6.0,No,90,Shopping,No,7,7,High
+P001224,34,Male,Part-time employed,Europe,TikTok,6,8.8,178,6.6,No,32,Entertainment,No,6,8,High
+P001225,63,Male,Full-time employed,Africa,Instagram,4,2.4,80,6.9,Yes,81,News,No,7,6,Moderate
+P001226,18,Female,Student,Latin America,X (Twitter),5,9.6,243,6.6,Yes,38,Social connection,No,5,4,Moderate
+P001227,64,Female,Student,Africa,Snapchat,3,3.7,87,8.2,No,3,Social connection,No,8,7,High
+P001228,21,Female,Student,Oceania,LinkedIn,3,4.0,58,7.4,Yes,19,Shopping,No,7,5,Moderate
+P001229,27,Male,Part-time employed,North America,TikTok,3,4.1,35,7.8,No,1,Work/Study,No,8,8,High
+P001230,55,Female,Full-time employed,Europe,X (Twitter),1,1.8,87,7.1,No,23,Shopping,No,8,8,High
+P001231,51,Female,Self-employed,Latin America,YouTube,2,2.2,61,8.3,No,56,Work/Study,No,8,10,High
+P001232,63,Male,Unemployed,Latin America,YouTube,3,2.5,44,8.2,No,66,Work/Study,Yes,10,10,High
+P001233,51,Male,Part-time employed,North America,X (Twitter),3,5.1,43,7.6,Yes,7,Work/Study,No,8,10,High
+P001234,46,Female,Self-employed,Europe,X (Twitter),4,6.9,96,8.3,No,23,Work/Study,Yes,7,7,High
+P001235,31,Male,Self-employed,Europe,X (Twitter),5,6.5,135,5.6,Yes,0,Shopping,Yes,6,6,Moderate
+P001236,13,Female,Student,Latin America,Instagram,6,6.8,133,6.3,Yes,11,Social connection,No,5,3,Low
+P001237,19,Female,Student,North America,YouTube,2,2.9,5,7.3,No,21,Entertainment,Yes,8,9,High
+P001238,28,Male,Full-time employed,North America,TikTok,3,6.3,132,6.8,Yes,38,News,No,6,6,Moderate
+P001239,15,Male,Student,Asia,Instagram,4,7.6,89,6.9,No,2,Entertainment,No,5,6,Moderate
+P001240,39,Non-binary,Part-time employed,Oceania,Instagram,6,5.5,139,6.7,Yes,21,Entertainment,No,7,6,Moderate
+P001241,53,Female,Full-time employed,Africa,Facebook,3,7.9,148,7.0,Yes,0,Entertainment,No,6,6,Moderate
+P001242,63,Female,Unemployed,Oceania,Instagram,4,5.2,79,6.7,No,42,Entertainment,No,7,7,High
+P001243,38,Female,Part-time employed,Africa,Snapchat,5,6.8,152,6.0,Yes,35,Work/Study,No,6,6,Moderate
+P001244,58,Female,Full-time employed,Latin America,Instagram,1,1.3,34,7.5,No,10,News,Yes,10,9,High
+P001245,64,Female,Unemployed,Europe,TikTok,3,1.6,68,7.8,No,29,Shopping,No,8,10,High
+P001246,57,Female,Self-employed,Latin America,LinkedIn,3,3.1,58,7.0,No,57,Social connection,No,5,8,Moderate
+P001247,37,Female,Self-employed,Latin America,X (Twitter),3,3.7,70,7.1,Yes,13,Social connection,No,6,5,Moderate
+P001248,29,Male,Full-time employed,Oceania,Facebook,4,7.1,119,6.4,Yes,6,News,No,7,8,High
+P001249,63,Male,Unemployed,Europe,Instagram,2,3.4,69,6.7,Yes,17,Work/Study,No,9,5,High
+P001250,25,Female,Full-time employed,Asia,Instagram,3,4.3,128,7.6,Yes,54,Shopping,Yes,7,8,High
+P001251,34,Male,Part-time employed,Asia,LinkedIn,4,8.0,128,6.8,No,64,Work/Study,Yes,8,6,High
+P001252,16,Female,Part-time employed,Europe,Snapchat,4,7.6,156,7.1,Yes,108,News,No,7,6,Moderate
+P001253,54,Female,Part-time employed,Latin America,LinkedIn,1,0.5,5,8.1,No,0,Shopping,No,9,7,High
+P001254,46,Male,Self-employed,Asia,Snapchat,4,4.3,15,7.5,No,4,Entertainment,No,7,7,High
+P001255,17,Male,Part-time employed,Asia,Instagram,3,7.9,148,6.0,Yes,12,News,No,6,7,Moderate
+P001256,24,Female,Full-time employed,North America,Snapchat,3,8.5,164,6.8,No,19,Social connection,No,7,5,Moderate
+P001257,41,Male,Unemployed,Africa,Facebook,4,4.2,72,8.0,No,9,Entertainment,No,8,8,High
+P001258,41,Female,Self-employed,North America,X (Twitter),4,6.6,73,6.4,Yes,29,Social connection,Yes,6,5,Moderate
+P001259,54,Female,Full-time employed,Europe,YouTube,3,4.0,81,7.9,No,11,Work/Study,No,8,10,High
+P001260,26,Female,Student,Europe,Snapchat,3,3.8,76,6.6,Yes,25,Social connection,Yes,10,10,High
+P001261,61,Female,Self-employed,Africa,Snapchat,2,0.5,5,8.7,No,1,Shopping,No,10,8,High
+P001262,36,Female,Student,North America,LinkedIn,4,7.6,96,6.6,No,25,Work/Study,No,7,6,Moderate
+P001263,55,Male,Student,North America,Facebook,4,5.9,98,7.2,Yes,26,Work/Study,Yes,8,10,High
+P001264,25,Male,Student,Africa,TikTok,3,7.1,147,7.1,No,22,Social connection,Yes,7,8,High
+P001265,14,Male,Student,North America,X (Twitter),5,10.6,203,6.8,Yes,25,Shopping,No,5,4,Moderate
+P001266,15,Female,Student,North America,Facebook,3,9.6,146,5.9,No,7,Social connection,No,6,6,Moderate
+P001267,32,Male,Full-time employed,Africa,TikTok,6,7.2,133,5.6,Yes,17,Social connection,Yes,7,7,High
+P001268,62,Male,Part-time employed,Europe,Snapchat,2,1.0,44,7.8,No,32,Work/Study,No,9,8,High
+P001269,15,Male,Student,Latin America,Instagram,7,11.0,162,5.0,Yes,52,Work/Study,No,4,2,Low
+P001270,32,Male,Part-time employed,Latin America,YouTube,5,6.9,126,6.2,No,28,Social connection,No,7,6,Moderate
+P001271,18,Male,Student,Europe,X (Twitter),5,6.4,155,7.0,Yes,36,Social connection,No,7,9,High
+P001272,61,Female,Full-time employed,Asia,LinkedIn,2,1.6,5,8.0,No,16,News,No,8,8,High
+P001273,48,Male,Full-time employed,Oceania,X (Twitter),4,4.7,119,6.7,Yes,27,News,No,10,10,High
+P001274,52,Female,Part-time employed,Europe,LinkedIn,1,0.5,57,8.0,No,30,Entertainment,No,7,7,High
+P001275,50,Male,Full-time employed,North America,Snapchat,2,5.4,90,6.5,Yes,55,Social connection,No,8,10,High
+P001276,47,Male,Full-time employed,Latin America,TikTok,2,2.4,32,8.4,Yes,11,Entertainment,No,8,8,High
+P001277,53,Male,Full-time employed,Asia,Snapchat,3,4.4,110,7.1,No,13,Entertainment,Yes,8,9,High
+P001278,13,Female,Student,Asia,YouTube,6,6.7,115,5.8,Yes,1,Social connection,No,9,8,High
+P001279,58,Female,Full-time employed,North America,X (Twitter),3,2.7,5,8.3,No,20,Entertainment,No,7,7,High
+P001280,51,Male,Full-time employed,Oceania,TikTok,2,2.4,40,7.7,No,141,Work/Study,Yes,8,8,High
+P001281,51,Female,Full-time employed,Latin America,Facebook,3,3.6,78,8.9,No,45,Work/Study,No,8,7,High
+P001282,33,Male,Full-time employed,Latin America,X (Twitter),5,9.5,193,5.8,Yes,11,Social connection,No,4,4,Low
+P001283,54,Female,Full-time employed,Latin America,LinkedIn,4,6.4,88,7.7,No,1,Shopping,Yes,8,9,High
+P001284,32,Female,Self-employed,Oceania,LinkedIn,4,6.5,108,7.8,No,7,News,No,6,5,Moderate
+P001285,15,Male,Student,Oceania,Snapchat,5,7.4,162,6.7,No,7,Social connection,No,7,7,High
+P001286,60,Male,Full-time employed,Asia,Facebook,2,4.7,82,7.0,No,72,Entertainment,No,6,7,Moderate
+P001287,25,Male,Part-time employed,Latin America,LinkedIn,3,8.8,112,6.7,Yes,0,News,No,4,3,Low
+P001288,18,Female,Student,Latin America,Instagram,3,5.5,136,7.7,No,19,Shopping,Yes,7,8,High
+P001289,45,Male,Full-time employed,Europe,LinkedIn,4,4.3,70,6.7,No,6,Entertainment,No,5,5,Moderate
+P001290,25,Female,Unemployed,Oceania,TikTok,2,2.9,84,7.1,No,7,Entertainment,No,10,10,High
+P001291,57,Male,Part-time employed,Europe,YouTube,5,5.5,57,5.8,No,164,News,No,5,2,Low
+P001292,36,Female,Unemployed,Oceania,LinkedIn,5,9.5,167,6.9,No,5,Shopping,No,4,4,Low
+P001293,13,Male,Part-time employed,Asia,Snapchat,6,7.9,157,6.7,No,42,Social connection,Yes,7,7,High
+P001294,62,Female,Full-time employed,Latin America,Snapchat,3,0.5,6,8.1,No,95,Work/Study,Yes,9,10,High
+P001295,39,Male,Full-time employed,Africa,X (Twitter),5,6.3,77,6.2,No,21,News,No,5,6,Moderate
+P001296,26,Male,Full-time employed,Latin America,X (Twitter),2,4.6,11,6.8,No,180,Entertainment,Yes,10,10,High
+P001297,48,Male,Student,Asia,TikTok,3,2.9,97,7.0,Yes,19,Shopping,No,7,5,Moderate
+P001298,40,Female,Full-time employed,Asia,LinkedIn,5,6.3,120,6.8,No,11,Entertainment,No,6,6,Moderate
+P001299,14,Male,Student,Latin America,X (Twitter),5,8.1,180,6.4,Yes,6,News,Yes,6,8,High
+P001300,52,Female,Unemployed,Oceania,X (Twitter),3,2.8,78,7.6,Yes,16,Work/Study,No,9,8,High
+P001301,33,Non-binary,Part-time employed,Latin America,YouTube,2,4.4,97,8.9,No,30,Work/Study,No,9,10,High
+P001302,49,Male,Full-time employed,Asia,LinkedIn,5,4.4,69,7.5,No,35,Shopping,Yes,7,8,High
+P001303,59,Male,Part-time employed,Africa,Facebook,2,2.3,56,8.6,No,19,Work/Study,No,8,8,High
+P001304,44,Male,Full-time employed,North America,TikTok,1,2.4,86,7.4,No,78,Work/Study,Yes,8,8,High
+P001305,47,Male,Self-employed,Asia,TikTok,3,3.6,67,6.6,No,0,Entertainment,No,8,7,High
+P001306,26,Male,Full-time employed,North America,X (Twitter),2,7.1,184,6.3,Yes,29,Social connection,No,5,7,Moderate
+P001307,25,Female,Student,Europe,Snapchat,3,6.1,64,6.2,No,37,Social connection,No,9,10,High
+P001308,34,Male,Part-time employed,Oceania,TikTok,5,2.8,5,7.8,No,65,Social connection,No,7,7,High
+P001309,57,Male,Part-time employed,Oceania,X (Twitter),3,5.3,125,6.4,Yes,35,Entertainment,No,7,6,Moderate
+P001310,40,Female,Self-employed,Asia,LinkedIn,1,0.5,5,7.0,No,69,Entertainment,No,7,7,High
+P001311,31,Male,Part-time employed,Latin America,Facebook,4,5.0,151,7.9,Yes,8,News,Yes,6,6,Moderate
+P001312,53,Female,Student,Asia,LinkedIn,2,2.5,85,7.0,Yes,19,Work/Study,Yes,7,8,High
+P001313,57,Female,Full-time employed,North America,TikTok,4,3.6,112,6.7,No,28,Shopping,Yes,6,7,Moderate
+P001314,59,Male,Student,Asia,YouTube,2,4.2,102,7.6,Yes,21,Shopping,No,7,6,Moderate
+P001315,28,Female,Unemployed,Africa,Facebook,5,8.5,125,5.8,Yes,4,News,No,4,2,Low
+P001316,49,Female,Unemployed,Asia,YouTube,1,2.7,5,8.5,No,30,Shopping,Yes,9,9,High
+P001317,43,Female,Full-time employed,Oceania,Instagram,6,5.9,151,6.3,Yes,111,News,No,6,4,Moderate
+P001318,36,Female,Unemployed,Europe,Facebook,4,5.8,59,6.9,No,22,News,No,6,6,Moderate
+P001319,33,Female,Full-time employed,Europe,YouTube,2,2.3,88,7.6,Yes,7,Social connection,Yes,8,7,High
+P001320,18,Female,Part-time employed,Oceania,TikTok,6,11.0,218,6.7,No,8,Work/Study,Yes,6,7,Moderate
+P001321,27,Female,Full-time employed,Oceania,YouTube,2,3.4,58,7.6,Yes,21,Social connection,No,8,10,High
+P001322,41,Female,Full-time employed,Asia,YouTube,3,5.7,115,6.7,Yes,3,News,Yes,7,4,Moderate
+P001323,59,Female,Full-time employed,Asia,LinkedIn,2,3.9,84,7.4,Yes,7,Shopping,No,6,9,High
+P001324,58,Female,Full-time employed,Oceania,Facebook,5,3.8,62,8.1,No,58,News,No,7,7,High
+P001325,22,Male,Student,Oceania,YouTube,3,5.8,147,6.9,Yes,9,Social connection,No,5,5,Moderate
+P001326,48,Female,Unemployed,North America,YouTube,2,5.9,147,7.2,No,117,Work/Study,No,9,7,High
+P001327,17,Male,Student,Asia,X (Twitter),2,4.2,80,6.2,Yes,29,Work/Study,Yes,8,9,High
+P001328,48,Male,Self-employed,Asia,TikTok,4,4.1,55,7.9,No,59,Work/Study,No,7,7,High
+P001329,30,Male,Full-time employed,Europe,LinkedIn,3,4.9,127,6.9,Yes,20,Entertainment,No,7,7,High
+P001330,36,Male,Self-employed,Africa,YouTube,3,4.0,11,7.3,No,151,Social connection,Yes,7,4,Moderate
+P001331,50,Female,Self-employed,Asia,YouTube,5,4.9,101,8.2,No,7,Entertainment,No,7,7,High
+P001332,35,Male,Full-time employed,Latin America,Instagram,4,7.7,160,5.6,Yes,7,Shopping,Yes,6,7,Moderate
+P001333,54,Female,Self-employed,Africa,LinkedIn,3,2.9,27,8.8,No,20,Social connection,No,8,8,High
+P001334,40,Female,Student,Asia,Facebook,3,6.6,148,7.1,No,4,News,No,9,10,High
+P001335,64,Male,Unemployed,Oceania,Instagram,3,2.7,47,8.0,No,14,Shopping,No,10,10,High
+P001336,46,Male,Full-time employed,Oceania,TikTok,2,2.6,30,7.1,Yes,10,Shopping,No,10,9,High
+P001337,28,Female,Full-time employed,Europe,YouTube,4,5.7,131,6.3,No,20,Social connection,No,8,10,High
+P001338,53,Female,Self-employed,Asia,Snapchat,4,3.1,23,7.2,Yes,6,Shopping,No,7,7,High
+P001339,34,Male,Full-time employed,Europe,Instagram,4,4.2,101,7.7,No,25,Work/Study,No,9,9,High
+P001340,40,Male,Unemployed,Europe,Instagram,4,5.9,46,7.6,No,10,Work/Study,Yes,7,7,High
+P001341,20,Male,Part-time employed,Europe,Facebook,4,7.5,143,6.8,No,2,Entertainment,No,8,8,High
+P001342,19,Male,Student,Oceania,Facebook,5,3.9,71,5.8,Yes,22,Work/Study,No,8,5,Moderate
+P001343,42,Male,Full-time employed,Asia,LinkedIn,3,1.5,10,7.1,No,47,Work/Study,No,9,9,High
+P001344,22,Non-binary,Part-time employed,Europe,Snapchat,4,7.6,148,8.2,No,37,News,No,7,5,Moderate
+P001345,64,Male,Student,Africa,X (Twitter),1,1.0,15,7.0,Yes,16,News,Yes,10,10,High
+P001346,57,Male,Unemployed,Asia,YouTube,4,3.9,101,8.5,No,36,Social connection,No,7,9,High
+P001347,49,Female,Unemployed,Asia,X (Twitter),4,5.7,119,6.7,No,5,Work/Study,Yes,9,10,High
+P001348,51,Female,Student,Europe,X (Twitter),2,1.4,38,7.9,No,15,Entertainment,Yes,9,9,High
+P001349,43,Male,Full-time employed,Oceania,TikTok,2,1.9,42,8.3,No,20,Social connection,No,7,6,Moderate
+P001350,16,Female,Student,Oceania,YouTube,6,10.7,178,5.4,Yes,18,News,Yes,4,3,Low
+P001351,33,Female,Full-time employed,Oceania,LinkedIn,4,6.4,106,8.1,No,59,Entertainment,No,5,8,Moderate
+P001352,38,Male,Part-time employed,Oceania,Facebook,4,4.4,86,7.6,No,50,Shopping,No,8,7,High
+P001353,60,Male,Full-time employed,Asia,Facebook,3,1.1,14,8.4,No,47,Shopping,No,8,5,Moderate
+P001354,24,Female,Student,North America,Snapchat,4,5.6,134,6.6,Yes,40,News,Yes,7,8,High
+P001355,38,Female,Full-time employed,Latin America,TikTok,4,2.8,53,8.2,No,50,News,Yes,10,10,High
+P001356,30,Non-binary,Full-time employed,Asia,TikTok,5,7.8,151,7.3,Yes,4,Social connection,No,6,8,High
+P001357,19,Male,Part-time employed,Oceania,LinkedIn,4,5.5,56,6.7,Yes,46,Social connection,Yes,7,8,High
+P001358,18,Female,Student,Latin America,Snapchat,6,9.4,197,7.1,Yes,8,Shopping,No,4,6,Moderate
+P001359,31,Male,Full-time employed,Oceania,YouTube,5,5.1,74,6.5,Yes,3,News,No,7,7,High
+P001360,17,Female,Student,Europe,LinkedIn,4,5.2,62,7.3,Yes,33,Shopping,Yes,10,7,High
+P001361,16,Female,Student,Africa,YouTube,5,6.5,166,6.9,Yes,26,Entertainment,No,8,8,High
+P001362,31,Male,Part-time employed,Asia,X (Twitter),4,0.7,33,7.5,No,83,Entertainment,Yes,9,10,High
+P001363,23,Male,Unemployed,Asia,Instagram,4,6.5,146,6.8,Yes,16,News,Yes,6,6,Moderate
+P001364,41,Female,Part-time employed,Latin America,X (Twitter),3,4.6,96,7.5,No,10,Work/Study,No,8,8,High
+P001365,13,Female,Part-time employed,Asia,TikTok,5,9.3,164,6.1,No,42,News,Yes,6,5,Moderate
+P001366,28,Male,Full-time employed,Europe,TikTok,2,2.4,34,8.1,No,3,Shopping,Yes,8,7,High
+P001367,36,Female,Full-time employed,Africa,Snapchat,3,7.7,161,6.5,Yes,4,Entertainment,No,7,9,High
+P001368,63,Male,Full-time employed,North America,TikTok,5,4.3,111,7.5,No,25,Shopping,No,7,9,High
+P001369,45,Male,Student,North America,Facebook,3,7.0,123,6.5,Yes,0,News,No,5,5,Moderate
+P001370,58,Male,Part-time employed,Europe,LinkedIn,3,3.1,117,7.7,No,21,Social connection,No,9,9,High
+P001371,30,Female,Full-time employed,Africa,LinkedIn,3,8.0,138,6.6,No,26,Work/Study,No,5,4,Moderate
+P001372,36,Male,Full-time employed,Oceania,Facebook,3,2.5,5,7.9,No,14,Work/Study,No,9,10,High
+P001373,34,Female,Unemployed,Africa,Instagram,4,7.0,74,6.2,Yes,45,Shopping,No,6,8,High
+P001374,59,Male,Self-employed,North America,YouTube,1,1.6,5,9.6,No,3,Entertainment,Yes,7,5,Moderate
+P001375,62,Female,Part-time employed,North America,X (Twitter),2,0.5,5,7.4,No,14,Work/Study,No,9,10,High
+P001376,63,Female,Unemployed,Asia,YouTube,1,0.5,5,7.9,No,24,Social connection,No,7,8,High
+P001377,52,Male,Self-employed,Asia,Snapchat,2,3.8,88,7.3,No,38,News,Yes,9,10,High
+P001378,39,Male,Part-time employed,Europe,LinkedIn,3,3.5,62,8.9,No,3,News,No,8,10,High
+P001379,41,Male,Full-time employed,North America,X (Twitter),5,5.7,127,6.5,No,59,Work/Study,No,9,10,High
+P001380,63,Male,Full-time employed,Oceania,X (Twitter),1,0.5,10,8.5,No,20,Social connection,No,10,10,High
+P001381,27,Female,Student,Oceania,Facebook,1,2.0,36,8.1,No,100,Social connection,Yes,7,8,High
+P001382,31,Female,Part-time employed,Asia,TikTok,5,8.6,137,6.5,Yes,13,News,No,3,3,Low
+P001383,59,Male,Full-time employed,Europe,X (Twitter),4,4.9,130,8.2,No,29,Work/Study,Yes,7,6,Moderate
+P001384,33,Female,Part-time employed,Asia,LinkedIn,4,3.6,18,8.4,No,50,Shopping,No,7,7,High
+P001385,25,Male,Full-time employed,Asia,X (Twitter),3,6.5,126,6.4,Yes,8,Entertainment,No,9,10,High
+P001386,42,Male,Unemployed,North America,Snapchat,4,6.8,116,7.2,No,27,News,No,7,7,High
+P001387,29,Male,Full-time employed,Oceania,LinkedIn,5,6.9,147,5.4,Yes,21,Entertainment,No,7,6,Moderate
+P001388,59,Male,Unemployed,Europe,YouTube,5,3.4,60,7.7,No,3,Work/Study,No,8,7,High
+P001389,60,Female,Part-time employed,Africa,YouTube,3,5.2,93,6.4,Yes,49,Work/Study,No,7,6,Moderate
+P001390,28,Male,Full-time employed,North America,LinkedIn,3,4.7,76,7.3,No,1,Shopping,Yes,7,6,Moderate
+P001391,40,Female,Full-time employed,Latin America,Facebook,4,5.1,133,6.4,No,51,Entertainment,Yes,8,8,High
+P001392,64,Male,Unemployed,Oceania,Snapchat,2,2.6,46,7.6,Yes,9,Work/Study,No,9,10,High
+P001393,51,Female,Full-time employed,Africa,X (Twitter),2,3.4,120,6.7,No,46,Work/Study,No,6,7,Moderate
+P001394,24,Male,Full-time employed,Africa,Instagram,4,5.8,112,7.3,No,30,Work/Study,Yes,9,8,High
+P001395,43,Male,Self-employed,North America,YouTube,5,4.8,87,6.7,No,83,Work/Study,No,7,6,Moderate
+P001396,45,Male,Full-time employed,Asia,YouTube,2,4.6,78,7.0,No,24,News,No,7,9,High
+P001397,46,Male,Full-time employed,Oceania,TikTok,4,2.3,58,8.6,No,56,Entertainment,No,5,5,Moderate
+P001398,14,Male,Student,Oceania,Snapchat,5,9.2,147,6.5,Yes,27,Shopping,Yes,6,6,Moderate
+P001399,28,Male,Unemployed,Oceania,LinkedIn,4,4.2,79,8.2,No,6,Social connection,No,8,8,High
+P001400,57,Female,Full-time employed,North America,LinkedIn,4,2.9,52,8.7,No,33,Entertainment,Yes,9,10,High
+P001401,25,Male,Full-time employed,Europe,TikTok,4,5.9,115,6.8,No,15,Work/Study,Yes,6,8,High
+P001402,28,Female,Full-time employed,Europe,Facebook,4,6.9,134,8.0,No,18,Shopping,No,6,7,Moderate
+P001403,29,Female,Full-time employed,North America,TikTok,3,1.9,46,7.1,No,9,Work/Study,No,8,8,High
+P001404,22,Female,Student,North America,Instagram,5,8.6,157,6.7,Yes,1,Social connection,Yes,6,5,Moderate
+P001405,21,Female,Part-time employed,Europe,X (Twitter),4,5.5,146,6.5,Yes,10,Shopping,Yes,8,10,High
+P001406,31,Male,Full-time employed,Oceania,LinkedIn,5,8.3,162,6.2,No,27,Shopping,No,5,6,Moderate
+P001407,58,Female,Full-time employed,Latin America,Instagram,3,2.2,117,8.3,No,5,Social connection,No,10,9,High
+P001408,13,Female,Student,Europe,X (Twitter),3,7.6,138,7.0,Yes,6,News,Yes,6,8,High
+P001409,27,Female,Full-time employed,Latin America,Instagram,5,10.1,210,6.5,Yes,50,Shopping,Yes,5,4,Moderate
+P001410,16,Male,Student,Africa,Snapchat,3,6.8,100,6.7,Yes,128,Entertainment,No,7,9,High
+P001411,42,Female,Student,Latin America,Instagram,4,7.3,173,6.6,Yes,11,Social connection,Yes,5,7,Moderate
+P001412,26,Male,Unemployed,Oceania,Facebook,3,6.5,95,7.4,No,6,News,No,7,6,Moderate
+P001413,54,Female,Self-employed,Oceania,Instagram,3,4.4,92,7.7,No,9,Entertainment,No,6,7,Moderate
+P001414,43,Male,Full-time employed,North America,YouTube,2,4.8,78,7.3,Yes,42,Entertainment,No,6,7,Moderate
+P001415,53,Male,Full-time employed,North America,Facebook,5,5.4,110,7.5,No,0,Work/Study,No,5,8,Moderate
+P001416,46,Female,Full-time employed,Europe,Facebook,2,3.0,46,8.3,No,40,Social connection,No,8,7,High
+P001417,35,Female,Full-time employed,Africa,Snapchat,2,3.5,39,6.2,Yes,31,Social connection,Yes,9,10,High
+P001418,57,Male,Full-time employed,Oceania,LinkedIn,3,2.0,27,7.9,No,2,Social connection,No,9,9,High
+P001419,37,Female,Part-time employed,Latin America,YouTube,5,5.5,145,6.5,No,76,Entertainment,Yes,8,6,High
+P001420,62,Female,Full-time employed,Europe,LinkedIn,2,2.4,57,7.5,Yes,21,Work/Study,No,10,10,High
+P001421,64,Female,Part-time employed,Latin America,YouTube,3,4.0,33,8.6,No,12,Social connection,Yes,9,9,High
+P001422,43,Female,Full-time employed,Africa,Instagram,6,7.3,164,6.7,No,8,Work/Study,No,5,4,Moderate
+P001423,48,Male,Full-time employed,Asia,X (Twitter),3,2.2,12,8.0,No,34,Shopping,Yes,8,8,High
+P001424,26,Male,Self-employed,Latin America,Snapchat,4,4.9,110,7.4,Yes,97,News,No,7,8,High
+P001425,55,Female,Unemployed,Latin America,YouTube,1,0.6,27,7.0,No,46,Shopping,No,8,8,High
+P001426,47,Male,Full-time employed,Latin America,X (Twitter),5,8.4,169,6.0,Yes,11,Entertainment,Yes,5,4,Moderate
+P001427,59,Female,Part-time employed,Latin America,Facebook,2,3.7,122,7.9,No,30,Shopping,No,9,9,High
+P001428,26,Female,Full-time employed,Oceania,TikTok,4,7.4,108,5.2,No,6,Social connection,Yes,7,7,High
+P001429,53,Female,Full-time employed,Asia,YouTube,3,1.0,36,7.5,No,91,Social connection,No,7,7,High
+P001430,37,Male,Self-employed,Latin America,YouTube,5,5.3,133,8.0,No,135,Shopping,Yes,7,8,High
+P001431,22,Female,Part-time employed,Africa,YouTube,5,7.8,121,7.5,No,20,News,No,6,6,Moderate
+P001432,21,Female,Part-time employed,Africa,LinkedIn,2,6.4,92,7.4,No,8,Work/Study,No,8,6,High
+P001433,42,Male,Full-time employed,North America,YouTube,3,7.0,117,7.1,Yes,4,Shopping,No,8,7,High
+P001434,29,Male,Full-time employed,Oceania,X (Twitter),5,10.7,202,6.0,Yes,94,News,No,8,8,High
+P001435,18,Male,Student,Europe,Instagram,3,5.3,53,7.7,No,66,Social connection,No,7,8,High
+P001436,35,Male,Full-time employed,North America,YouTube,2,3.5,79,7.5,No,86,News,No,7,9,High
+P001437,46,Female,Student,Africa,LinkedIn,2,2.6,5,7.4,Yes,0,Social connection,Yes,9,10,High
+P001438,29,Female,Part-time employed,North America,LinkedIn,7,9.3,206,5.7,Yes,16,News,No,4,4,Low
+P001439,62,Male,Full-time employed,North America,LinkedIn,4,4.9,103,8.2,No,34,Social connection,Yes,8,9,High
+P001440,53,Female,Full-time employed,Latin America,Instagram,3,3.4,118,8.1,Yes,78,Shopping,No,8,6,High
+P001441,39,Male,Part-time employed,Latin America,LinkedIn,3,5.2,113,7.7,Yes,53,News,Yes,4,5,Moderate
+P001442,61,Male,Full-time employed,Oceania,TikTok,1,1.3,14,7.8,No,8,Work/Study,No,9,8,High
+P001443,35,Male,Part-time employed,Latin America,Instagram,3,7.3,107,6.4,No,38,Work/Study,No,6,6,Moderate
+P001444,20,Female,Student,Europe,Instagram,2,6.2,118,8.0,No,18,Social connection,No,9,10,High
+P001445,14,Female,Part-time employed,Asia,Snapchat,4,7.1,126,7.3,No,65,Social connection,Yes,7,7,High
+P001446,61,Female,Full-time employed,Oceania,X (Twitter),4,4.1,109,7.8,No,8,Shopping,Yes,6,5,Moderate
+P001447,62,Female,Full-time employed,North America,X (Twitter),1,2.4,15,7.5,No,64,Entertainment,No,8,9,High
+P001448,51,Male,Full-time employed,Europe,LinkedIn,3,3.4,121,7.4,Yes,0,Social connection,No,5,4,Moderate
+P001449,18,Female,Student,Europe,Instagram,6,7.2,167,6.4,No,29,Work/Study,No,5,4,Moderate
+P001450,28,Male,Unemployed,Asia,Instagram,7,7.8,134,6.8,Yes,117,News,No,7,10,High
+P001451,15,Male,Part-time employed,Europe,LinkedIn,7,10.8,248,6.7,Yes,46,Work/Study,Yes,5,6,Moderate
+P001452,15,Female,Part-time employed,Africa,X (Twitter),5,8.7,133,7.7,No,0,Entertainment,No,7,7,High
+P001453,25,Male,Self-employed,Latin America,Snapchat,5,8.1,151,6.8,Yes,79,Social connection,No,4,3,Low
+P001454,42,Male,Full-time employed,Latin America,Facebook,5,4.4,40,6.7,No,30,News,Yes,7,7,High
+P001455,16,Male,Student,Asia,TikTok,2,6.0,163,6.8,Yes,5,Social connection,No,6,8,High
+P001456,64,Male,Full-time employed,Africa,Facebook,5,3.9,20,8.4,Yes,8,News,Yes,9,9,High
+P001457,36,Female,Self-employed,Oceania,LinkedIn,3,5.7,59,6.3,Yes,23,Shopping,Yes,8,4,Moderate
+P001458,26,Male,Full-time employed,Oceania,Instagram,2,3.6,45,7.1,Yes,9,Work/Study,Yes,9,10,High
+P001459,39,Female,Self-employed,North America,Instagram,3,4.4,118,7.9,Yes,74,Work/Study,No,10,10,High
+P001460,54,Non-binary,Unemployed,Latin America,YouTube,3,3.4,89,8.1,No,42,Entertainment,No,8,8,High
+P001461,29,Female,Self-employed,Europe,Facebook,2,5.1,95,8.9,No,83,News,Yes,10,10,High
+P001462,15,Male,Part-time employed,Oceania,X (Twitter),5,10.5,219,5.5,Yes,19,Shopping,No,3,4,Low
+P001463,15,Female,Student,Oceania,TikTok,5,8.5,149,6.2,No,33,Work/Study,No,4,5,Moderate
+P001464,57,Male,Unemployed,Europe,LinkedIn,4,6.0,120,7.5,Yes,9,Work/Study,No,8,7,High
+P001465,18,Male,Student,North America,TikTok,5,7.7,188,5.7,Yes,8,Shopping,Yes,4,2,Low
+P001466,46,Female,Self-employed,Europe,TikTok,3,4.6,75,7.4,No,11,Shopping,Yes,8,8,High
+P001467,32,Male,Unemployed,Latin America,LinkedIn,4,3.9,47,7.6,No,5,Social connection,Yes,8,10,High
+P001468,53,Female,Student,Europe,YouTube,4,3.7,80,8.3,No,5,Social connection,No,10,9,High
+P001469,16,Male,Student,Africa,X (Twitter),5,7.4,155,6.8,Yes,32,Social connection,No,6,5,Moderate
+P001470,59,Female,Part-time employed,Oceania,Facebook,2,0.5,12,8.5,No,6,Work/Study,Yes,9,10,High
+P001471,49,Female,Part-time employed,Oceania,TikTok,4,3.0,84,7.5,No,11,Social connection,No,9,8,High
+P001472,36,Non-binary,Unemployed,Europe,Facebook,4,4.8,80,8.2,No,34,Shopping,Yes,7,6,Moderate
+P001473,23,Male,Full-time employed,Asia,Snapchat,7,7.5,138,8.9,Yes,2,Shopping,Yes,6,6,Moderate
+P001474,63,Male,Unemployed,Africa,Instagram,4,3.6,76,7.6,Yes,17,Work/Study,Yes,9,9,High
+P001475,28,Female,Self-employed,Asia,LinkedIn,3,5.0,98,7.5,No,1,Entertainment,Yes,7,5,Moderate
+P001476,38,Female,Student,North America,TikTok,3,6.1,158,6.4,No,25,Work/Study,Yes,6,5,Moderate
+P001477,33,Male,Full-time employed,Oceania,LinkedIn,3,5.3,106,7.0,No,1,Social connection,Yes,7,7,High
+P001478,24,Male,Self-employed,North America,LinkedIn,2,0.9,7,8.0,No,0,News,No,10,10,High
+P001479,34,Female,Self-employed,Asia,LinkedIn,4,4.6,98,7.2,No,27,Social connection,No,7,9,High
+P001480,20,Female,Student,Oceania,X (Twitter),4,9.2,195,6.6,No,36,Entertainment,No,5,7,Moderate
+P001481,13,Female,Student,Africa,LinkedIn,4,4.3,100,8.6,No,2,Work/Study,No,6,8,High
+P001482,28,Female,Part-time employed,Europe,LinkedIn,3,6.4,136,7.9,No,39,News,No,7,8,High
+P001483,18,Male,Part-time employed,Latin America,X (Twitter),4,10.4,142,5.8,Yes,23,Work/Study,No,6,6,Moderate
+P001484,34,Male,Full-time employed,Latin America,LinkedIn,3,4.1,5,6.8,No,8,News,No,8,7,High
+P001485,57,Female,Student,Latin America,YouTube,2,3.3,97,8.5,No,13,Social connection,Yes,9,9,High
+P001486,21,Female,Student,Oceania,Snapchat,2,4.3,90,7.5,No,55,Entertainment,No,9,10,High
+P001487,13,Male,Student,Africa,LinkedIn,5,11.0,197,5.3,No,75,Social connection,Yes,5,6,Moderate
+P001488,18,Female,Student,Europe,X (Twitter),4,7.0,146,7.5,No,37,Shopping,No,8,9,High
+P001489,39,Male,Full-time employed,Oceania,Instagram,4,5.2,151,8.0,No,29,Work/Study,No,9,9,High
+P001490,27,Male,Full-time employed,Oceania,TikTok,4,9.0,204,4.7,Yes,43,News,No,7,8,High
+P001491,38,Female,Full-time employed,Asia,TikTok,4,6.5,145,6.6,No,24,Entertainment,No,6,8,High
+P001492,14,Male,Student,Europe,Facebook,4,5.8,77,6.7,Yes,10,Shopping,No,5,6,Moderate
+P001493,30,Male,Part-time employed,Latin America,Facebook,4,4.7,61,7.9,No,35,Work/Study,Yes,9,9,High
+P001494,34,Female,Full-time employed,Oceania,Snapchat,6,6.6,47,6.3,Yes,45,Entertainment,No,7,6,Moderate
+P001495,35,Male,Self-employed,Africa,TikTok,3,4.3,96,7.0,No,0,Social connection,Yes,9,8,High
+P001496,41,Male,Full-time employed,Latin America,TikTok,2,0.7,45,8.6,No,58,Entertainment,No,10,9,High
+P001497,53,Female,Unemployed,Europe,X (Twitter),3,3.6,100,6.9,Yes,63,Shopping,No,10,10,High
+P001498,37,Male,Full-time employed,Asia,Instagram,3,2.3,61,8.2,No,37,Shopping,No,9,10,High
+P001499,56,Female,Full-time employed,Oceania,LinkedIn,5,6.6,114,6.4,No,59,News,No,7,5,Moderate
